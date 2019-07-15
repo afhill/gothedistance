@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-14T17:04:45-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Go the Distance</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2019/07/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-07-14T16:56:58-04:00</published><updated>2019-07-14T16:56:58-04:00</updated><id>http://localhost:4000/jekyll/update/2019/07/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2019/07/14/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go the Distance</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://localhost:4000/gothedistance/</link>
+    <atom:link href="http://localhost:4000/gothedistance/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 14 Jul 2019 21:05:03 -0400</pubDate>
+    <lastBuildDate>Sun, 14 Jul 2019 21:05:03 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -10,4 +23,527 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 14 Jul 2019 16:56:58 -0400</pubDate>
+        <link>http://localhost:4000/gothedistance/jekyll/update/2019/07/14/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gothedistance/jekyll/update/2019/07/14/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Grandma's Marathon 2019 Race Report (Officially #50!)</title>
+        <description>&lt;p&gt;What an end to a crazy month!&lt;br /&gt;
+May 26th I ran the Ottawa marathon in the morning, and jumped on a plane in the afternoon to head to Toronto for a month. I’ve accepted a fellowship with Code for Canada that included a month of onboarding in Toronto. That wrapped up June 21st, when I jumped on ANOTHER plane to Duluth, MN to participate in Grandma’s marathon. Then it was back to Ottawa to start a new job. Sadly, a few weeks have already passed since then, but I definitely want to be sure I write up a report!&lt;/p&gt;
+
+&lt;p&gt;First off: I’ve wanted to run Grandma’s forever! At least since 2006 or so, when I was still back in Ohio. It took moving to Canada to finally commit! We registered on the opening day of registration, back in October or so. Sara registered for the half, and Andrea and a few of her Denver friends registered for the marathon (similar group as ran Marine Corps).&lt;/p&gt;
+
+&lt;p&gt;Sara and I had initially planned to fly to Minneapolis on the Thursday before the (Saturday) race, but when I accepted my new job, there was the expectation I’d be in Toronto until Friday afternoon. So, I booked a new flight direct from Toronto to Duluth Friday night, planning to arrive around 10pm. Sara kept her existing travel arrangements, including a solo two-hour drive from Minneapolis to Duluth in part because someone needed to pick up the race bibs!&lt;/p&gt;
+
+&lt;p&gt;There was some major fomo when the group texts started rolling in on Thurs/Friday from the folks in Duluth, but soon enough I was on my way. There was a slight hiccup with our crew arriving late for the Duluth flight, but they assured us we’d get there “sometime this evening”…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/Screen-Shot-2019-07-13-at-6.59.06-AM-270x300.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We did end up arriving in Duluth around our scheduled time, and I think I got into our hotel room close to 10:45. Sara had her alarm set for 3:45 for her bus to the start, but she’d laid out everything we each needed for the morning. ❤️&lt;/p&gt;
+
+&lt;p&gt;Her alarm went off early, and I got up with her. Our hotel was a pickup hotel for the buses to the start of the marathon, but &lt;em&gt;not&lt;/em&gt; the half-marathon. So we had a 2 mile drive to drop her off at her pickup hotel.&lt;/p&gt;
+
+&lt;p&gt;The logistics between the half and the marathon was really the one big drawback of this race. The half marathon started nearly 2 hours before the marathon, so they had to get up earlier. The bus pickups were at different places. And of course, Sara finished running about the time we started, so had to wait for hours for we marathoners to finish. So much of this race weekend was SO well done, this was just perplexing. &lt;/p&gt;
+
+&lt;p&gt;After I dropped Sara off, I went back to the hotel and laid down for about another 45 min. Then it was pretty nice to just walk outside to grab the bus. The hotel we stayed at, the &lt;a href=&quot;https://www.bestwestern.com/en_US/book/hotels-in-superior/best-western-bridgeview-hotel/propertyCode.50024.html&quot;&gt;Best Western Bridgeview&lt;/a&gt;, was awesome! They had early breakfast and grab n go bags. They gave us maps and snacks at checkin. It’s obvious that this race weekend is a big deal to them! &lt;/p&gt;
+
+&lt;p&gt;On the bus, I sat next to a local runner. He’d completed the race four or five times before, and pointed out the finish as we rode by. I told him I wanted to run a ‘smarter’ race than Ottawa, and I’d likely start around the four hour group and reassess at the midway point. He had a similar plan; he was going to start with the 3:50 group and see how things went. &lt;/p&gt;
+
+&lt;p&gt;The portapotty lines at the start were already huge when we arrived at the starting area. I saw Andrea briefly in a separate line, but there wasn’t really time to chat before it was time to drop our bags and line up at the start! I did stop by a medical tent set up at the start where they had sunscreen, vasoline and I think even some KT-tape. How smart! &lt;/p&gt;
+
+&lt;p&gt;I was wearing my marathon maniacs tank, my new balance shorts and my nike zoom flys. I carried a handbottle of water, in part to faciliate carrying fruit-2 and salt tabs. I had my phone in the pocket of my shorts, but didn’t even bring headphones. I never used to run with music, and sometimes I feel like it’s overly distracting; it pushes me too much out of my natural flow. &lt;/p&gt;
+
+&lt;p&gt;There weren’t official corrals, just signposts advising people about paces. It was hard to weave my way up from the back, so eventually a just stopped (I think a bit behind the 4-hr group) and decided I’d find my right pace as we went along. The weather was great; up until a few days before the race the forecast had been for heavy rain, but the skies were clear! &lt;/p&gt;
+
+&lt;p&gt;These things are always hard to write after a few weeks have passed, but I can say that this race felt good. I ran comfortable, even telling myself (and listening!) to ease up in the early miles. I wanted to be around an 8:45 pace well into the race, and then if I felt like picking it up later, great. I didn’t want to push too hard early on, because that death march is so demoralizing at the end.&lt;/p&gt;
+
+&lt;p&gt;As I said, I’ve wanted to run Grandma’s for over a decade. It’s a classic in the marathon circuit, and they did a lot of things right. Every mile they didn’t just have a small mile marker sign, they had giant chains of balloons you could see from afar. They were great motivators!&lt;/p&gt;
+
+&lt;p&gt;The day ended up a little warm, and I was careful to stay hydrated. At many water stops I’d stop and have them top up my handheld bottle. I also was careful to take salt tabs - I definitely saw a few people off to the side looking like they were cramping. &lt;/p&gt;
+
+&lt;p&gt;The course paralleled the lake, and we were offered some beautiful views as we ran. It reminded me a lot of Lake Tahoe - except I actually preferred this course. There was great crowd support; we saw some of the same folks moving along the course. In a throwback to my earlier race days, I partook of offered twizzlers and beer along the way. We’re here to have fun, right?&lt;/p&gt;
+
+&lt;p&gt;Overall I felt pretty good throughout, though I will admit it took a bit more effort near the end. For one thing, WHY IS THE BIGGEST ELEVATION CHANGE IN THE LAST THREE MILES???!?!?&lt;/p&gt;
+
+&lt;p&gt;We’d been pretty lucky wind-wise throughout (given it’s a point-to-point course, that can really make or break a race!), until we got to the final few turns right in Duluth. I made one turn and felt as though I’d run into a wall, the wind was so strong. Ugh! I’d been pretty good at chugging along, only stopping to walk briefly over one hill, but I definitely walked at the very end. &lt;/p&gt;
+
+&lt;p&gt;As I said, I didn’t have a time goal for this race. I wanted to feel good throughout. Based on my (5K) splits, I’d say I achieved that!&lt;/p&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:5312} --&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/Screen-Shot-2019-07-13-at-6.48.15-AM-1024x532.png&quot; alt=&quot;Pretty even splits throughout!&quot; /&gt; 
+&lt;!-- /wp:image --&gt;&lt;/p&gt;
+
+&lt;!-- wp:paragraph --&gt;
+
+&lt;p&gt;Yes, so that’s&lt;/p&gt;
+
+&lt;p&gt;5K: 27:14&lt;br /&gt;
+10K: 27:07&lt;br /&gt;
+15K:  27:14&lt;br /&gt;
+20K: 26:27&lt;br /&gt;
+25K: 27:07&lt;br /&gt;
+30K: 27:05&lt;br /&gt;
+35K: 27:40&lt;br /&gt;
+40K: 27:38&lt;/p&gt;
+
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+
+&lt;p&gt;In the end, I rolled in at 3:50:40, or an 8:48 pace. 15 minutes faster than the marathon I ran 4 weeks prior! I’ll take it!&lt;/p&gt;
+
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+
+&lt;p&gt;Sara and I met up at the end (she is SO GOOD at finding me after races!!), and waited around to meet up with Andrea and her friends. We chatted for a bit before we all split up to grab a snack and clean up before the evening events: we had tickets on the &lt;a href=&quot;https://duluthtrains.com/daily-excursions/#pizza&quot;&gt;Pizza Train&lt;/a&gt;! This was a great way for us to relax and chat after the race. There were about 11 of us; marathoners, half-marathoners, spouses and an 8 year old. Ya know, sitting on a scenic train for a couple hours (especially one that provides pizza and sells beer) is a pretty great idea after a race!&lt;/p&gt;
+
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {&quot;id&quot;:5317} --&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/MVIMG_20190622_183459-1024x768.jpg&quot; alt=&quot;Sara, me, and Andrea on the North Shore Scenic Railroad Pizza Train after Grandma's Marathon&quot; /&gt;&lt;/p&gt;
+
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+
+&lt;p&gt;Other than the inconvenience of the scheduling of the half- and full marathoners, this was a superbly organized race. The town really seemed to embrace it, and the course was pretty and runner-friendly. Sure, it was a bit challenging to get there from Ottawa, but I’m glad that this was my Minnesota race!&lt;/p&gt;
+
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+
+&lt;p&gt;Marathon #50&lt;br /&gt;
+State #21?&lt;/p&gt;
+
+&lt;!-- /wp:paragraph --&gt;
+</description>
+        <pubDate>Sun, 14 Jul 2019 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/gothedistance/race%20reports/2019/07/14/grandmas-marathon-2019-race-report.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gothedistance/race%20reports/2019/07/14/grandmas-marathon-2019-race-report.html</guid>
+        
+        
+        <category>Race Reports</category>
+        
+      </item>
+    
+      <item>
+        <title>Masters Running</title>
+        <description>&lt;p&gt;If you were to look at my race results since I rolled into the Masters category (age 40+, as of Aug 2017), you’d probably surmise my best running days were behind me. Well, they are.. but not by as much as you may have assumed.&lt;/p&gt;
+
+&lt;p&gt;In my marathon spreadsheet, I organize my races by finish time. The burgundy bars are different time-buckets. The green lines are races I’ve run since I turned 40. Notice how all of them are in that 4-5hr range, and they make up roughly half of all the races I’ve completed in that range over my running career.&lt;/p&gt;
+
+&lt;p&gt;[&lt;img src=&quot;/assets/images/Races_-_Google_Sheets-1024x733.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course, this is where the caveats come in. That includes the three marathons of the Tahoe Triple, pacing my Mom to a sub-five hour race, and the Boston Monsoon of 2018. But still - just looking at the list, there’s a lot of green all clumped together.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Heading into the Marine Corps marathon, I didn’t let that weigh me down. I was ready to train well, run comfortable and let my body dictate what I was capable of. &lt;a href=&quot;http://www.afhill.com/gothedistance/2018/11/marine-corps-marathon-2018-race-report/&quot;&gt;And it went great&lt;/a&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Nov 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/gothedistance/2018/11/03/Masters-Running.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gothedistance/2018/11/03/Masters-Running.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Marine Corps Marathon 2018 Race Report</title>
+        <description>&lt;p&gt;After 48 of these things, I think I’m getting the hang of them!&lt;/p&gt;
+
+&lt;p&gt;The Marine Corps Marathon was great!! It’s been on my bucket list for awhile, and when my friend Andrea from Colorado texted me to say “I got peer pressured into another marathon” I knew I had to throw my hat in the ring and see if I could get in via lottery. Spoiler: I did.&lt;/p&gt;
+
+&lt;p&gt;It had been awhile since I focused my training, so I was eager to do that this summer. I started with trying to follow a Pfitzinger plan, but I was pretty spotty on all the workouts. I’d pick and choose, but ultimately decided I wasn’t really prepared to dive into a full-on “advanced marathoning” training plan. I am really trying to be more kind to myself. I know I’m not the runner I used to be, and so I really wanted to forgive myself and recapture my love for marathoning. Ultimately I spend a lot of time and money at this hobby, so I may as well enjoy it and not get all stressed about it!&lt;/p&gt;
+
+&lt;p&gt;In all, training went pretty well. I had some super training runs - including a scheduled 15 miler that became close to an 18 miler since I felt so good and loved the route. That’s always a good sign! :-) As well as a bit of yoga and chiropractic, I felt pretty strong going into the race.&lt;/p&gt;
+
+&lt;p&gt;Sara and I arrived in DC on Thursday, and met our friend Andrea from Colorado for dinner. It was great to catch up - we miss her! The next morning we went to the race expo and picked up an amazingly tacky race shirt. Participants also received a patch, and it was really cool to see folks walking around the expo with MCM jackets and vests on, covered with patches. We wandered the area for a bit, and then headed back into the city - to visit another running shop :-) After that, we headed back to the Airbnb to relax a bit before heading over to my friend Natalie’s for dinner. Natalie is a friend from Columbus, although I’ve only seen her twice since I moved away - once in 2009 when I was playing roller derby in Baltimore, and then in 2013 when we went on a trip to Panama together. We’ve each met and married our wives since then, so it was fun to make those introductions.  It’s like we’re grown-ups now! :-)&lt;/p&gt;
+
+&lt;p&gt;On Saturday it was pouring when we got up and started sightseeing. We went to the Holocaust museum (particularly tragic when we found out that there had been an attack on a synagogue in the US on that day!), and then met with Andrea and her friends to do a hop-on, hop-off bus tour for awhile. After a late lunch we stopped by another running store, and then went our separate ways to get ready for the race.&lt;/p&gt;
+
+&lt;p&gt;We had booked an airbnb that was one stop away from the race start (for me) and two stops away from the finish. The race was set to start at 7:55, but they recommended to get there 90 min early to go through security, etc. We left our airbnb at 6:20, stopped by starbucks and were on our way! Sara had further to go for her 10K start, but they weren’t anticipating the same congestion.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;It was forecast to be in the 50s, so I wore a tank top,  New Balance shorts, a Colorado buff and my Nike Zoom flys. These shoes are the bomb! I wore a stuff bra with brix maple syrup fuel, and some xact nutrition chews. Look at me, with the Canadian fuel sources :-) I also carried my phone in my shorts pocket for after, and wore my boston marathon space blanket and arm sleeves to the start.&lt;/p&gt;
+
+&lt;p&gt;I waited for over a half hour for a portapotty at the start, and then sped through the runners village parking lot to drop off my bag and head right to the start. Because I had NO time to wait around, I took off my space blanket and armsleeves and checked them. Honestly, it was a bit of a disaster at the start, much less organized than I would have expected. I just barely made it jogging to my corral (3:30-3:59) for the start.&lt;/p&gt;
+
+&lt;p&gt;I knew that Othman from Denver was pacing the 3:45 pace group, and I was toying with running with that group, but I didn’t see the group at the start. But I was ok with that, because I really just wanted to feel good running this race. I had been reading Deena Kastor’s “Let Your Mind Run” book on the plane, and I really just wanted to feel gratitude and power through this run, rather than weighing myself down with any negative thoughts or worries. As such, I also didn’t bring my headphones.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/deena-kastor-twitter.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, HOW FREAKING COOL IS THIS? Deena Kastor wished me a good race??&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;I NEVER used to run with headphones, but over the past few years I’ve started doing it more. I wanted to return to that place of running and being connected with the event and the people around me and my own energy, rather than trying to hide behind it, or “borrow” the energy of the music to propel me forward.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Ok, ok, so the actual running.&lt;/p&gt;
+
+&lt;p&gt;Well, it’s a marathon, so do I remember a lot of it.. sorta :-)&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;I remember that there were a LOT of people for the first few miles. It was tough to get into a cadence. That was ok at the start, though, since the first few miles were uphill. It allowed me to run nice and comfortable. It was really nice to not really have a target pace, and just to run as I felt.&lt;/p&gt;
+
+&lt;p&gt;There were a lot of handcycles and disabled athletes in this race, which always makes me very emotional. I’d definitely like to find out if there is an Achilles group in Ottawa I can be part of.&lt;/p&gt;
+
+&lt;p&gt;Since I started in the 3:30-3:49 corral, I was pretty surprised to come up on the 4:15 pace group around mile 5! Overall I felt pretty good and just kept trucking along. I would glance at my watch from time to time, but I never used it to really adjust anything. I let my body dictate my pace.&lt;/p&gt;
+
+&lt;p&gt;The great thing about the Brix fluid is that it’s in a closeable container. So unlike a gel package that gets sticky and gooey, I could close this and put it back in my bra. Not sure what spectators thought, but it was convenient for me!&lt;/p&gt;
+
+&lt;p&gt;I also took in gatorade during the course, and felt pretty good throughout. They were giving out carboom at mile 13 and mile 23 (or so). I took one small amount and was instantly sorry. It was really think and sickly sweet. I’ll stick to my syrup! :-)&lt;/p&gt;
+
+&lt;p&gt;One of the best known parts of the Marine Corps Marathon is mile 12, known as “the blue mile”. You’re on a pretty isolated part of the course away from spectators, and they line the path with photographs of fallen officers. It was pretty sobering, and I was appreciative that even the runners around me stopped chatting during this time, out of respect.&lt;/p&gt;
+
+&lt;p&gt;Then right after the blue mile, we entered a section lined with American flags and excited volunteers hooting and hollering. It was really well done - it helped amp up the runners and had an ambience of hope and energy.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Speaking on spectators, this course was pretty great. Tons of folks out there cheering, and some great signs. Most notable were those that poked fun at the shirts we got -&lt;/p&gt;
+
+&lt;p&gt;“you trained five months for THAT SHIRT”?&lt;/p&gt;
+
+&lt;p&gt;(at mile 22) “You still look better than that shirt”&lt;/p&gt;
+
+&lt;p&gt;“Smile! You may be on next year’s shirt”.&lt;/p&gt;
+
+&lt;p&gt;Ha! Maybe it was on purpose - a momento that brought us together :-)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/1__Andrea_F_Hill-186x300.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Before starting the race, Sara had told me to smile wide and gesture at the photographers, which I did. It definitely reflected how I felt inside, and it was great to express it. I do so love marathons. Not to say I did it, but just because I CAN. I can get up, lace on shoes, and keep my body moving at a decent clip for HOURS. That’s pretty freaking cool.&lt;/p&gt;
+
+&lt;p&gt;The miles ticked by, and I was thrilled around mile 16 to have that feeling of “only 10 miles to go!” Unlike some races where I go out too aggressively and I feel a drain on my energy and abilities, I felt like I could run forever. I was definitely in a comfort zone.&lt;/p&gt;
+
+&lt;p&gt;One thing I found annoying, that threw me off a bit, was that we passed the start of the 10K at mile 18. So here’s the thing. 10K is 6.2 miles. The two races ended at the same place. So I was left wondering where we were going to make up the extra two miles, and why we couldn’t just run the same course as the 10Kers. For whatever reason, this really bugged me. Ah well - I guess if that’s all I have to worry about at mile 18 of a marathon, I’m going ok!&lt;/p&gt;
+
+&lt;p&gt;We ran over this huge bridge (sign leading onto the bridge - “I cannot tell a lie  - this bridge sucks!”) and then turned into Crystal City. At this point it was actually starting to get a little warm, and I was glad I was in a tank and shorts, unlike some people who were in long sleeves and tights (!!?!). In a few out-and-back pieces I’d seen the 3:45 pace group (oh yes, at some point I passed the 4 hours group), and I knew I wasn’t going to catch them. Again - I wasn’t racing to try to achieve a certain time; I really wanted to finish this race feeling good.&lt;/p&gt;
+
+&lt;p&gt;We ran through the starting area, which had been so dark three and a half hours before. I didn’t love that, but at least it was somewhat familiar. And soon enough, I could hear the announcers up ahead. I made the final left turn onto an uphill. I’d gone the entire race without stopping (except during one water stop) but I’ll tell you, that hill was dumb! But I was close to being finished so I mustered whatever I had left and headed into the finishing chute. Done! I knew I’d missed 3:45, but not by much!&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;(My official finishing time was 3:46:56)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/Marine_Corps_Marathon___Run___Strava-1024x529.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After I got my medal and the thin finishers jacket (not much more substantial than a space blanket), I turned to walk through the athletes area and there was Sara waiting for me. She’s really really great at spotting me at finish lines, for which I’m terribly grateful. I was feeling ok, just slow. We got me some water and I picked up my checked bag, where I ran into Othman. He’d brought his group in at 3:44:5x. Pretty perfect!&lt;/p&gt;
+
+&lt;p&gt;Although I had other friends running, Sara and I were both fading fast, so we decided to head back to our airbnb. I was pleasantly surprised that my feet and legs felt great, and I had really run a strong run.&lt;/p&gt;
+
+&lt;p&gt;Yes - as I said on facebook, this run felt like one from a decade ago. I ran my race, soaked in the atmosphere and let my body do what it was capable of. Looking at my splits, I ran an incredibly even paced race - my first mile was the slowest (9:15), and my fastest was at mile 19 (8:12)??&lt;/p&gt;
+
+&lt;p&gt;5K: 28:27&lt;br /&gt;
+10K: 26:36&lt;br /&gt;
+15K: 26:26&lt;br /&gt;
+20K: 25:35&lt;br /&gt;
+25K: 26:03&lt;br /&gt;
+30K: 25:47&lt;br /&gt;
+35K: 26:17&lt;br /&gt;
+40K: 26:55&lt;/p&gt;
+
+&lt;p&gt;Honestly, I’m so thrilled at how it went, but also a little surprised? I know there is so much more I could have done in terms of training, cross-training, or recovery. Yet the ole body apparently knows what to do.. maybe especially when I let my mind lead the way?&lt;/p&gt;
+
+&lt;p&gt;Although I had a breakthrough marathon when I was training with a coach 6 years ago, I really suffered with insecurities and deflated expectations afterwards. This race really made me feel like I may be over it. Part of it included adding “Masters PRs” to my blog. As of last year, my records reset. I am proud of this race, but I know I can also improve on it. And I will! Not because this wasn’t good enough, but because I know I am capable of more, and I’m eager to see what my body and mind will lead me to achieve.&lt;/p&gt;
+
+&lt;p&gt;So yeah, great race. I can’t wait til the next one! (So far I don’t have anything scheduled til May. Think I can wait that long??!?!?)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Nov 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/gothedistance/2018/11/02/Marine-Corps-Marathon.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gothedistance/2018/11/02/Marine-Corps-Marathon.html</guid>
+        
+        <category>Race Reports</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Powerful things you can do with the Markdown editor</title>
+        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+
+&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+
+&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;==highlight==&lt;/li&gt;
+  &lt;li&gt;*escaped characters*&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+
+&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
+    text-decoration: underline;
+}
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;html&quot;&gt;HTML&lt;/h4&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;li&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;ml-1 mr-1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;target=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;_blank&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;i&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fab fa-twitter&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/i&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;css&quot;&gt;CSS&lt;/h4&gt;
+
+&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#999988&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;font-style&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;italic&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.err&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#a61717&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#e3d2d2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;js&quot;&gt;JS&lt;/h4&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c1&quot;&gt;// alertbar later&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;280&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'.alertbar'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'.alertbar'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;python&quot;&gt;Python&lt;/h4&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;ruby&quot;&gt;Ruby&lt;/h4&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'redcarpet'&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;markdown&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Redcarpet&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Hello World!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;to_html&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;c&quot;&gt;C&lt;/h4&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+
+&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+
+&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+
+&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+
+&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/gothedistance/2018/06/12/powerful-things-markdown-editor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gothedistance/2018/06/12/powerful-things-markdown-editor.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The first mass-produced book to deviate from a rectilinear format</title>
+        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+
+&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+
+&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/gothedistance/jekyll/tutorial/2018/06/12/first-mass-produced.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gothedistance/jekyll/tutorial/2018/06/12/first-mass-produced.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Education must also train one for quick, resolute and effective thinking.</title>
+        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
+
+&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+
+&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+
+&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;==highlight==&lt;/li&gt;
+  &lt;li&gt;*escaped characters*&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+
+&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
+    text-decoration: underline;
+}
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+
+&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+
+&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+
+&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+
+&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/gothedistance/2018/06/12/education.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gothedistance/2018/06/12/education.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Accumulated experience of social living</title>
+        <description>&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+
+&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+
+&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+
+&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/gothedistance/jekyll/tutorial/2018/06/12/acumulated-experience.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gothedistance/jekyll/tutorial/2018/06/12/acumulated-experience.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>About Bundler</title>
+        <description>&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install bundler&lt;/code&gt; installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundler&lt;/code&gt; is a gem that manages other Ruby gems. It makes sure your gems and gem versions are compatible, and that you have all necessary dependencies each gem requires.&lt;/p&gt;
+
+&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; files inform &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; about the gem requirements in your site. If your site doesn’t have these Gemfiles, you can omit &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec&lt;/code&gt; and just &lt;code class=&quot;highlighter-rouge&quot;&gt;run jekyll serve&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;When you run &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; uses the gems and versions as specified in &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; to ensure your Jekyll site builds with no compatibility or dependency conflicts.&lt;/p&gt;
+
+&lt;p&gt;For more information about how to use &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 May 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/gothedistance/jekyll/2018/05/12/about-bundler.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gothedistance/jekyll/2018/05/12/about-bundler.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>We all wait for summer</title>
+        <description>&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
+
+&lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Jan 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/gothedistance/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gothedistance/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+  </channel>
+</rss>
