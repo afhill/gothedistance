@@ -4,14 +4,14 @@ title: 'Tahoe Triple Race Report &#8211; Bucket List Item Complete!'
 date: 2017-10-20T08:07:53-06:00
 author: Andrea Hill
 layout: post
+featured: true
 guid: http://www.afhill.com/gothedistance/?p=5215
 permalink: /2017/10/tahoe-triple-race-report-bucket-list-item-complete/
 image: /wp-content/uploads/2017/10/IMG_20171015_104931-EFFECTS.jpg
 categories: [ Race Reports ]
 tags:
   - featured
- featured: true
----
+ ---
 
 The first mention I can find on this blog of the Tahoe Triple was from [December 2005](http://www.afhill.com/gothedistance/2005/12/team-run-wild/). **2005!**
 
