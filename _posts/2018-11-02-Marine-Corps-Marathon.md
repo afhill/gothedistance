@@ -31,7 +31,7 @@ I knew that Othman from Denver was pacing the 3:45 pace group, and I was toying 
 
 &nbsp;
 
-![]({{ site.baseurl }}/assets/images/deena-kastor-twitter.png)
+<!--![]({{ site.baseurl }}/assets/images/deena-kastor-twitter.png) -->
 
 Also, HOW FREAKING COOL IS THIS? Deena Kastor wished me a good race??
 
