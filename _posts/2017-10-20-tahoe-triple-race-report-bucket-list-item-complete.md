@@ -7,11 +7,12 @@ layout: post
 guid: http://www.afhill.com/gothedistance/?p=5215
 permalink: /2017/10/tahoe-triple-race-report-bucket-list-item-complete/
 image: /wp-content/uploads/2017/10/IMG_20171015_104931-EFFECTS.jpg
-categories:
-  - Race Reports
+categories: [ Race Reports ]
 tags:
   - featured
+ featured: true
 ---
+
 The first mention I can find on this blog of the Tahoe Triple was from [December 2005](http://www.afhill.com/gothedistance/2005/12/team-run-wild/). **2005!**
 
 I turned 40 this year, and determined that whole &#8220;I&#8217;m not getting any younger &#8221; thing was true. So in February I signed up for this extreme race: **[3 marathons over 3 days around Lake Tahoe](http://www.laketahoemarathon.com/triple)**.
