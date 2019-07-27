@@ -1,0 +1,32 @@
+{
+	"folders":
+	[
+		{
+			"path": "_posts"
+		},
+		{
+			"path": "_site"
+		},
+		{
+			"path": "_layouts"
+		},
+		{
+			"path": "_includes"
+		},
+		{
+			"path": "_sass"
+		},
+		{
+			"path": "assets"
+		},
+		{
+			"path": "bin"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "posts"
+		}
+	]
+}

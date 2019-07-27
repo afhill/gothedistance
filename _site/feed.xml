@@ -1,177 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Go the Distance</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4000/gothedistance/</link>
-    <atom:link href="http://localhost:4000/gothedistance/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Jul 2019 21:05:03 -0400</pubDate>
-    <lastBuildDate>Sun, 14 Jul 2019 21:05:03 -0400</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 14 Jul 2019 16:56:58 -0400</pubDate>
-        <link>http://localhost:4000/gothedistance/jekyll/update/2019/07/14/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/gothedistance/jekyll/update/2019/07/14/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Grandma's Marathon 2019 Race Report (Officially #50!)</title>
-        <description>&lt;p&gt;What an end to a crazy month!&lt;br /&gt;
-May 26th I ran the Ottawa marathon in the morning, and jumped on a plane in the afternoon to head to Toronto for a month. I’ve accepted a fellowship with Code for Canada that included a month of onboarding in Toronto. That wrapped up June 21st, when I jumped on ANOTHER plane to Duluth, MN to participate in Grandma’s marathon. Then it was back to Ottawa to start a new job. Sadly, a few weeks have already passed since then, but I definitely want to be sure I write up a report!&lt;/p&gt;
-
-&lt;p&gt;First off: I’ve wanted to run Grandma’s forever! At least since 2006 or so, when I was still back in Ohio. It took moving to Canada to finally commit! We registered on the opening day of registration, back in October or so. Sara registered for the half, and Andrea and a few of her Denver friends registered for the marathon (similar group as ran Marine Corps).&lt;/p&gt;
-
-&lt;p&gt;Sara and I had initially planned to fly to Minneapolis on the Thursday before the (Saturday) race, but when I accepted my new job, there was the expectation I’d be in Toronto until Friday afternoon. So, I booked a new flight direct from Toronto to Duluth Friday night, planning to arrive around 10pm. Sara kept her existing travel arrangements, including a solo two-hour drive from Minneapolis to Duluth in part because someone needed to pick up the race bibs!&lt;/p&gt;
-
-&lt;p&gt;There was some major fomo when the group texts started rolling in on Thurs/Friday from the folks in Duluth, but soon enough I was on my way. There was a slight hiccup with our crew arriving late for the Duluth flight, but they assured us we’d get there “sometime this evening”…&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/Screen-Shot-2019-07-13-at-6.59.06-AM-270x300.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We did end up arriving in Duluth around our scheduled time, and I think I got into our hotel room close to 10:45. Sara had her alarm set for 3:45 for her bus to the start, but she’d laid out everything we each needed for the morning. ❤️&lt;/p&gt;
-
-&lt;p&gt;Her alarm went off early, and I got up with her. Our hotel was a pickup hotel for the buses to the start of the marathon, but &lt;em&gt;not&lt;/em&gt; the half-marathon. So we had a 2 mile drive to drop her off at her pickup hotel.&lt;/p&gt;
-
-&lt;p&gt;The logistics between the half and the marathon was really the one big drawback of this race. The half marathon started nearly 2 hours before the marathon, so they had to get up earlier. The bus pickups were at different places. And of course, Sara finished running about the time we started, so had to wait for hours for we marathoners to finish. So much of this race weekend was SO well done, this was just perplexing. &lt;/p&gt;
-
-&lt;p&gt;After I dropped Sara off, I went back to the hotel and laid down for about another 45 min. Then it was pretty nice to just walk outside to grab the bus. The hotel we stayed at, the &lt;a href=&quot;https://www.bestwestern.com/en_US/book/hotels-in-superior/best-western-bridgeview-hotel/propertyCode.50024.html&quot;&gt;Best Western Bridgeview&lt;/a&gt;, was awesome! They had early breakfast and grab n go bags. They gave us maps and snacks at checkin. It’s obvious that this race weekend is a big deal to them! &lt;/p&gt;
-
-&lt;p&gt;On the bus, I sat next to a local runner. He’d completed the race four or five times before, and pointed out the finish as we rode by. I told him I wanted to run a ‘smarter’ race than Ottawa, and I’d likely start around the four hour group and reassess at the midway point. He had a similar plan; he was going to start with the 3:50 group and see how things went. &lt;/p&gt;
-
-&lt;p&gt;The portapotty lines at the start were already huge when we arrived at the starting area. I saw Andrea briefly in a separate line, but there wasn’t really time to chat before it was time to drop our bags and line up at the start! I did stop by a medical tent set up at the start where they had sunscreen, vasoline and I think even some KT-tape. How smart! &lt;/p&gt;
-
-&lt;p&gt;I was wearing my marathon maniacs tank, my new balance shorts and my nike zoom flys. I carried a handbottle of water, in part to faciliate carrying fruit-2 and salt tabs. I had my phone in the pocket of my shorts, but didn’t even bring headphones. I never used to run with music, and sometimes I feel like it’s overly distracting; it pushes me too much out of my natural flow. &lt;/p&gt;
-
-&lt;p&gt;There weren’t official corrals, just signposts advising people about paces. It was hard to weave my way up from the back, so eventually a just stopped (I think a bit behind the 4-hr group) and decided I’d find my right pace as we went along. The weather was great; up until a few days before the race the forecast had been for heavy rain, but the skies were clear! &lt;/p&gt;
-
-&lt;p&gt;These things are always hard to write after a few weeks have passed, but I can say that this race felt good. I ran comfortable, even telling myself (and listening!) to ease up in the early miles. I wanted to be around an 8:45 pace well into the race, and then if I felt like picking it up later, great. I didn’t want to push too hard early on, because that death march is so demoralizing at the end.&lt;/p&gt;
-
-&lt;p&gt;As I said, I’ve wanted to run Grandma’s for over a decade. It’s a classic in the marathon circuit, and they did a lot of things right. Every mile they didn’t just have a small mile marker sign, they had giant chains of balloons you could see from afar. They were great motivators!&lt;/p&gt;
-
-&lt;p&gt;The day ended up a little warm, and I was careful to stay hydrated. At many water stops I’d stop and have them top up my handheld bottle. I also was careful to take salt tabs - I definitely saw a few people off to the side looking like they were cramping. &lt;/p&gt;
-
-&lt;p&gt;The course paralleled the lake, and we were offered some beautiful views as we ran. It reminded me a lot of Lake Tahoe - except I actually preferred this course. There was great crowd support; we saw some of the same folks moving along the course. In a throwback to my earlier race days, I partook of offered twizzlers and beer along the way. We’re here to have fun, right?&lt;/p&gt;
-
-&lt;p&gt;Overall I felt pretty good throughout, though I will admit it took a bit more effort near the end. For one thing, WHY IS THE BIGGEST ELEVATION CHANGE IN THE LAST THREE MILES???!?!?&lt;/p&gt;
-
-&lt;p&gt;We’d been pretty lucky wind-wise throughout (given it’s a point-to-point course, that can really make or break a race!), until we got to the final few turns right in Duluth. I made one turn and felt as though I’d run into a wall, the wind was so strong. Ugh! I’d been pretty good at chugging along, only stopping to walk briefly over one hill, but I definitely walked at the very end. &lt;/p&gt;
-
-&lt;p&gt;As I said, I didn’t have a time goal for this race. I wanted to feel good throughout. Based on my (5K) splits, I’d say I achieved that!&lt;/p&gt;
-
-&lt;!-- wp:image {&quot;id&quot;:5312} --&gt;
-
-&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/Screen-Shot-2019-07-13-at-6.48.15-AM-1024x532.png&quot; alt=&quot;Pretty even splits throughout!&quot; /&gt; 
-&lt;!-- /wp:image --&gt;&lt;/p&gt;
-
-&lt;!-- wp:paragraph --&gt;
-
-&lt;p&gt;Yes, so that’s&lt;/p&gt;
-
-&lt;p&gt;5K: 27:14&lt;br /&gt;
-10K: 27:07&lt;br /&gt;
-15K:  27:14&lt;br /&gt;
-20K: 26:27&lt;br /&gt;
-25K: 27:07&lt;br /&gt;
-30K: 27:05&lt;br /&gt;
-35K: 27:40&lt;br /&gt;
-40K: 27:38&lt;/p&gt;
-
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-
-&lt;p&gt;In the end, I rolled in at 3:50:40, or an 8:48 pace. 15 minutes faster than the marathon I ran 4 weeks prior! I’ll take it!&lt;/p&gt;
-
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-
-&lt;p&gt;Sara and I met up at the end (she is SO GOOD at finding me after races!!), and waited around to meet up with Andrea and her friends. We chatted for a bit before we all split up to grab a snack and clean up before the evening events: we had tickets on the &lt;a href=&quot;https://duluthtrains.com/daily-excursions/#pizza&quot;&gt;Pizza Train&lt;/a&gt;! This was a great way for us to relax and chat after the race. There were about 11 of us; marathoners, half-marathoners, spouses and an 8 year old. Ya know, sitting on a scenic train for a couple hours (especially one that provides pizza and sells beer) is a pretty great idea after a race!&lt;/p&gt;
-
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:image {&quot;id&quot;:5317} --&gt;
-
-&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/MVIMG_20190622_183459-1024x768.jpg&quot; alt=&quot;Sara, me, and Andrea on the North Shore Scenic Railroad Pizza Train after Grandma's Marathon&quot; /&gt;&lt;/p&gt;
-
-&lt;!-- /wp:image --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-
-&lt;p&gt;Other than the inconvenience of the scheduling of the half- and full marathoners, this was a superbly organized race. The town really seemed to embrace it, and the course was pretty and runner-friendly. Sure, it was a bit challenging to get there from Ottawa, but I’m glad that this was my Minnesota race!&lt;/p&gt;
-
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-
-&lt;p&gt;Marathon #50&lt;br /&gt;
-State #21?&lt;/p&gt;
-
-&lt;!-- /wp:paragraph --&gt;
-</description>
-        <pubDate>Sun, 14 Jul 2019 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/gothedistance/race%20reports/2019/07/14/grandmas-marathon-2019-race-report.html</link>
-        <guid isPermaLink="true">http://localhost:4000/gothedistance/race%20reports/2019/07/14/grandmas-marathon-2019-race-report.html</guid>
-        
-        
-        <category>Race Reports</category>
-        
-      </item>
-    
-      <item>
-        <title>Masters Running</title>
-        <description>&lt;p&gt;If you were to look at my race results since I rolled into the Masters category (age 40+, as of Aug 2017), you’d probably surmise my best running days were behind me. Well, they are.. but not by as much as you may have assumed.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/gothedistance/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/gothedistance/" rel="alternate" type="text/html" /><updated>2019-07-27T17:30:08-04:00</updated><id>http://localhost:4000/gothedistance/feed.xml</id><title type="html">Go the Distance</title><subtitle>A Running and Training Blog by Andrea Hill</subtitle><author><name>Andrea Hill</name></author><entry><title type="html">Masters Running</title><link href="http://localhost:4000/gothedistance/2018/11/masters-running/" rel="alternate" type="text/html" title="Masters Running" /><published>2018-11-03T08:23:15-04:00</published><updated>2018-11-03T08:23:15-04:00</updated><id>http://localhost:4000/gothedistance/2018/11/masters-running</id><content type="html" xml:base="http://localhost:4000/gothedistance/2018/11/masters-running/">&lt;p&gt;If you were to look at my race results since I rolled into the Masters category (age 40+, as of Aug 2017), you’d probably surmise my best running days were behind me. Well, they are.. but not by as much as you may have assumed.&lt;/p&gt;
 
 &lt;p&gt;In my marathon spreadsheet, I organize my races by finish time. The burgundy bars are different time-buckets. The green lines are races I’ve run since I turned 40. Notice how all of them are in that 4-5hr range, and they make up roughly half of all the races I’ve completed in that range over my running career.&lt;/p&gt;
 
-&lt;p&gt;[&lt;img src=&quot;/assets/images/Races_-_Google_Sheets-1024x733.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Races_-_Google_Sheets.png&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-5298&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Races_-_Google_Sheets-1024x733.png&quot; alt=&quot;&quot; width=&quot;860&quot; height=&quot;616&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Races_-_Google_Sheets-1024x733.png 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Races_-_Google_Sheets-300x215.png 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Races_-_Google_Sheets-768x550.png 768w&quot; sizes=&quot;(max-width: 860px) 100vw, 860px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Of course, this is where the caveats come in. That includes the three marathons of the Tahoe Triple, pacing my Mom to a sub-five hour race, and the Boston Monsoon of 2018. But still - just looking at the list, there’s a lot of green all clumped together.&lt;/p&gt;
+&lt;p&gt;Of course, this is where the caveats come in. That includes the three marathons of the Tahoe Triple, pacing my Mom to a sub-five hour race, and the Boston Monsoon of 2018. But still – just looking at the list, there’s a lot of green all clumped together.&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;Heading into the Marine Corps marathon, I didn’t let that weigh me down. I was ready to train well, run comfortable and let my body dictate what I was capable of. &lt;a href=&quot;http://www.afhill.com/gothedistance/2018/11/marine-corps-marathon-2018-race-report/&quot;&gt;And it went great&lt;/a&gt;!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 03 Nov 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/gothedistance/2018/11/03/Masters-Running.html</link>
-        <guid isPermaLink="true">http://localhost:4000/gothedistance/2018/11/03/Masters-Running.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Marine Corps Marathon 2018 Race Report</title>
-        <description>&lt;p&gt;After 48 of these things, I think I’m getting the hang of them!&lt;/p&gt;
+&lt;p&gt;Heading into the Marine Corps marathon, I didn’t let that weigh me down. I was ready to train well, run comfortable and let my body dictate what I was capable of. &lt;a href=&quot;http://www.afhill.com/gothedistance/2018/11/marine-corps-marathon-2018-race-report/&quot;&gt;And it went great&lt;/a&gt;!&lt;/p&gt;</content><author><name>Andrea Hill</name></author><summary type="html">If you were to look at my race results since I rolled into the Masters category (age 40+, as of Aug 2017), you’d probably surmise my best running days were behind me. Well, they are.. but not by as much as you may have assumed.</summary></entry><entry><title type="html">Marine Corps Marathon 2018: Race Report</title><link href="http://localhost:4000/gothedistance/2018/11/marine-corps-marathon-2018-race-report/" rel="alternate" type="text/html" title="Marine Corps Marathon 2018: Race Report" /><published>2018-11-02T20:57:25-04:00</published><updated>2018-11-02T20:57:25-04:00</updated><id>http://localhost:4000/gothedistance/2018/11/marine-corps-marathon-2018-race-report</id><content type="html" xml:base="http://localhost:4000/gothedistance/2018/11/marine-corps-marathon-2018-race-report/">&lt;p&gt;After 48 of these things, I think I’m getting the hang of them!&lt;/p&gt;
 
 &lt;p&gt;The Marine Corps Marathon was great!! It’s been on my bucket list for awhile, and when my friend Andrea from Colorado texted me to say “I got peer pressured into another marathon” I knew I had to throw my hat in the ring and see if I could get in via lottery. Spoiler: I did.&lt;/p&gt;
 
 &lt;p&gt;It had been awhile since I focused my training, so I was eager to do that this summer. I started with trying to follow a Pfitzinger plan, but I was pretty spotty on all the workouts. I’d pick and choose, but ultimately decided I wasn’t really prepared to dive into a full-on “advanced marathoning” training plan. I am really trying to be more kind to myself. I know I’m not the runner I used to be, and so I really wanted to forgive myself and recapture my love for marathoning. Ultimately I spend a lot of time and money at this hobby, so I may as well enjoy it and not get all stressed about it!&lt;/p&gt;
 
-&lt;p&gt;In all, training went pretty well. I had some super training runs - including a scheduled 15 miler that became close to an 18 miler since I felt so good and loved the route. That’s always a good sign! :-) As well as a bit of yoga and chiropractic, I felt pretty strong going into the race.&lt;/p&gt;
+&lt;p&gt;In all, training went pretty well. I had some super training runs – including a scheduled 15 miler that became close to an 18 miler since I felt so good and loved the route. That’s always a good sign! 🙂 As well as a bit of yoga and chiropractic, I felt pretty strong going into the race.&lt;/p&gt;
 
-&lt;p&gt;Sara and I arrived in DC on Thursday, and met our friend Andrea from Colorado for dinner. It was great to catch up - we miss her! The next morning we went to the race expo and picked up an amazingly tacky race shirt. Participants also received a patch, and it was really cool to see folks walking around the expo with MCM jackets and vests on, covered with patches. We wandered the area for a bit, and then headed back into the city - to visit another running shop :-) After that, we headed back to the Airbnb to relax a bit before heading over to my friend Natalie’s for dinner. Natalie is a friend from Columbus, although I’ve only seen her twice since I moved away - once in 2009 when I was playing roller derby in Baltimore, and then in 2013 when we went on a trip to Panama together. We’ve each met and married our wives since then, so it was fun to make those introductions.  It’s like we’re grown-ups now! :-)&lt;/p&gt;
+&lt;p&gt;Sara and I arrived in DC on Thursday, and met our friend Andrea from Colorado for dinner. It was great to catch up – we miss her! The next morning we went to the race expo and picked up an amazingly tacky race shirt. Participants also received a patch, and it was really cool to see folks walking around the expo with MCM jackets and vests on, covered with patches. We wandered the area for a bit, and then headed back into the city – to visit another running shop 🙂 After that, we headed back to the Airbnb to relax a bit before heading over to my friend Natalie’s for dinner. Natalie is a friend from Columbus, although I’ve only seen her twice since I moved away – once in 2009 when I was playing roller derby in Baltimore, and then in 2013 when we went on a trip to Panama together. We’ve each met and married our wives since then, so it was fun to make those introductions.  It’s like we’re grown-ups now! 🙂&lt;/p&gt;
 
 &lt;p&gt;On Saturday it was pouring when we got up and started sightseeing. We went to the Holocaust museum (particularly tragic when we found out that there had been an attack on a synagogue in the US on that day!), and then met with Andrea and her friends to do a hop-on, hop-off bus tour for awhile. After a late lunch we stopped by another running store, and then went our separate ways to get ready for the race.&lt;/p&gt;
 
@@ -179,7 +24,7 @@ State #21?&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;It was forecast to be in the 50s, so I wore a tank top,  New Balance shorts, a Colorado buff and my Nike Zoom flys. These shoes are the bomb! I wore a stuff bra with brix maple syrup fuel, and some xact nutrition chews. Look at me, with the Canadian fuel sources :-) I also carried my phone in my shorts pocket for after, and wore my boston marathon space blanket and arm sleeves to the start.&lt;/p&gt;
+&lt;p&gt;It was forecast to be in the 50s, so I wore a tank top,  New Balance shorts, a Colorado buff and my Nike Zoom flys. These shoes are the bomb! I wore a stuff bra with brix maple syrup fuel, and some xact nutrition chews. Look at me, with the Canadian fuel sources 🙂 I also carried my phone in my shorts pocket for after, and wore my boston marathon space blanket and arm sleeves to the start.&lt;/p&gt;
 
 &lt;p&gt;I waited for over a half hour for a portapotty at the start, and then sped through the runners village parking lot to drop off my bag and head right to the start. Because I had NO time to wait around, I took off my space blanket and armsleeves and checked them. Honestly, it was a bit of a disaster at the start, much less organized than I would have expected. I just barely made it jogging to my corral (3:30-3:59) for the start.&lt;/p&gt;
 
@@ -187,7 +32,7 @@ State #21?&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/deena-kastor-twitter.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__.png&quot;&gt;&lt;img class=&quot;alignleft wp-image-5299 size-large&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__-829x1024.png&quot; alt=&quot;&quot; width=&quot;829&quot; height=&quot;1024&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__-829x1024.png 829w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__-243x300.png 243w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__-768x948.png 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__.png 1006w&quot; sizes=&quot;(max-width: 829px) 100vw, 829px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Also, HOW FREAKING COOL IS THIS? Deena Kastor wished me a good race??&lt;/p&gt;
 
@@ -199,7 +44,7 @@ State #21?&lt;/p&gt;
 
 &lt;p&gt;Ok, ok, so the actual running.&lt;/p&gt;
 
-&lt;p&gt;Well, it’s a marathon, so do I remember a lot of it.. sorta :-)&lt;/p&gt;
+&lt;p&gt;Well, it’s a marathon, so do I remember a lot of it.. sorta 🙂&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
@@ -209,17 +54,21 @@ State #21?&lt;/p&gt;
 
 &lt;p&gt;Since I started in the 3:30-3:49 corral, I was pretty surprised to come up on the 4:15 pace group around mile 5! Overall I felt pretty good and just kept trucking along. I would glance at my watch from time to time, but I never used it to really adjust anything. I let my body dictate my pace.&lt;/p&gt;
 
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;alignright&quot; src=&quot;https://en.brixalerable.ca/attachments/Image/thumbnail_2doses_3.jpg?template=generic&quot; alt=&quot;&quot; width=&quot;147&quot; height=&quot;181&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;The great thing about the Brix fluid is that it’s in a closeable container. So unlike a gel package that gets sticky and gooey, I could close this and put it back in my bra. Not sure what spectators thought, but it was convenient for me!&lt;/p&gt;
 
-&lt;p&gt;I also took in gatorade during the course, and felt pretty good throughout. They were giving out carboom at mile 13 and mile 23 (or so). I took one small amount and was instantly sorry. It was really think and sickly sweet. I’ll stick to my syrup! :-)&lt;/p&gt;
+&lt;p&gt;I also took in gatorade during the course, and felt pretty good throughout. They were giving out carboom at mile 13 and mile 23 (or so). I took one small amount and was instantly sorry. It was really think and sickly sweet. I’ll stick to my syrup! 🙂&lt;/p&gt;
 
 &lt;p&gt;One of the best known parts of the Marine Corps Marathon is mile 12, known as “the blue mile”. You’re on a pretty isolated part of the course away from spectators, and they line the path with photographs of fallen officers. It was pretty sobering, and I was appreciative that even the runners around me stopped chatting during this time, out of respect.&lt;/p&gt;
 
-&lt;p&gt;Then right after the blue mile, we entered a section lined with American flags and excited volunteers hooting and hollering. It was really well done - it helped amp up the runners and had an ambience of hope and energy.&lt;/p&gt;
+&lt;p&gt;Then right after the blue mile, we entered a section lined with American flags and excited volunteers hooting and hollering. It was really well done – it helped amp up the runners and had an ambience of hope and energy.&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;Speaking on spectators, this course was pretty great. Tons of folks out there cheering, and some great signs. Most notable were those that poked fun at the shirts we got -&lt;/p&gt;
+&lt;p&gt;Speaking on spectators, this course was pretty great. Tons of folks out there cheering, and some great signs. Most notable were those that poked fun at the shirts we got –&lt;/p&gt;
 
 &lt;p&gt;“you trained five months for THAT SHIRT”?&lt;/p&gt;
 
@@ -227,31 +76,27 @@ State #21?&lt;/p&gt;
 
 &lt;p&gt;“Smile! You may be on next year’s shirt”.&lt;/p&gt;
 
-&lt;p&gt;Ha! Maybe it was on purpose - a momento that brought us together :-)&lt;/p&gt;
+&lt;p&gt;Ha! Maybe it was on purpose – a momento that brought us together 🙂&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/1__Andrea_F_Hill-186x300.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Before starting the race, Sara had told me to smile wide and gesture at the photographers, which I did. It definitely reflected how I felt inside, and it was great to express it. I do so love marathons. Not to say I did it, but just because I CAN. I can get up, lace on shoes, and keep my body moving at a decent clip for HOURS. That’s pretty freaking cool.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/1__Andrea_F_Hill.png&quot;&gt;&lt;img class=&quot;alignleft wp-image-5301 size-medium&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/1__Andrea_F_Hill-186x300.png&quot; alt=&quot;&quot; width=&quot;186&quot; height=&quot;300&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/1__Andrea_F_Hill-186x300.png 186w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/1__Andrea_F_Hill.png 622w&quot; sizes=&quot;(max-width: 186px) 100vw, 186px&quot; /&gt;&lt;/a&gt;Before starting the race, Sara had told me to smile wide and gesture at the photographers, which I did. It definitely reflected how I felt inside, and it was great to express it. I do so love marathons. Not to say I did it, but just because I CAN. I can get up, lace on shoes, and keep my body moving at a decent clip for HOURS. That’s pretty freaking cool.&lt;/p&gt;
 
 &lt;p&gt;The miles ticked by, and I was thrilled around mile 16 to have that feeling of “only 10 miles to go!” Unlike some races where I go out too aggressively and I feel a drain on my energy and abilities, I felt like I could run forever. I was definitely in a comfort zone.&lt;/p&gt;
 
-&lt;p&gt;One thing I found annoying, that threw me off a bit, was that we passed the start of the 10K at mile 18. So here’s the thing. 10K is 6.2 miles. The two races ended at the same place. So I was left wondering where we were going to make up the extra two miles, and why we couldn’t just run the same course as the 10Kers. For whatever reason, this really bugged me. Ah well - I guess if that’s all I have to worry about at mile 18 of a marathon, I’m going ok!&lt;/p&gt;
+&lt;p&gt;One thing I found annoying, that threw me off a bit, was that we passed the start of the 10K at mile 18. So here’s the thing. 10K is 6.2 miles. The two races ended at the same place. So I was left wondering where we were going to make up the extra two miles, and why we couldn’t just run the same course as the 10Kers. For whatever reason, this really bugged me. Ah well – I guess if that’s all I have to worry about at mile 18 of a marathon, I’m going ok!&lt;/p&gt;
 
-&lt;p&gt;We ran over this huge bridge (sign leading onto the bridge - “I cannot tell a lie  - this bridge sucks!”) and then turned into Crystal City. At this point it was actually starting to get a little warm, and I was glad I was in a tank and shorts, unlike some people who were in long sleeves and tights (!!?!). In a few out-and-back pieces I’d seen the 3:45 pace group (oh yes, at some point I passed the 4 hours group), and I knew I wasn’t going to catch them. Again - I wasn’t racing to try to achieve a certain time; I really wanted to finish this race feeling good.&lt;/p&gt;
+&lt;p&gt;We ran over this huge bridge (sign leading onto the bridge – “I cannot tell a lie  – this bridge sucks!”) and then turned into Crystal City. At this point it was actually starting to get a little warm, and I was glad I was in a tank and shorts, unlike some people who were in long sleeves and tights (!!?!). In a few out-and-back pieces I’d seen the 3:45 pace group (oh yes, at some point I passed the 4 hours group), and I knew I wasn’t going to catch them. Again – I wasn’t racing to try to achieve a certain time; I really wanted to finish this race feeling good.&lt;/p&gt;
 
 &lt;p&gt;We ran through the starting area, which had been so dark three and a half hours before. I didn’t love that, but at least it was somewhat familiar. And soon enough, I could hear the announcers up ahead. I made the final left turn onto an uphill. I’d gone the entire race without stopping (except during one water stop) but I’ll tell you, that hill was dumb! But I was close to being finished so I mustered whatever I had left and headed into the finishing chute. Done! I knew I’d missed 3:45, but not by much!&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;(My official finishing time was 3:46:56)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/Marine_Corps_Marathon___Run___Strava-1024x529.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;(My official finishing time was 3:46:56)&lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Marine_Corps_Marathon___Run___Strava.png&quot;&gt;&lt;img class=&quot;aligncenter wp-image-5300 size-large&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Marine_Corps_Marathon___Run___Strava-1024x529.png&quot; alt=&quot;&quot; width=&quot;860&quot; height=&quot;444&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Marine_Corps_Marathon___Run___Strava-1024x529.png 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Marine_Corps_Marathon___Run___Strava-300x155.png 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Marine_Corps_Marathon___Run___Strava-768x397.png 768w&quot; sizes=&quot;(max-width: 860px) 100vw, 860px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;After I got my medal and the thin finishers jacket (not much more substantial than a space blanket), I turned to walk through the athletes area and there was Sara waiting for me. She’s really really great at spotting me at finish lines, for which I’m terribly grateful. I was feeling ok, just slow. We got me some water and I picked up my checked bag, where I ran into Othman. He’d brought his group in at 3:44:5x. Pretty perfect!&lt;/p&gt;
 
 &lt;p&gt;Although I had other friends running, Sara and I were both fading fast, so we decided to head back to our airbnb. I was pleasantly surprised that my feet and legs felt great, and I had really run a strong run.&lt;/p&gt;
 
-&lt;p&gt;Yes - as I said on facebook, this run felt like one from a decade ago. I ran my race, soaked in the atmosphere and let my body do what it was capable of. Looking at my splits, I ran an incredibly even paced race - my first mile was the slowest (9:15), and my fastest was at mile 19 (8:12)??&lt;/p&gt;
+&lt;p&gt;Yes – as I said on facebook, this run felt like one from a decade ago. I ran my race, soaked in the atmosphere and let my body do what it was capable of. Looking at my splits, I ran an incredibly even paced race – my first mile was the slowest (9:15), and my fastest was at mile 19 (8:12)??&lt;/p&gt;
 
 &lt;p&gt;5K: 28:27&lt;br /&gt;
 10K: 26:36&lt;br /&gt;
@@ -266,284 +111,451 @@ State #21?&lt;/p&gt;
 
 &lt;p&gt;Although I had a breakthrough marathon when I was training with a coach 6 years ago, I really suffered with insecurities and deflated expectations afterwards. This race really made me feel like I may be over it. Part of it included adding “Masters PRs” to my blog. As of last year, my records reset. I am proud of this race, but I know I can also improve on it. And I will! Not because this wasn’t good enough, but because I know I am capable of more, and I’m eager to see what my body and mind will lead me to achieve.&lt;/p&gt;
 
+&lt;p&gt; &lt;/p&gt;
+
 &lt;p&gt;So yeah, great race. I can’t wait til the next one! (So far I don’t have anything scheduled til May. Think I can wait that long??!?!?)&lt;/p&gt;
-</description>
-        <pubDate>Fri, 02 Nov 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/gothedistance/2018/11/02/Marine-Corps-Marathon.html</link>
-        <guid isPermaLink="true">http://localhost:4000/gothedistance/2018/11/02/Marine-Corps-Marathon.html</guid>
-        
-        <category>Race Reports</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Powerful things you can do with the Markdown editor</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
 
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;h4 id=&quot;html&quot;&gt;HTML&lt;/h4&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;li&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;ml-1 mr-1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;target=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;_blank&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;i&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fab fa-twitter&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/i&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;</content><author><name>Andrea Hill</name></author><summary type="html">After 48 of these things, I think I’m getting the hang of them!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/gothedistance/wp-content/uploads/2018/11/1__Andrea_F_Hill.png" /></entry><entry><title type="html">Wow, number 50 is around the corner!</title><link href="http://localhost:4000/gothedistance/2018/10/wow-number-50-is-around-the-corner/" rel="alternate" type="text/html" title="Wow, number 50 is around the corner!" /><published>2018-10-21T19:50:41-04:00</published><updated>2018-10-21T19:50:41-04:00</updated><id>http://localhost:4000/gothedistance/2018/10/wow-number-50-is-around-the-corner</id><content type="html" xml:base="http://localhost:4000/gothedistance/2018/10/wow-number-50-is-around-the-corner/">&lt;p&gt;Next weekend is the Marine Corps Marathon, which will be my 50th Marathon+!  Why the ‘+’? Well, I’ve done two 50Ks and I include them in that count. Two races from now, I may drop the ‘+’ and celebrate again, we’ll see!&lt;/p&gt;
 
-&lt;h4 id=&quot;css&quot;&gt;CSS&lt;/h4&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#999988&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-style&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;italic&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.err&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#a61717&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#e3d2d2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Leading up to this one, I’ve gone back and forth on goal-setting, and finally came to the conclusion that I need to stop worrying about it. Back when I lived in Ohio, I ran a lot of marathons, and I loved it. I just went out and did it, and did well.&lt;/p&gt;
 
-&lt;h4 id=&quot;js&quot;&gt;JS&lt;/h4&gt;
+&lt;p&gt;It was really once I joined a training group in Colorado that I started not enjoying running as much. Interestingly, I joined them in November after a strong self-coached half marathon, ran a huge PR in January and then kinda fizzled out after that. I tried to switch to focus on ‘speed at the half distance’, suffered an injury and haven’t been the same since.&lt;/p&gt;
 
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c1&quot;&gt;// alertbar later&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;280&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'.alertbar'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'.alertbar'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Unfortunately, I haven’t approached races accepting that.. which makes for kinda a tough time.&lt;/p&gt;
 
-&lt;h4 id=&quot;python&quot;&gt;Python&lt;/h4&gt;
+&lt;p&gt;When I ran Houston in 2012, my coach had advised me to go out at a &lt;a href=&quot;http://www.afhill.com/gothedistance/2012/01/houston-marathon-plan/&quot;&gt;faster pace than I thought possible&lt;/a&gt;. His recommendation was to ‘start with the 3:10 group and gauge how I’m feeling, how I can always see how I feel and if it’s not my day, I can relax and let the 3:20 group catch me. His sense is that if I try to go with the 3:20 group and then pick it up near the end (what I was planning), that I will be dodging a lot of folks at the end and wondering if I could have done better.”&lt;/p&gt;
 
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Sure enough, I ran a 20 min PR and amazed everyone except maybe that coach. I’ve tried that technique since then (go out and see how I feel), but it really hasn’t been what I’d consider a success. Maybe b/c at that race I was definitely open to the idea of doing the slower pace, whereas since then its b/c I wanted/expected to keep up with that faster pace.&lt;/p&gt;
 
-&lt;h4 id=&quot;ruby&quot;&gt;Ruby&lt;/h4&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'redcarpet'&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;markdown&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Redcarpet&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Hello World!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;to_html&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;c&quot;&gt;C&lt;/h4&gt;
-
-&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
-
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
-
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/gothedistance/2018/06/12/powerful-things-markdown-editor.html</link>
-        <guid isPermaLink="true">http://localhost:4000/gothedistance/2018/06/12/powerful-things-markdown-editor.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The first mass-produced book to deviate from a rectilinear format</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/gothedistance/jekyll/tutorial/2018/06/12/first-mass-produced.html</link>
-        <guid isPermaLink="true">http://localhost:4000/gothedistance/jekyll/tutorial/2018/06/12/first-mass-produced.html</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Education must also train one for quick, resolute and effective thinking.</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
-
-&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
-
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
-
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;p&gt;The result has been a lot of positive splits:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
+  &lt;li&gt;NYCM (Nov 2014): 1:46 / 3:38&lt;/li&gt;
+  &lt;li&gt;Eugene (May 2016) 1:42 / 3:37&lt;/li&gt;
+  &lt;li&gt;Maui (Jan 2017): 1:49 / 3:47&lt;/li&gt;
+  &lt;li&gt;Harmon Lake Trail marathon (June 2017): 1:57 / 4:07&lt;/li&gt;
+  &lt;li&gt;Boston (April 2018): 2:03 / 4:19&lt;/li&gt;
+  &lt;li&gt;Ottawa Race Weekend Half (May): :53 /  1:49&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;p&gt;Except from the &lt;a href=&quot;http://www.afhill.com/gothedistance/2016/05/eugene-marathon-race-report/&quot;&gt;Eugene race report&lt;/a&gt;: “I wonder if I should have been more conservative: could I have done a whole 26.2 miles at an 8mm rather than 18 miles at 7:48, 2 at 8:15 and then 5 at 9:30. ”&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Now, just looking at those in order like that may also seem like I’m just plain ole getting slower, but I omitted Jack and Jill from that list b/c it didn’t have a negative split 🙂 The fact is, for Eugene, Maui and the Ottawa half, I started out at a pace I just wasn’t able to sustain.&lt;/p&gt;
 
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+&lt;p&gt;So… why?? I used to just run, and love it. I’d love the feeling of comradery, and accomplishment. I am never, ever going to run anywhere near 3:09 anymore, and I actually don’t care to qualify for Boston again, so why does it even matter?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/gothedistance/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;I feel like I just need to go out and enjoy it. Honestly, a lot of my runs lately I pick it up over time, so I think I just need to go out more conservatively and see how it goes, and enjoy it more. Because that’s why I do this… because I love running 26.2 miles at a time.&lt;/p&gt;
 
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+&lt;p&gt;Now, I say that.. but Marine Corps is next Sunday, and I’ve already seen that a guy I know from Denver is one of the pace leaders for the 3:45 pace group…. Should I? Gah, I’m such a hypocrite! 😛&lt;/p&gt;
 
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;</content><author><name>admin</name></author><summary type="html">Next weekend is the Marine Corps Marathon, which will be my 50th Marathon+!  Why the ‘+’? Well, I’ve done two 50Ks and I include them in that count. Two races from now, I may drop the ‘+’ and celebrate again, we’ll see!</summary></entry><entry><title type="html">Boston Marathon 2018 Race Report</title><link href="http://localhost:4000/gothedistance/2018/04/boston-marathon-2018-race-report/" rel="alternate" type="text/html" title="Boston Marathon 2018 Race Report" /><published>2018-04-22T07:01:50-04:00</published><updated>2018-04-22T07:01:50-04:00</updated><id>http://localhost:4000/gothedistance/2018/04/boston-marathon-2018-race-report</id><content type="html" xml:base="http://localhost:4000/gothedistance/2018/04/boston-marathon-2018-race-report/">&lt;p&gt;Hard to believe it’s been nearly a decade since I last ran the Boston marathon. But last year when Meredith mentioned that the race date fell on her 40th birthday, it seemed as good a reason as ever to make the pilgrimmage back to this marathoner’s mecca.&lt;/p&gt;
 
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+&lt;p&gt;I qualified at the &lt;a href=&quot;http://www.afhill.com/gothedistance/2017/08/jack-and-jill-downhill-marathon-2017-race-report/&quot;&gt;Jack and Jill race&lt;/a&gt; last July, with a nice big buffer for my age group (the joy of aging up?!?).&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/gothedistance/2018/06/12/education.html</link>
-        <guid isPermaLink="true">http://localhost:4000/gothedistance/2018/06/12/education.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Accumulated experience of social living</title>
-        <description>&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+&lt;p&gt;Training for Boston was … negligible. The &lt;a href=&quot;http://www.afhill.com/gothedistance/2017/10/tahoe-triple-race-report-bucket-list-item-complete/&quot;&gt;Tahoe Triple&lt;/a&gt; took a lot out of me last October, and then my training never really got back on track as Sara and I made plans and moved up to Canada in early 2018. I’ve struggled with a lot of knee pain, specifically, and there was a TON of snow up here when we got here! Sure, I managed a nice &lt;a href=&quot;http://www.afhill.com/gothedistance/2018/02/mesa-phx-marathon-2018-race-report/&quot;&gt;26.2 long run&lt;/a&gt; with my Mom in AZ in February, but apart from that I don’t think I’d run over 12 miles since October!&lt;/p&gt;
 
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+&lt;p&gt;Thankfully, a few weeks ago I started to go to a chiropractor here and it has seriously changed my life!  My posture is better and he has even done some work to correct my weird inward-facing left foot, as well as work on the popliteus muscle behind my knees. Knee pain is gone!&lt;/p&gt;
 
-&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+&lt;p&gt;Still, if I can do three marathons in three days at altitude in Tahoe, I knew I could do Boston. Plus, as Meredith reminded me via text, this is a bonus marathon. The hard part is getting there, and then you have nothing to prove.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/gothedistance/jekyll/tutorial/2018/06/12/acumulated-experience.html</link>
-        <guid isPermaLink="true">http://localhost:4000/gothedistance/jekyll/tutorial/2018/06/12/acumulated-experience.html</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>About Bundler</title>
-        <description>&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install bundler&lt;/code&gt; installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:&lt;/p&gt;
+&lt;p&gt;This sentiment was even more appreciated as the weather forecast came up: 20-30mph winds and rain. Yuck! I declared on facebook that I was expecting that to slow me down a good 15 minutes.&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundler&lt;/code&gt; is a gem that manages other Ruby gems. It makes sure your gems and gem versions are compatible, and that you have all necessary dependencies each gem requires.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Andrea_F_Hill.png&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-5261&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Andrea_F_Hill-1024x552.png&quot; alt=&quot;&quot; width=&quot;620&quot; height=&quot;334&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Andrea_F_Hill-1024x552.png 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Andrea_F_Hill-300x162.png 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Andrea_F_Hill-768x414.png 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Andrea_F_Hill.png 1028w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; files inform &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; about the gem requirements in your site. If your site doesn’t have these Gemfiles, you can omit &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec&lt;/code&gt; and just &lt;code class=&quot;highlighter-rouge&quot;&gt;run jekyll serve&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;When you run &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; uses the gems and versions as specified in &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; to ensure your Jekyll site builds with no compatibility or dependency conflicts.&lt;/p&gt;
+&lt;p&gt;Still, it was Boston, which is always special! Sara and I flew down Friday (there are direct flights from Ottawa! Amazing!), and went for a nice run through Cambridge on Saturday. I hadn’t realized we couldn’t check gear backs in Hopkinton, so we bought some throwaway clothes at Goodwill. I bought a ridiculous pajama nightgown thing I figured would keep me warm before we started running. We enjoyed a relaxing day before meeting Meredith, Dave and Anderson at the expo. We then all grabbed dinner together. It was fun to catch up (the last time we saw each other was after the Pikes Peak Ascent a few years ago).&lt;/p&gt;
 
-&lt;p&gt;For more information about how to use &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 May 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/gothedistance/jekyll/2018/05/12/about-bundler.html</link>
-        <guid isPermaLink="true">http://localhost:4000/gothedistance/jekyll/2018/05/12/about-bundler.html</guid>
-        
-        
-        <category>Jekyll</category>
-        
-      </item>
-    
-      <item>
-        <title>We all wait for summer</title>
-        <description>&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
+&lt;div id=&quot;attachment_5264&quot; style=&quot;width: 630px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
+  &lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Photo_-_Google_Photos.png&quot;&gt;&lt;img aria-describedby=&quot;caption-attachment-5264&quot; class=&quot;size-large wp-image-5264&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Photo_-_Google_Photos-828x1024.png&quot; alt=&quot;Yes, I ran a marathon in this!&quot; width=&quot;620&quot; height=&quot;767&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Photo_-_Google_Photos-828x1024.png 828w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Photo_-_Google_Photos-243x300.png 243w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Photo_-_Google_Photos-768x950.png 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Photo_-_Google_Photos.png 964w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; /&gt;&lt;/a&gt;
+  
+  &lt;p id=&quot;caption-attachment-5264&quot; class=&quot;wp-caption-text&quot;&gt;
+    Yes, I ran a marathon in this!
+  &lt;/p&gt;
+&lt;/div&gt;
 
-&lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/gothedistance/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</link>
-        <guid isPermaLink="true">http://localhost:4000/gothedistance/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;One thing I’d seen at the Expo were magnets for holding your bib in place without pins, and I decided that would be good for the race so I didn’t make holes in my &lt;a href=&quot;https://ultimatedirection.com/womens-ultra-jacket-v2/&quot;&gt;AMAZING ULTIMATE DIRECTION ULTRA JACKET&lt;/a&gt; . I have worn this thing almost every run since we moved to Canada, since it’s wind- and water-proof. So Sunday morning we ran back to the expo (1.5 miles) so I could pick it up, and I also ended up getting a &lt;a href=&quot;http://theroosport.com/&quot;&gt;RooSport pouch&lt;/a&gt; to carry my phone. I used to have a flipbelt, but hate how it always rode up.  We bought a box of Honey Stinger waffles too before remembering we had to run back home carrying all this stuff. 🙂&lt;/p&gt;
+
+&lt;p&gt;The last big trip was to the Nike store. I’ve read a ton about the shoes they developed for the Breaking2 initiative and wanted to see the models they’ve released for the public. I tried on the  &lt;a href=&quot;https://www.runningshoesguru.com/2017/12/nike-zoom-fly-review/&quot;&gt;Zoom Fly&lt;/a&gt; and was pleasantly surprised at how good they felt. They did feel like they were offering forward momentum, like a Newton except without the lugs. Funny to think that I bought my first pair of Newtons the last time I ran Boston, way back in 2009.. but suffice to say, I have a pair of Zoom Fly waiting to be taken out on their maiden voyage now 🙂&lt;/p&gt;
+
+&lt;p&gt;Ok, race day. The bus system is SO much better than it used to be: Meredith and I were in the third wave, which meant we were to take the bus to Hopkinton between 8-8:45. We’d leave the Athletes’ village at 10:05 for a 10:50 start, so there weren’t hours and hours to wait in Hopkinton. Good thing because there was torrential rain, and you couldn’t check a gear back from Hopkinton. Meredith had been prepared and brought throw-away shoes, socks, pants and a sweatshirt. I definitely didn’t…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/BeforetheRace.png&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-5265&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/BeforetheRace-1024x759.png&quot; alt=&quot;&quot; width=&quot;620&quot; height=&quot;460&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/BeforetheRace-1024x759.png 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/BeforetheRace-300x222.png 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/BeforetheRace-768x569.png 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/BeforetheRace.png 1484w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Our airbnb was about 1.5 miles from the bus loading zone, so Sara and I jogged there. I had on my injinji compression toesocks, hokas, capris, a long-sleeved shirt, my fleece nightgown, a buff and my UD jacket. I’d bought some gardening gloves at 7-11 the day before but they were soaked by the time we met the Gordons to get on the bus!&lt;/p&gt;
+
+&lt;p&gt;The bus ride itself was uneventful, but it gave Meredith and I some good catching-up time. Hard to believe we’ve known each other for over 13 years!&lt;/p&gt;
+
+&lt;p&gt;Athlete’s Village was basically a mudpit. Ugh. I had thought I’d take off the fleece nightgown to run, but there was really no good way to do tha without getting wet under my jacket. So, I decided to just run in it! I fiddled with my phone, headphones and RooSport a bit before the race – definitely didn’t need to be trying to figure all this out on race day, which it was raining (we were huddled under a giant tent, but it was still wet and cold).&lt;/p&gt;
+
+&lt;h2 id=&quot;onto-the-race&quot;&gt;Onto the Race!&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Boston_Marathon___Run___Strava.png&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-5263&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Boston_Marathon___Run___Strava-1024x545.png&quot; alt=&quot;&quot; width=&quot;620&quot; height=&quot;330&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Boston_Marathon___Run___Strava-1024x545.png 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Boston_Marathon___Run___Strava-300x160.png 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Boston_Marathon___Run___Strava-768x409.png 768w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;First few miles of Boston are downhill, and of course you’re caught up in the energy of the crowd. I had qualified with a 3:29 but knew there was no way I was going to run anywhere near that for this race. Still, my first mile ticked by with an 8:45.&lt;/p&gt;
+
+&lt;p&gt;I hadn’t thought about how my headphones were going to work with my fleece nightgown, so in the second mile my headphones came loose. I was trying to fix them and re-arrange my phone, when I dropped my credit card. Then I took my phone out and tried to put it in the inside pocket of my jacket.. and it fell out completely! Apparently my inside pocket isn’t a pocket??!?!? I kept going awkwardly until I realized I no longer had my credit card. Crap! I turned back to look for it (thankfully I’d been on the edge of the course and could turn and go backwards without being too distracting to the sea of runners behind me).  One runner asked if I was looking for a credit card, and directed me backwards to a specific spot. Thank goodness! Anyway, that was the third mile. Ooof.&lt;/p&gt;
+
+&lt;p&gt;M1: 8:45&lt;br /&gt;
+M2: 9:44&lt;br /&gt;
+M3: 10:34&lt;br /&gt;
+M4: 8:38&lt;br /&gt;
+M5: 9:10&lt;br /&gt;
+M6: 8:53&lt;br /&gt;
+M7: 8:58&lt;/p&gt;
+
+&lt;p&gt;After the credit card-phone mishap, I was pleasantly surprised how the next 5K went. I knew that I shouldn’t expect to keep up sub-9 min miles for the whole race – I didn’t necessarily have the endurance, and those darned Newton Hills – but it was doable.&lt;/p&gt;
+
+&lt;p&gt;Once upon a time, I used to tell myself that everything should feel completely effortless until mile 8.  In this race, this may have been when the rain and wind picked up. But I’ll admit to a point where I was thinking that I didn’t need to be out here. I have nothing to prove. Thankfully, knowing Sara was out there in the rain, and she’d be excited to be there for me while I ran (and finished…) the Boston marathon kept me going. It’s not that I couldn’t do it.. I just wasn’t particularly enjoying it. I definitely flirted with the idea of calling and Uber 😛&lt;/p&gt;
+
+&lt;p&gt;M8: 9:41&lt;br /&gt;
+M9: 9:13&lt;br /&gt;
+M10: 9:45&lt;br /&gt;
+M11: 9:19&lt;br /&gt;
+M12: 9:37&lt;br /&gt;
+M13: 9:26 – given the conditions and the credit card mishap, I was pretty ok with a half time of 2:04!&lt;br /&gt;
+M14: 9:57&lt;/p&gt;
+
+&lt;div id=&quot;attachment_5267&quot; style=&quot;width: 245px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
+  &lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/0006_jpg__387×583_.png&quot;&gt;&lt;img aria-describedby=&quot;caption-attachment-5267&quot; class=&quot;size-medium wp-image-5267&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/0006_jpg__387×583_-235x300.png&quot; alt=&quot;&quot; width=&quot;235&quot; height=&quot;300&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/0006_jpg__387×583_-235x300.png 235w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/0006_jpg__387×583_.png 616w&quot; sizes=&quot;(max-width: 235px) 100vw, 235px&quot; /&gt;&lt;/a&gt;
+  
+  &lt;p id=&quot;caption-attachment-5267&quot; class=&quot;wp-caption-text&quot;&gt;
+    How ridiculous is this???
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;So whether or not it was a great choice, I had been listening to an audiobook about the Golden State Killer. Yeah… now that I reflect on it, definitely not the most uplifting thing to read about while running in poor weather… but all of a sudden during mile 15, the audiobook stopped. Huh? I saw a portapotty up ahead (with no line!) and jumped in.  My phone had turned off. I turned it back on. Battery at 1%. Well crap! I had planned on using this phone to meet up with Sara at the end! Ah well. Couldn’t worry about that now. I took out my headphones and got back on the course.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;I apparently also stopped my watch at this time. [Amateur]. But that just meant I didn’t have anything to try to do mental math off of. Which was ok with me!&lt;/p&gt;
+
+&lt;p&gt;M15: 14:52&lt;br /&gt;
+M16: 9:45&lt;/p&gt;
+
+&lt;p&gt;Then came the Newton Hills. They actually didn’t seem too bad, perhaps since I’d been running relatively conservatively for the first part of the race.&lt;/p&gt;
+
+&lt;p&gt;M17: 10:16&lt;br /&gt;
+M18: 10:03&lt;br /&gt;
+M19: 10:58&lt;/p&gt;
+
+&lt;p&gt;Are they done? I can’t never remember where the hills end, and this year the inflatable wall wasn’t on the top of the last hill.&lt;/p&gt;
+
+&lt;p&gt;M20: 10:04&lt;br /&gt;
+M21: 10:41 – did a quick reset of my watch to get it back onto the mile markers&lt;/p&gt;
+
+&lt;p&gt;Ok, by mile 21 I know they’re done. Sweet! Only 5 more downhill miles til the finish! And my quads are definitely not trashed like they’ve been in past years… though looking at my pace, it wasn’t like I picked it up a ton. I just didn’t feel like I was on a death march..&lt;/p&gt;
+
+&lt;p&gt;M22: 9:50&lt;/p&gt;
+
+&lt;p&gt;At this point I ran past some spectators holding a sign that said “Women’s Winner: Desi”. I stopped and turned back to ask them “Are you serious???” They said yes, and that gave me a huge grin and somewhat of a spring in my step as I continued.&lt;/p&gt;
+
+&lt;p&gt;M23: 10:10&lt;br /&gt;
+M24: 10:10&lt;br /&gt;
+M25: 10:03&lt;br /&gt;
+M26: 9:54&lt;/p&gt;
+
+&lt;p&gt;Where did the last .2 go? No idea.. right after the portapotty, I guess??&lt;/p&gt;
+
+&lt;p&gt;Overall official time: 4:19:08, for an average pace of 9:53.&lt;/p&gt;
+
+&lt;p&gt;It felt great to run down Boylston. I was amazed at how many spectators there were during this weather! I crossed the line, and wandered through the chute. I felt ok, though of course it got cold once I had slowed to a walk. Grabbed a food bag and made my way to the exit. I was trying to figure out how best to meet Sara. I had thought I’d try to turn my phone on and text her to come find me, but before I could do that, she ran up. She’d seen me in the final stretch and tracked me though the chute. Thank goodness!! I was so grateful for her tenacity!&lt;/p&gt;
+
+&lt;p&gt;We grabbed the train back to our airbnb where I had a fantastic hot shower and marvelled at the fact that I didn’t seem to be chafed anywhere (that came later). Not my best, but not my worst. The time was within my expected window of 4:15 – 4:30 given the conditions, and that’s without the credit card and dying-phone mishaps!&lt;/p&gt;
+
+&lt;p&gt;So of course, I’m already chomping at the bit wondering how I’d do if I actually got back to training! I have the Marine Corps Marathon this fall (Yes!! I got in!!!), but I sorta doubt I’ll be able to wait that long. 🙂&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</content><author><name>Andrea Hill</name></author><summary type="html">Hard to believe it’s been nearly a decade since I last ran the Boston marathon. But last year when Meredith mentioned that the race date fell on her 40th birthday, it seemed as good a reason as ever to make the pilgrimmage back to this marathoner’s mecca.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/gothedistance/wp-content/uploads/2018/04/BeforetheRace.png" /></entry><entry><title type="html">Mesa-Phx Marathon 2018 Race Report</title><link href="http://localhost:4000/gothedistance/2018/02/mesa-phx-marathon-2018-race-report/" rel="alternate" type="text/html" title="Mesa-Phx Marathon 2018 Race Report" /><published>2018-02-28T18:12:16-05:00</published><updated>2018-02-28T18:12:16-05:00</updated><id>http://localhost:4000/gothedistance/2018/02/mesa-phx-marathon-2018-race-report</id><content type="html" xml:base="http://localhost:4000/gothedistance/2018/02/mesa-phx-marathon-2018-race-report/">&lt;p&gt;When she turned 60 in 2009, my Mom decided to run her first marathon. She finished in &lt;a href=&quot;http://www.afhill.com/gothedistance/2009/12/california-international-marathon-race-report/&quot;&gt;5:03:39&lt;/a&gt;, just slightly slower than her 4:59:59 goal. Although completing a marathon at all is a huge accomplishment, she had her sights on covering the distance at a certain pace.&lt;/p&gt;
+
+&lt;p&gt;After having to run NYCM alone (I broke my leg when we were scheduled to run it together in 2013), &lt;a href=&quot;http://www.afhill.com/gothedistance/2015/10/chicago-marathon-2015-race-report/&quot;&gt;cramping in Chicago 2015&lt;/a&gt; and DNSing Mesa-Phx in 2017, my Mom and I were focused on achieving her goal at the Mesa-Phx Marathon in 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spoiler: we did it! In plenty of time; she ran a 4:58:25! And I’m so grateful I was able to run with her and help her meet her goal!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/photo.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-5257&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/photo.jpg&quot; alt=&quot;&quot; width=&quot;640&quot; height=&quot;960&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/photo.jpg 640w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/photo-200x300.jpg 200w&quot; sizes=&quot;(max-width: 640px) 100vw, 640px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When Mom said she was going to try to break-5 at Mesa-Phx, I immediately told her I’d love to run with her, and she was thrilled. When Sara and I decided to move from Denver to Ottawa in early Feb she told me it was ok if it wasn’t feasible, but I didn’t want to miss the chance to share this experience with her. So Thursday afternoon I started my 8+ hrs of travel to visit.&lt;/p&gt;
+
+&lt;p&gt;This year my parents spent 3 months in AZ (in the past they’ve spent 5) and I hadn’t had a chance to visit them. It was fun to spend that time together and get a bit of sun. On Friday we drove the course and attended the expo. My Mom seemed calm and confident, which was great. This year she incorporated yoga into her recovery routine and it seemed to be going great for her. We knew she was strong when she set a 10K PR a few weeks ago, and this was known to be a fast course. Just check out that profile!&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/course_elevation_thumb.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-5248&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/course_elevation_thumb.jpg&quot; alt=&quot;&quot; width=&quot;630&quot; height=&quot;214&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/course_elevation_thumb.jpg 630w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/course_elevation_thumb-300x102.jpg 300w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;For dinner the night before the race we had brown rice, teriyaki veggies and black beans. It was good and hearty.&lt;/p&gt;
+
+&lt;p&gt;In the morning we had to get up at 3 because the last bus to the start line was at 4:45. We’d bought warm-up clothes at Goodwill and were nice and comfortable traveling to the start. The bus drivers stayed at the start line until the beginning of the race, which was wonderful. There were heat lamps and bonfires, but except for a portapotty break we stayed on the bus until just a few moments before the start.&lt;/p&gt;
+
+&lt;p&gt;It was slightly cool, so I started the race with a hooded sweatshirt over my tank top, shorts and injinji compression socks. I wore the pack bra and carried honeystinger bites and huma gels. I also carried water: in my mind it was for Mom, but I definitely ended up using it myself.&lt;/p&gt;
+
+&lt;p&gt;Writing these reports is as much for me as for anyone else (probably moreso). I had reviewed my reports from the CIM and Chicago, and saw the pacing strategy we’d used in Chicago. I decided we should follow it here. This strategy has you go slightly faster than race pace for the first half, anticipating slowing down the last 10K. This was also a perfect strategy for this race, which has a more aggressive downhill at the beginning of the race.&lt;/p&gt;
+
+&lt;p&gt;For the first few miles, I kept saying to my Mom that we were going too fast! We were often running around a 10:40 pace. My pacing strategy said to go 11mm for the first 13.1 miles. I was conflicted; did we want to slow ourselves down or take advantage of the course profile? Ultimately I told my Mom to let me know: if she felt she was pushing AT ALL, we would slow. But otherwise, we’d let the course pull us and dictate the pace.&lt;/p&gt;
+
+&lt;p&gt;M1: 10:24&lt;br /&gt;
+M2: 10:19&lt;br /&gt;
+M3: 10:51&lt;br /&gt;
+M4: 10:19 (wayy too fast!)&lt;br /&gt;
+M5: 11:19&lt;br /&gt;
+M6: 12:08&lt;br /&gt;
+M7: 10:20&lt;br /&gt;
+M8: 10:48&lt;br /&gt;
+M9:10:34&lt;br /&gt;
+M10: 10:29&lt;br /&gt;
+M11: 10:41&lt;br /&gt;
+M12: 10:37&lt;br /&gt;
+M13: 13:39&lt;/p&gt;
+
+&lt;p&gt;There weren’t a ton of portapotties on the course, which normally wouldn’t matter, but today it did. I felt like I had to go to the bathroom for several miles, but I told Mom I wasn’t willing to wait in a line. Every moment counts when you have a time goal! Eventually my Mom said she had to stop, and thankfully we were coming up to the halfway point and there were tons of portapotties. She jumped right in! We still lost a couple minutes, but it was ok since we’d banked a couple.&lt;/p&gt;
+
+&lt;p&gt;The pacing strategy from Chicago said that you should be between 2:19 and 2:27 at the half, with 2:24 being about perfect.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We crossed the halfway point at 2:24:00!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So, the second stage of pacing kicked off. The plan said it was ok to run 11:25 at this point, but I figured there was no need to force ourselves to slow down if we felt ok. Mom did say she was starting to get a bit tired, so I let her slow down a bit (but not below 11:25 if I could help it!)&lt;/p&gt;
+
+&lt;p&gt;M14: 10:30&lt;br /&gt;
+M15: 10:54&lt;br /&gt;
+M16: 11:42&lt;br /&gt;
+M17: 11:16&lt;br /&gt;
+M18: 11:33&lt;br /&gt;
+M19: 11:27&lt;br /&gt;
+M20: 11:25&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;I had noticed that Mom was pretty happy to walk the water stops, and I tried to encourage her not to waste too much time and walk pretty briskly. I gave her a choice: if we walked water stops, we had to run faster between them. If we kept jogging, we could have a more steady state run.&lt;/p&gt;
+
+&lt;p&gt;The water stops were right after mile markers, which meant a new mile would reset, we’d start off with a pace around a 14mm and then manage to bring it back up to about 11:30 before the mile elapsed and a new water stop would crop up. Although earlier on she walked them, she was great at skipping them if they weren’t needed later in the game. I think we both knew that it’s pretty hard to get started running again after walking!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mile 20: 3:42:01 – Pace 11:07&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I was pleasantly surprised when we got to the 20 mile mark. Only 10K to go, and it was ok for us to slow our pace more. Mom was definitely tired, but she was great at listening to my *ahem* direction. Every once in awhile she’d want to slow to a walk and I’d tell her “no! We can jog slower, but we’re NOT walking!”, and she’d pick it up again. She was an easy person to guide.&lt;/p&gt;
+
+&lt;p&gt;I was just giddy. Although our pace slowed these last few miles, I knew we were going to be ok to meet our goal. I kept the mental math going: we could slow to over 13mm and still meet our goal. And were going just slower than 12mm! I wasn’t letting my Mom check her watch (checking your watch is the worst thing to do when you’re tired), but I was thrilled we were keeping the pace pretty steady. We passed quite a few people walking. Sure, Mom wasn’t feeling very energetic, but she was still running and making good time.&lt;/p&gt;
+
+&lt;p&gt;Then there we were in the last mile, watching for the finish. We saw my Dad on the sidelines, where he excitedly shouted “you’re going to do it!” A minute or so later, the 5 hour pacer came by us. We chatted a bit. She was running based on clock time, and told us it was 4:57 on clock time. She encouraged us to come with her, but Mom was pretty beat and we knew we’d finish sub-5 on chip time. As we neared the finish line, the announcer called out my Mom, and then asked how many marathons she’d run. It was very cool (and a sign of a smallish race) when you can have a convo with the announcer as you run in. Such a great accomplishment!&lt;/p&gt;
+
+&lt;p&gt;M21: 11:51&lt;br /&gt;
+M22: 11:56&lt;br /&gt;
+M23: 12:19&lt;br /&gt;
+M24: 12:31&lt;br /&gt;
+M25: 12:56&lt;br /&gt;
+M26: 12:23&lt;br /&gt;
+.2: 12:01 pace&lt;/p&gt;
+
+&lt;p&gt;(last 10K: 12:20 pace)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/timingresults.jpg&quot;&gt;&lt;img class=&quot;size-medium wp-image-5254 alignright&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/timingresults-225x300.jpg&quot; alt=&quot;&quot; width=&quot;225&quot; height=&quot;300&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/timingresults-225x300.jpg 225w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/timingresults-768x1024.jpg 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/timingresults.jpg 1536w&quot; sizes=&quot;(max-width: 225px) 100vw, 225px&quot; /&gt;&lt;/a&gt;When we finished Chicago in 2015, I had felt like I had to hold onto Mom the last mile or so, I was afraid she was going to pitch forward. Not this time! She was definitely stronger and it was so exciting! We crossed the line, and she immediately lurched towards the medical chairs next to the finish. She sat down while a volunteer brought us some water. She’d given her all, and beat her goal! Her time was &lt;strong&gt;4:58:25, a 3 min PR and her first sub-5 marathon.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;It was so exciting to be there with her, as she repeated “I did it. I did it” a few times. She’d beaten a goal she’d set 8 years prior, and we all know how much of a difference age can make when it comes to fitness and athleticism.&lt;/p&gt;
+
+&lt;div id=&quot;attachment_5253&quot; style=&quot;width: 630px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
+  &lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/PRbell.jpg&quot;&gt;&lt;img aria-describedby=&quot;caption-attachment-5253&quot; class=&quot;wp-image-5253 size-large&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/PRbell-1024x869.jpg&quot; alt=&quot;&quot; width=&quot;620&quot; height=&quot;526&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/PRbell-1024x869.jpg 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/PRbell-300x255.jpg 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/PRbell-768x652.jpg 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/PRbell.jpg 1499w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; /&gt;&lt;/a&gt;
+  
+  &lt;p id=&quot;caption-attachment-5253&quot; class=&quot;wp-caption-text&quot;&gt;
+    Ringing the PR Bell!
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We walked through the finisher’s area and her friend Shirley was there to congratulate her. How nice! We enjoyed some post-run food and met up with my Dad. My legs were pretty tight (my left hip and my knees had bothered me in the race), but Mom seemed overall ok.&lt;/p&gt;
+
+&lt;p&gt;No surprise, she’s already talking about the next race she is going to do. She’s definitely not physically beat up, which she chalks up to good training. The question is: what do you do after you achieve a major goal?&lt;/p&gt;
+
+&lt;p&gt;One option: she’s 68, so her Boston qualifying time for 2020 (when she’ll be 70) is 4:55:00. If you take out our 2 minute bathroom break, 4:56:25 isn’t TOO far off 4:55…. So I guess we’ll see if she decides to give that a whirl, or focus more on trail runs. I know she’s not a huge fan of the long training runs that marathons require. But maybe she’d consider just one or two more… 🙂&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/finishers1.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-large wp-image-5255&quot; src=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/finishers1-782x1024.jpg&quot; alt=&quot;&quot; width=&quot;620&quot; height=&quot;812&quot; srcset=&quot;http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/finishers1-782x1024.jpg 782w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/finishers1-229x300.jpg 229w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/finishers1-768x1006.jpg 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/finishers1.jpg 971w&quot; sizes=&quot;(max-width: 620px) 100vw, 620px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As for me, it was good to get another long run in. Boston is coming up in a few weeks and I’ve definitely not got a lot of long distances under my belt. It’s funny, since running 3:29 at Jack and Jill in July, my 4 of marathons have been in the 4s, most closer to 5 hrs than 4. So I know my endurance (or at least “unwillingness to quit”) is there, but I’d like to lay more speed down.&lt;/p&gt;
+
+&lt;p&gt;I’m also going to be cleaning up my diet. I’ve gotten pretty lax with gluten and dairy, and I think I’m feeling achy from it. I just used to feel so much better.&lt;/p&gt;
+
+&lt;p&gt;Ok, onto the next one!&lt;/p&gt;</content><author><name>Andrea Hill</name></author><category term="featured" /><summary type="html">When she turned 60 in 2009, my Mom decided to run her first marathon. She finished in 5:03:39, just slightly slower than her 4:59:59 goal. Although completing a marathon at all is a huge accomplishment, she had her sights on covering the distance at a certain pace.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/gothedistance/wp-content/uploads/2018/04/Pasted_Image_4_22_18__1_30_PM.png" /></entry><entry><title type="html">Man must explore, and this is exploration at its greatest</title><link href="http://localhost:4000/gothedistance/2017/10/31/man-must-explore.html" rel="alternate" type="text/html" title="Man must explore, and this is exploration at its greatest" /><published>2017-10-31T10:45:13-04:00</published><updated>2017-10-31T10:45:13-04:00</updated><id>http://localhost:4000/gothedistance/2017/10/31/man-must-explore</id><content type="html" xml:base="http://localhost:4000/gothedistance/2017/10/31/man-must-explore.html">&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+
+&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+
+&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+
+&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+
+&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;blockquote class=&quot;blockquote&quot;&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+
+&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+
+&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+
+&lt;img class=&quot;img-fluid&quot; src=&quot;https://source.unsplash.com/Mn9Fa_wQH-M/800x450&quot; alt=&quot;Demo Image&quot;&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;
+
+&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+
+&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+
+&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;</content><author><name>Andrea Hill</name></author><summary type="html">Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</summary></entry><entry><title type="html">I believe every human has a finite number of heartbeats. I don’t intend to waste any of mine.</title><link href="http://localhost:4000/gothedistance/2017/10/30/heartbeats.html" rel="alternate" type="text/html" title="I believe every human has a finite number of heartbeats. I don't intend to waste any of mine." /><published>2017-10-30T23:45:13-04:00</published><updated>2017-10-30T23:45:13-04:00</updated><id>http://localhost:4000/gothedistance/2017/10/30/heartbeats</id><content type="html" xml:base="http://localhost:4000/gothedistance/2017/10/30/heartbeats.html">&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+
+&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+
+&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+
+&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+
+&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;blockquote class=&quot;blockquote&quot;&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+
+&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+
+&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+
+&lt;img class=&quot;img-fluid&quot; src=&quot;https://source.unsplash.com/Mn9Fa_wQH-M/800x450&quot; alt=&quot;Demo Image&quot;&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;
+
+&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+
+&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+
+&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;</content><author><name>Andrea Hill</name></author><summary type="html">Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</summary></entry><entry><title type="html">Science has not yet mastered prophecy</title><link href="http://localhost:4000/gothedistance/2017/10/29/prophecy.html" rel="alternate" type="text/html" title="Science has not yet mastered prophecy" /><published>2017-10-29T23:45:13-04:00</published><updated>2017-10-29T23:45:13-04:00</updated><id>http://localhost:4000/gothedistance/2017/10/29/prophecy</id><content type="html" xml:base="http://localhost:4000/gothedistance/2017/10/29/prophecy.html">&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+
+&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+
+&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+
+&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+
+&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;blockquote class=&quot;blockquote&quot;&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+
+&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+
+&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+
+&lt;img class=&quot;img-fluid&quot; src=&quot;https://source.unsplash.com/Mn9Fa_wQH-M/800x450&quot; alt=&quot;Demo Image&quot;&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;
+
+&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+
+&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+
+&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;</content><author><name>Andrea Hill</name></author><summary type="html">Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</summary></entry><entry><title type="html">Failure is not an option</title><link href="http://localhost:4000/gothedistance/2017/10/28/exploration.html" rel="alternate" type="text/html" title="Failure is not an option" /><published>2017-10-28T23:45:13-04:00</published><updated>2017-10-28T23:45:13-04:00</updated><id>http://localhost:4000/gothedistance/2017/10/28/exploration</id><content type="html" xml:base="http://localhost:4000/gothedistance/2017/10/28/exploration.html">&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+
+&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+
+&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+
+&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+
+&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;blockquote class=&quot;blockquote&quot;&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+
+&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+
+&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+
+&lt;img class=&quot;img-fluid&quot; src=&quot;https://source.unsplash.com/Mn9Fa_wQH-M/800x450&quot; alt=&quot;Demo Image&quot;&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;
+
+&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+
+&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+
+&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;</content><author><name>Andrea Hill</name></author><summary type="html">Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</summary></entry><entry><title type="html">The dreams of yesterday are the hopes of today and the reality of tomorrow.</title><link href="http://localhost:4000/gothedistance/2017/10/27/dreams.html" rel="alternate" type="text/html" title="The dreams of yesterday are the hopes of today and the reality of tomorrow." /><published>2017-10-27T23:45:13-04:00</published><updated>2017-10-27T23:45:13-04:00</updated><id>http://localhost:4000/gothedistance/2017/10/27/dreams</id><content type="html" xml:base="http://localhost:4000/gothedistance/2017/10/27/dreams.html">&lt;p&gt;Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.&lt;/p&gt;
+
+&lt;p&gt;Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.&lt;/p&gt;
+
+&lt;p&gt;What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.&lt;/p&gt;
+
+&lt;p&gt;A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.&lt;/p&gt;
+
+&lt;p&gt;For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;p&gt;There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.&lt;/p&gt;
+
+&lt;blockquote class=&quot;blockquote&quot;&gt;The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.&lt;/blockquote&gt;
+
+&lt;p&gt;Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Reaching for the Stars&lt;/h2&gt;
+
+&lt;p&gt;As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.&lt;/p&gt;
+
+&lt;img class=&quot;img-fluid&quot; src=&quot;https://source.unsplash.com/Mn9Fa_wQH-M/800x450&quot; alt=&quot;Demo Image&quot;&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;To go places and do things that have never been done before – that’s what living is all about.&lt;/span&gt;
+
+&lt;p&gt;Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/p&gt;
+
+&lt;p&gt;As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.&lt;/p&gt;
+
+&lt;p&gt;Placeholder text by &lt;a href=&quot;http://spaceipsum.com/&quot;&gt;Space Ipsum&lt;/a&gt;. Photographs by &lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;</content><author><name>Andrea Hill</name></author><summary type="html">Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</summary></entry></feed>
