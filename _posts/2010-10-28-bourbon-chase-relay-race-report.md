@@ -3,7 +3,7 @@ id: 1222
 title: Bourbon Chase Relay Race Report
 date: 2010-10-28T22:07:39-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=1222
 permalink: /2010/10/bourbon-chase-relay-race-report/
 dsq_thread_id:

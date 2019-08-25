@@ -2,20 +2,6 @@
 id: 1113
 title: California International Marathon Race Report
 date: 2009-12-07T23:23:26-06:00
-author: admin
-layout: post
-guid: http://www.afhill.com/gothedistance/2009/12/california-international-marathon-race-report/
-permalink: /2009/12/california-international-marathon-race-report/
-aktt_notify_twitter:
-  - 'no'
-  - 'no'
-sociableoff:
-  - 'false'
-  - 'false'
-dsq_thread_id:
-  - "50436426"
-  - "50436426"
-image: /wp-content/uploads/2009/12/cim1.jpg
 categories:
   - Race Reports
 ---

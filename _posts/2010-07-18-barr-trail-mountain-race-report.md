@@ -3,7 +3,7 @@ id: 1176
 title: Barr Trail Mountain Race Report
 date: 2010-07-18T12:44:16-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2010/07/barr-trail-mountain-race-report/
 permalink: /2010/07/barr-trail-mountain-race-report/
 sociableoff:

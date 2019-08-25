@@ -3,7 +3,7 @@ id: 2460
 title: Pikes Peak Ascent Race Report
 date: 2011-08-20T20:59:06-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/?p=2460
 permalink: /2011/08/pikes-peak-ascent-race-report/
 categories:

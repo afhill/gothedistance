@@ -2,7 +2,6 @@
 title: Revel Chilliwack 2019 Race Report
 date: 2019-08-18
 author: Andrea Hill
-layout: post
 categories:
   - Race-Reports
 ---

@@ -3,7 +3,7 @@ id: 2290
 title: Bolder Boulder 2011 Race Report
 date: 2011-05-30T10:46:34-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=2290
 permalink: /2011/05/bolder-boulder-2011-race-report/
 tbtfood1:

@@ -3,7 +3,7 @@ id: 5304
 title: Masters Running
 date: 2018-11-03T06:23:15-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=5304
 permalink: /2018/11/masters-running/
 categories:

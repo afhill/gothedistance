@@ -3,7 +3,7 @@ id: 2993
 title: Training for Houston
 date: 2011-11-30T08:24:15-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=2993
 permalink: /2011/11/training-for-houston/
 categories:

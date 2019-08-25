@@ -3,7 +3,7 @@ id: 5293
 title: Wow, number 50 is around the corner!
 date: 2018-10-21T17:50:41-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=5293
 permalink: /2018/10/wow-number-50-is-around-the-corner/
 categories:

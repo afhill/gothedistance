@@ -3,7 +3,7 @@ id: 4120
 title: Bolder Boulder 10K 2012 Race Report
 date: 2012-05-28T12:24:25-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=4120
 permalink: /2012/05/bolder-boulder-10k-2012-race-report/
 image: /wp-content/uploads/2012/05/bbfinish1.jpg

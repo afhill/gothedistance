@@ -3,7 +3,7 @@ id: 3986
 title: Platte River Half in an hour and a half? (Taper time!)
 date: 2012-04-11T17:20:02-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=3986
 permalink: /2012/04/platte-river-half-taper/
 categories:

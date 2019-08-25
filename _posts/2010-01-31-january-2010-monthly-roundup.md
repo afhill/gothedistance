@@ -3,7 +3,7 @@ id: 1162
 title: January 2010 Monthly Roundup
 date: 2010-01-31T15:36:56-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=1162
 permalink: /2010/01/january-2010-monthly-roundup/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 5164
 title: Harmon Lake Trail Marathon Race Report
 date: 2017-06-26T06:32:37-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=5164
 permalink: /2017/06/harmon-lake-trail-marathon-race-report/
 image: /wp-content/uploads/2017/06/Photo_-_Google_Photos-3.png

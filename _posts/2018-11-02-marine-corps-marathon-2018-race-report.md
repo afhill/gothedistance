@@ -3,7 +3,7 @@ id: 5297
 title: 'Marine Corps Marathon 2018: Race Report'
 date: 2018-11-02T18:57:25-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=5297
 permalink: /2018/11/marine-corps-marathon-2018-race-report/
 image: /wp-content/uploads/2018/11/1__Andrea_F_Hill.png

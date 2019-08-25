@@ -3,7 +3,7 @@ id: 5047
 title: Eugene Marathon Race Report
 date: 2016-05-02T15:17:45-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=5047
 permalink: /2016/05/eugene-marathon-race-report/
 image: /wp-content/uploads/2016/05/image1.jpeg

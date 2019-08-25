@@ -3,7 +3,7 @@ id: 2191
 title: Colorado Colfax Half Marathon Race Report
 date: 2011-05-16T22:06:34-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=2191
 permalink: /2011/05/colorado-colfax-half-marathon-race-report/
 tbtfood1:

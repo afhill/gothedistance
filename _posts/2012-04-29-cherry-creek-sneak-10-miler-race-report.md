@@ -3,7 +3,7 @@ id: 4062
 title: Cherry Creek Sneak 10 Miler Race Report
 date: 2012-04-29T17:30:49-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=4062
 permalink: /2012/04/cherry-creek-sneak-10-miler-race-report/
 image: /wp-content/uploads/2012/04/ccs_logo1.png

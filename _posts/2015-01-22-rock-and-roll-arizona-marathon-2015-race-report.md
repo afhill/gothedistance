@@ -3,7 +3,7 @@ id: 4850
 title: Rock and Roll Arizona Marathon 2015 Race Report
 date: 2015-01-22T19:11:39-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=4850
 permalink: /2015/01/rock-and-roll-arizona-marathon-2015-race-report/
 categories:

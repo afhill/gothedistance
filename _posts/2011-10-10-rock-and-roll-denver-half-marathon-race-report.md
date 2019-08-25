@@ -3,7 +3,7 @@ id: 2569
 title: Rock and Roll Denver Half Marathon Race Report
 date: 2011-10-10T22:10:43-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=2569
 permalink: /2011/10/rock-and-roll-denver-half-marathon-race-report/
 categories:

@@ -3,7 +3,7 @@ id: 5199
 title: Maui Oceanfront Marathon 2017 Race Report
 date: 2017-05-02T17:06:54-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=5199
 permalink: /2017/05/maui-oceanfront-marathon-2017-race-report/
 image: /wp-content/uploads/2017/08/1__Andrea_F_Hill-3.jpg

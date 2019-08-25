@@ -3,7 +3,7 @@ id: 4005
 title: Platte River Half Race Report
 date: 2012-04-15T21:00:58-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=4005
 permalink: /2012/04/platte-river-half-race-report/
 image: /wp-content/uploads/2012/04/finishsm1.jpg

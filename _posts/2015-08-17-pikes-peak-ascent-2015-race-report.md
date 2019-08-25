@@ -3,7 +3,7 @@ id: 4931
 title: Pikes Peak Ascent 2015 Race Report
 date: 2015-08-17T01:27:36-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=4931
 permalink: /2015/08/pikes-peak-ascent-2015-race-report/
 image: /wp-content/uploads/2015/08/ppafamily.jpg

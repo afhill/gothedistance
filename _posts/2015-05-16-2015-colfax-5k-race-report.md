@@ -3,7 +3,7 @@ id: 4877
 title: 2015 Colfax 5K Race Report
 date: 2015-05-16T20:57:29-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=4877
 permalink: /2015/05/2015-colfax-5k-race-report/
 image: /wp-content/uploads/2015/05/Recent_Race_Results_for_the_Colfax_Marathon2.png

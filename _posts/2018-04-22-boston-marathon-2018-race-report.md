@@ -3,7 +3,7 @@ id: 5260
 title: Boston Marathon 2018 Race Report
 date: 2018-04-22T05:01:50-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=5260
 permalink: /2018/04/boston-marathon-2018-race-report/
 image: /wp-content/uploads/2018/04/BeforetheRace.png

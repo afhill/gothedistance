@@ -1,0 +1,9 @@
+main:
+  - title: "Race Reports"
+    url: /categories/#race-reports/
+  - title: "Race Resume"
+    url: /race-resume/
+  - title: "50 States"
+    url: /50-states/
+  - title: "Results (Google Doc)"
+    url: "https://docs.google.com/spreadsheets/u/3/d/1KWX_lWljguMSv4yG8zLjpqjOwzsPlmIvadBUepG_FNs/edit?hl=en_US&hl=en_US#gid=2"

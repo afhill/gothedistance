@@ -3,7 +3,7 @@ id: 2472
 title: Pikes Peak Road Ascent Race Report
 date: 2011-08-29T08:12:13-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=2472
 permalink: /2011/08/pikes-peak-road-ascent-race-report/
 image: /wp-content/uploads/2011/08/Andrea-H.-ran_-The-Inaugural-Pikes-P...-dailymile1.png

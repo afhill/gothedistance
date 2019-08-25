@@ -3,7 +3,7 @@ id: 4840
 title: New York City Marathon 2014 Race Report
 date: 2014-11-05T20:17:27-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=4840
 permalink: /2014/11/new-york-city-marathon-2014-race-report/
 image: /wp-content/uploads/2014/11/New-York-City-Marathon-Pace-Band.png

@@ -3,7 +3,7 @@ id: 3569
 title: 2012 Super Bowl 5K Race Report
 date: 2012-02-05T21:48:16-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=3569
 permalink: /2012/02/2012-super-bowl-5k-race-report/
 categories:

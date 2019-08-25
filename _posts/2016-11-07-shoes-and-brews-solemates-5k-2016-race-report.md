@@ -3,7 +3,7 @@ id: 5145
 title: Shoes and Brews Solemates 5K 2016 Race Report
 date: 2016-11-07T17:32:04-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=5145
 permalink: /2016/11/shoes-and-brews-solemates-5k-2016-race-report/
 image: /wp-content/uploads/2016/11/15003447_1167348210021822_3297417142720207390_o.jpg

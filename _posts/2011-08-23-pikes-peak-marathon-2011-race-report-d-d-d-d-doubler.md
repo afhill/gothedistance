@@ -3,7 +3,7 @@ id: 2468
 title: Pikes Peak Marathon 2011 Race Report (D-D-D-D-Doubler!)
 date: 2011-08-23T23:09:17-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=2468
 permalink: /2011/08/pikes-peak-marathon-2011-race-report-d-d-d-d-doubler/
 image: /wp-content/uploads/2011/08/296418_2172467645036_1647139059_2173368_4261315_n1.jpg

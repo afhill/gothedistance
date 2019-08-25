@@ -3,7 +3,7 @@ id: 3115
 title: December 2011 Monthly Mileage
 date: 2011-12-31T18:24:41-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=3115
 permalink: /2011/12/december-2011-monthly-mileage/
 categories:

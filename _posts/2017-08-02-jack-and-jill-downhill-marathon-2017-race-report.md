@@ -3,7 +3,7 @@ id: 5182
 title: Jack and Jill Downhill Marathon 2017 Race Report
 date: 2017-08-02T14:55:52-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=5182
 permalink: /2017/08/jack-and-jill-downhill-marathon-2017-race-report/
 image: /wp-content/uploads/2017/08/Shared_album_-_Sara_McWhorter__Andrea_Hill_-_Google_Photos.jpg

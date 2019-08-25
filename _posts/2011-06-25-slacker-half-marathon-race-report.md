@@ -3,7 +3,7 @@ id: 2352
 title: Slacker Half Marathon Race Report
 date: 2011-06-25T13:24:35-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=2352
 permalink: /2011/06/slacker-half-marathon-race-report/
 tbtfood1:

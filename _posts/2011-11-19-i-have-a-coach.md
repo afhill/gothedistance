@@ -3,7 +3,7 @@ id: 2880
 title: I have a coach!
 date: 2011-11-19T11:15:14-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=2880
 permalink: /2011/11/i-have-a-coach/
 categories:

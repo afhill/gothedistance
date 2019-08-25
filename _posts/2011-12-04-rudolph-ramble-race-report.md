@@ -3,7 +3,7 @@ id: 3031
 title: Rudolph Ramble Race Report
 date: 2011-12-04T18:41:10-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=3031
 permalink: /2011/12/rudolph-ramble-race-report/
 categories:

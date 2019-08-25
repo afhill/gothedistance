@@ -3,7 +3,7 @@ id: 4177
 title: Four on the Fourth 4K Race Report
 date: 2012-07-04T17:23:16-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=4177
 permalink: /2012/07/four-on-the-fourth-4k-race-report/
 image: /wp-content/uploads/2012/07/fourfourth1.png

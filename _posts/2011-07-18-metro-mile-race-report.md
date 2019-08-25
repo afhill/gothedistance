@@ -3,7 +3,7 @@ id: 2401
 title: Metro Mile Race Report
 date: 2011-07-18T22:19:38-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=2401
 permalink: /2011/07/metro-mile-race-report/
 image: /wp-content/uploads/2011/07/RaceMap450-11.png

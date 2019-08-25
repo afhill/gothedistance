@@ -3,7 +3,7 @@ id: 4166
 title: The Superior Downhill Mile Race Report
 date: 2012-07-04T16:28:35-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=4166
 permalink: /2012/07/the-superior-downhill-mile-race-report/
 image: /wp-content/uploads/2012/07/Race-Results-for-Running-Events-Active.com_1.png

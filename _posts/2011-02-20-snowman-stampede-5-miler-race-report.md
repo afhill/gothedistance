@@ -3,7 +3,7 @@ id: 1556
 title: Snowman Stampede 5 Miler Race Report
 date: 2011-02-20T08:28:17-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=1556
 permalink: /2011/02/snowman-stampede-5-miler-race-report/
 image: /wp-content/uploads/2011/02/Snowman_Stampede_logo1.png

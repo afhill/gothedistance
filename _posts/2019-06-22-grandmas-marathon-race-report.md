@@ -2,7 +2,6 @@
 title: Grandma's Marathon 2019 Race Report
 date: 2019-06-22
 author: Andrea Hill
-layout: post
 categories:
   - Race-Reports
 ---
@@ -17,7 +16,7 @@ Sara and I had initially planned to fly to Minneapolis on the Thursday before th
 
 There was some major fomo when the group texts started rolling in on Thurs/Friday from the folks in Duluth, but soon enough I was on my way. There was a slight hiccup with our crew arriving late for the Duluth flight, but they assured us we’d get there “sometime this evening”…
 
-![A running book and a runners world magazine](grandmas-plane.png)
+![A running book and a runners world magazine](/assets/images/grandmas-plane.png)
 
 We did end up arriving in Duluth around our scheduled time, and I think I got into our hotel room close to 10:45. Sara had her alarm set for 3:45 for her bus to the start, but she’d laid out everything we each needed for the morning. ❤️
 
@@ -49,7 +48,7 @@ We’d been pretty lucky wind-wise throughout (given it’s a point-to-point cou
 
 As I said, I didn’t have a time goal for this race. I wanted to feel good throughout. Based on my (5K) splits, I’d say I achieved that!
 
-![Race Analysis](grandmas-raceanalysis.png)
+![Race Analysis](/assets/images/grandmas-raceanalysis.png)
 
 Pretty even splits throughout!
 Yes, so that’s
@@ -68,7 +67,7 @@ In the end, I rolled in at 3:50:40, or an 8:48 pace. 15 minutes faster than the 
 Sara and I met up at the end (she is SO GOOD at finding me after races!!), and waited around to meet up with Andrea and her friends. We chatted for a bit before we all split up to grab a snack and clean up before the evening events: we had tickets on the Pizza Train! This was a great way for us to relax and chat after the race. There were about 11 of us; marathoners, half-marathoners, spouses and an 8 year old. Ya know, sitting on a scenic train for a couple hours (especially one that provides pizza and sells beer) is a pretty great idea after a race!
 
 
-![Sara, me, and Andrea on the North Shore Scenic Railroad Pizza Train after Grandma’s Marathon](grandmas-pizzatrain.jpg)
+![Sara, me, and Andrea on the North Shore Scenic Railroad Pizza Train after Grandma’s Marathon](/assets/images/grandmas-pizzatrain.jpg)
 
 Other than the inconvenience of the scheduling of the half- and full marathoners, this was a superbly organized race. The town really seemed to embrace it, and the course was pretty and runner-friendly. Sure, it was a bit challenging to get there from Ottawa, but I’m glad that this was my Minnesota race!
 

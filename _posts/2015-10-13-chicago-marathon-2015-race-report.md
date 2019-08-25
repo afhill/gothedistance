@@ -3,7 +3,7 @@ id: 4950
 title: Chicago Marathon 2015 Race Report
 date: 2015-10-13T14:42:23-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=4950
 permalink: /2015/10/chicago-marathon-2015-race-report/
 image: /wp-content/uploads/2015/10/medals.jpg

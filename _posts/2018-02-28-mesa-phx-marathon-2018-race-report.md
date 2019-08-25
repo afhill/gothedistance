@@ -3,7 +3,7 @@ id: 5245
 title: Mesa-Phx Marathon 2018 Race Report
 date: 2018-02-28T17:12:16-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=5245
 permalink: /2018/02/mesa-phx-marathon-2018-race-report/
 image: /wp-content/uploads/2018/04/Pasted_Image_4_22_18__1_30_PM.png

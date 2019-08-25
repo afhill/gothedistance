@@ -3,7 +3,7 @@ id: 5101
 title: Avery Four on the Fourth Race Report 2016
 date: 2016-07-04T19:25:36-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=5101
 permalink: /2016/07/avery-four-on-the-fourth-race-report-2016/
 image: /wp-content/uploads/2016/07/Four-on-the-Fourth-4K-logo-2.png

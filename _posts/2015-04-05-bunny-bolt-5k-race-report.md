@@ -3,7 +3,7 @@ id: 4859
 title: Bunny Bolt 5K Race Report
 date: 2015-04-05T02:02:39-06:00
 author: Andrea Hill
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=4859
 permalink: /2015/04/bunny-bolt-5k-race-report/
 image: /wp-content/uploads/2015/04/EventHeader1_13277.png

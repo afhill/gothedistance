@@ -3,7 +3,7 @@ id: 2948
 title: Mesa 2011 Turkey Trot Race Report
 date: 2011-11-25T06:22:20-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=2948
 permalink: /2011/11/mesa-2011-turkey-trot-race-report/
 categories:
