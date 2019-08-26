@@ -13,9 +13,9 @@ categories:
 ---
 Hard to believe it&#8217;s been nearly a decade since I last ran the Boston marathon. But last year when Meredith mentioned that the race date fell on her 40th birthday, it seemed as good a reason as ever to make the pilgrimmage back to this marathoner&#8217;s mecca.
 
-I qualified at the [Jack and Jill race](http://www.afhill.com/gothedistance/2017/08/jack-and-jill-downhill-marathon-2017-race-report/) last July, with a nice big buffer for my age group (the joy of aging up?!?).
+I qualified at the [Jack and Jill race](/jack-and-jill-downhill-marathon-2017-race-report/) last July, with a nice big buffer for my age group (the joy of aging up?!?).
 
-Training for Boston was &#8230; negligible. The [Tahoe Triple](http://www.afhill.com/gothedistance/2017/10/tahoe-triple-race-report-bucket-list-item-complete/) took a lot out of me last October, and then my training never really got back on track as Sara and I made plans and moved up to Canada in early 2018. I&#8217;ve struggled with a lot of knee pain, specifically, and there was a TON of snow up here when we got here! Sure, I managed a nice [26.2 long run](http://www.afhill.com/gothedistance/2018/02/mesa-phx-marathon-2018-race-report/) with my Mom in AZ in February, but apart from that I don&#8217;t think I&#8217;d run over 12 miles since October!
+Training for Boston was &#8230; negligible. The [Tahoe Triple](/tahoe-triple-race-report-bucket-list-item-complete/) took a lot out of me last October, and then my training never really got back on track as Sara and I made plans and moved up to Canada in early 2018. I&#8217;ve struggled with a lot of knee pain, specifically, and there was a TON of snow up here when we got here! Sure, I managed a nice [26.2 long run](/mesa-phx-marathon-2018-race-report/) with my Mom in AZ in February, but apart from that I don&#8217;t think I&#8217;d run over 12 miles since October!
 
 Thankfully, a few weeks ago I started to go to a chiropractor here and it has seriously changed my life!  My posture is better and he has even done some work to correct my weird inward-facing left foot, as well as work on the popliteus muscle behind my knees. Knee pain is gone!
 
@@ -45,7 +45,7 @@ The last big trip was to the Nike store. I&#8217;ve read a ton about the shoes t
 
 Ok, race day. The bus system is SO much better than it used to be: Meredith and I were in the third wave, which meant we were to take the bus to Hopkinton between 8-8:45. We&#8217;d leave the Athletes&#8217; village at 10:05 for a 10:50 start, so there weren&#8217;t hours and hours to wait in Hopkinton. Good thing because there was torrential rain, and you couldn&#8217;t check a gear back from Hopkinton. Meredith had been prepared and brought throw-away shoes, socks, pants and a sweatshirt. I definitely didn&#8217;t&#8230;
 
-[<img class="aligncenter size-large wp-image-5265" src="http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/BeforetheRace-1024x759.png" alt="" width="620" height="460" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/BeforetheRace-1024x759.png 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/BeforetheRace-300x222.png 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/BeforetheRace-768x569.png 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/BeforetheRace.png 1484w" sizes="(max-width: 620px) 100vw, 620px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/BeforetheRace.png)
+![](BeforetheRace.png)
 
 Our airbnb was about 1.5 miles from the bus loading zone, so Sara and I jogged there. I had on my injinji compression toesocks, hokas, capris, a long-sleeved shirt, my fleece nightgown, a buff and my UD jacket. I&#8217;d bought some gardening gloves at 7-11 the day before but they were soaked by the time we met the Gordons to get on the bus!
 
@@ -55,7 +55,7 @@ Athlete&#8217;s Village was basically a mudpit. Ugh. I had thought I&#8217;d tak
 
 ## Onto the Race!
 
-[<img class="aligncenter size-large wp-image-5263" src="http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Boston_Marathon___Run___Strava-1024x545.png" alt="" width="620" height="330" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Boston_Marathon___Run___Strava-1024x545.png 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Boston_Marathon___Run___Strava-300x160.png 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Boston_Marathon___Run___Strava-768x409.png 768w" sizes="(max-width: 620px) 100vw, 620px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2018/04/Boston_Marathon___Run___Strava.png)
+![](Boston_Marathon___Run___Strava.png)
 
 First few miles of Boston are downhill, and of course you&#8217;re caught up in the energy of the crowd. I had qualified with a 3:29 but knew there was no way I was going to run anywhere near that for this race. Still, my first mile ticked by with an 8:45.
 

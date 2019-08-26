@@ -28,7 +28,7 @@ I am [Marathon Maniac #194](http://www.marathonmaniacsdb.com/Maniacs/MyMarathons
 26.2m: 3:09:52/7:15 (2012)  
 50k: 6:15:49/12:26 (2008)
 
-### States (Countries) Completed
+### States Completed (of 50)
 
   1. Arizona
   2. California
@@ -52,23 +52,30 @@ I am [Marathon Maniac #194](http://www.marathonmaniacsdb.com/Maniacs/MyMarathons
  20. Washington
  21. West Virginia
 
-  1. Canada (ING Edmonton, Ottawa)
-  2. France (Marathon du Medoc)
+ ### Provinces Completed (of 10)
+
+  # Alberta (Edmonton)
+  # Ontario (Ottawa)
+  # British Columbia (Chilliwack)
+
+### Other Countries  
+1. France (Marathon du Medoc)
 
 ### 2019
 
 Marathons run:
 
   * Ottawa Race Weekend
-  * [Grandma&#8217;s Marathon](http://www.afhill.com/gothedistance/2019/07/grandmas-marathon-2019-race-report-officially-50/)
+  * [Grandma&#8217;s Marathon](/grandmas-marathon-race-report/)
+  * [REVEL Chilliwack](/revel-chilliwack-race-report/)
 
 ### 2018
 
 Marathons run:
 
-  * [Mesa-Phx Marathon](http://www.afhill.com/gothedistance/2018/02/mesa-phx-marathon-2018-race-report/)
-  * [Boston Marathon](http://www.afhill.com/gothedistance/2018/04/boston-marathon-2018-race-report/)
-  * [Marine Corps Marathon](http://www.afhill.com/gothedistance/2018/11/marine-corps-marathon-2018-race-report/)
+  * [Mesa-Phx Marathon](mesa-phx-marathon-2018-race-report/)
+  * [Boston Marathon](/boston-marathon-2018-race-report/)
+  * [Marine Corps Marathon](/marine-corps-marathon-2018-race-report/)
 
 Race highlights:
 

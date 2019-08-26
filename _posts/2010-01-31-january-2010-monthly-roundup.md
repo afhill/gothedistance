@@ -1,24 +1,11 @@
 ---
-id: 1162
 title: January 2010 Monthly Roundup
-date: 2010-01-31T15:36:56-06:00
-author: admin
-  
-guid: http://www.afhill.com/gothedistance/?p=1162
-permalink: /2010/01/january-2010-monthly-roundup/
-aktt_notify_twitter:
-  - 'no'
-  - 'no'
-sociableoff:
-  - 'false'
-  - 'false'
 categories:
-  - General
   - Monthly Mileage
 ---
 This was a good month: 
 
-I hit over 100 miles, which I hadn&#8217;t done since May. I ran 19/31 days, and of course scored a big [3 min half marathon PR in Phoenix](http://www.afhill.com/gothedistance/2010/01/rock-n-roll-arizona-half-marathon-race-report/). 
+I hit over 100 miles, which I hadn&#8217;t done since May. I ran 19/31 days, and of course scored a big [3 min half marathon PR in Phoenix](rock-n-roll-arizona-half-marathon-race-report/). 
 
 I liked how I&#8217;ve started mixing it up a bit, running some shorter harder days on the treadmill. I think it helps from a time as well a training standpoint. In February I&#8217;d like to continue to do this, but extend the distance. 
 

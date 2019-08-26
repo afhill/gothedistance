@@ -1,15 +1,7 @@
 ---
-id: 5101
 title: Avery Four on the Fourth Race Report 2016
 date: 2016-07-04T19:25:36-06:00
 author: Andrea Hill
-  
-guid: http://www.afhill.com/gothedistance/?p=5101
-permalink: /2016/07/avery-four-on-the-fourth-race-report-2016/
-image: /wp-content/uploads/2016/07/Four-on-the-Fourth-4K-logo-2.png
-categories:
-  - heart rate
-  - HR
   - Race Reports
 ---
 [<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2016/07/Four-on-the-Fourth-4K-logo-2-262x300.png" alt="Four-on-the-Fourth-4K-logo-2" width="262" height="300" class="alignright size-medium wp-image-5103" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2016/07/Four-on-the-Fourth-4K-logo-2-262x300.png 262w, http://www.afhill.com/gothedistance/wp-content/uploads/2016/07/Four-on-the-Fourth-4K-logo-2-893x1024.png 893w" sizes="(max-width: 262px) 100vw, 262px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2016/07/Four-on-the-Fourth-4K-logo-2.png)I was excited for this run, but also a little nervous about the [calf pain](http://www.afhill.com/gothedistance/2016/07/brooks-hyperion-training/) I&#8217;d had late last week. It was forecast to be WARM (77F) at the race start of 9am. 

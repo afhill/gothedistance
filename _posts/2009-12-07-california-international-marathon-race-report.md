@@ -5,11 +5,11 @@ date: 2009-12-07T23:23:26-06:00
 categories:
   - Race Reports
 ---
-After dozens of these [race reports](http://www.afhill.com/gothedistance/category/racereports/), this one is truly special. This wasn&#8217;t about my training, my nutrition, my pace, my experience. This was different.
+After dozens of these [race reports](/categories/#race-reports/), this one is truly special. This wasn&#8217;t about my training, my nutrition, my pace, my experience. This was different.
 
 On Dec 5, 2009, I ran the California International Marathon with my Mom, who chose to celebrate turning 60 with taking the marathon challenge!
 
-My Mom has run several half marathons: it&#8217;s actually been a bit of a tradition for us to attend races together. [Vegas](http://www.afhill.com/gothedistance/2007/12/las-vegas-marathon-race-report/), the [Flying Pig](http://www.afhill.com/gothedistance/2008/05/running-against-the-clock/) and the [ING Edmonton](http://www.afhill.com/gothedistance/2008/08/ing-edmonton-marathon-race-report-marathon-20/) marathons were all events where I ran the marathon, and she ran the half. But last year she decided that for her 60th birthday, she&#8217;d train for and complete a marathon. 
+My Mom has run several half marathons: it&#8217;s actually been a bit of a tradition for us to attend races together. [Vegas](/las-vegas-marathon-race-report/), the [Flying Pig](running-against-the-clock/) and the [ING Edmonton](ing-edmonton-marathon-race-report-marathon-20/) marathons were all events where I ran the marathon, and she ran the half. But last year she decided that for her 60th birthday, she&#8217;d train for and complete a marathon. 
 
 Her birthday was in October, and initially we&#8217;d tossed around the idea of her running Denver. I ended up having to be out of town, and I think the altitude concerned her a bit, so we selected CIM: known to be a fast course. 
 
@@ -19,9 +19,9 @@ A few weeks before we toed the line, however, her goal seemed to shift subtly fr
 
 This was a big deal: my Mom&#8217;s first marathon! So the week before the race, I suggested we get matching shirts to wear while running. 
 
-[<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2009/12/shirtfront-300x225.jpg" alt="shirtfront" title="shirtfront" width="300" height="225" class="aligncenter size-medium wp-image-1111" />](http://www.afhill.com/gothedistance/wp-content/uploads/2009/12/shirtfront.jpg)
+![](shirtfront.jpg)
 
-[<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2009/12/shirtback-300x225.jpg" alt="shirtback" title="shirtback" width="300" height="225" class="aligncenter size-medium wp-image-1112" />](http://www.afhill.com/gothedistance/wp-content/uploads/2009/12/shirtback.jpg)
+![](shirtback.jpg)
 
 I met my folks in the Sacramento airport Friday night, and we headed to our hotel. We stayed at a really neat boutique hotel called [The Citizen](http://www.citizenhotel.com/), three blocks away from the Convention center where the expo was being held. On Saturday we headed down there, and listened to Bart Yasso present an entertaining presentation on some of his adventures in running. We picked up our kits, and wandered the Expo for a bit. At this point, the predicted start time of 35 degrees, with fog and wind, was starting to concern me. I&#8217;d been considering them anyway, so I purchased some leg sleeves for support as well as warmth. The pace table had temporary tattoos with splits, so I grabbed the 5 hr tattoo. Mom asked if she could pick up the 4:45 one as well, but I was firm and denied her. We&#8217;d go out at the 5 hr pace, and if at mile 22 she still felt good, we&#8217;d pick it up. 
 

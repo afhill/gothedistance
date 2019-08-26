@@ -1,15 +1,5 @@
 ---
-id: 1222
 title: Bourbon Chase Relay Race Report
-date: 2010-10-28T22:07:39-06:00
-author: admin
-  
-guid: http://www.afhill.com/gothedistance/?p=1222
-permalink: /2010/10/bourbon-chase-relay-race-report/
-dsq_thread_id:
-  - "163696059"
-  - "163696059"
-image: /wp-content/uploads/2010/10/bchase1.gif
 categories:
   - Race Reports
 ---
@@ -25,7 +15,7 @@ In a relay, runners and vans are competing against each other in a variety of wa
 
 Our first leg started at 3pm. I struggled with mine: going out too fast (a 7:17 first mile? Whoops&#8230;) and then dealing with hot temperatures and too much Gatorade in my stomach. The true demoralizer was a huge hill in the last mile. I felt pretty anxious that I wasn&#8217;t prepared for this, and actually apologized to my team as I came in. So I was really happy to see this was rated a difficult leg, and I&#8217;d still better my projected time. And- the rest of my legs were rated easy! Roadkill: 0-2 (I didn&#8217;t pass anyone, 2 people passed me)
 
-[<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2010/10/elevation-1.gif" alt="" title="elevation" width="497" height="200" class="aligncenter size-full wp-image-1225" />](http://www.afhill.com/gothedistance/wp-content/uploads/2010/10/elevation-1.gif)
+![](/assets/images/elevation-1.gif")
 
 Our team did well, with the first five of us all finishing a minute ahead of our predicted time.
 
