@@ -26,7 +26,7 @@ search: true
 url: "https://afhill.github.io"
 
 # baseurl should be an empty string
-baseurl: "gothedistance"
+baseurl: "/gothedistance"
 
 # Build settings
 markdown: kramdown
