@@ -9,7 +9,7 @@ categories:
 
 My Mom has been trying to qualify for Boston, and I’d always said that if she qualified, I’d register and run with her. Well, at the end of July, she did it! She ran 4:49:54 at Jack and Jill – squeaking in a few seconds underneath the qualification window.
 
-![Womans at the end of a marathon finish line, holding a 'BQ Baby' sign](2019-chilliwack-mom.png)
+![Womans at the end of a marathon finish line, holding a 'BQ Baby' sign](gothedistance/assets/images/2019-chilliwack-mom.png)
 
 But when she qualified, I realized I didn’t have an eligible qualifying time that would allow me to register in September! I did some research and found the Revel Chilliwack race in mid-August. It was a mere three weeks away, which meant I’d be relying more on the aggressive downhill course than any serious training plan if I were to achieve my goal.
 
@@ -19,7 +19,7 @@ I’ve been very fortunate through my running career where I have run pretty wel
 
 The race profile reminded me a bit of the Colorado Marathon in Ft Collins: an aggressive downhill at the start, flattening out at the end. The race preview description talks about banking a bit of time early on, and being prepared for your legs feeling flat and slow near the end. You won’t find a race report from the Colorado Half Marathon on my blog, because I hated it so much I took off my bib and walked in, without registering a time.
 
-![Revel Chilliwack Marathon Elevation Profile - showing a steep downhill race](rcw-profile.png)
+![Revel Chilliwack Marathon Elevation Profile - showing a steep downhill race](/gothedistance/assets/images/rcw-profile.png)
 
 When I ran Duluth just a few months ago, I loved it because I put zero pressure on myself. I ran comfortable, letting my body dictate the pace. I figured this would be a different beast – and unfortunately, it was.
 
@@ -41,7 +41,7 @@ Not too much later, the other guy, who had a 3:50 goal, stopped at a bathroom, a
 Lap 4: 8:10
 Lap 5: 8:03
 
-![Woman running with a big smile on her face](revelphoto-1.jpg)
+![Woman running with a big smile on her face](/gothedistance/assets/images/revelphoto-1.jpg)
 
 
 I felt like I was breathing harder than I should be, and told my pacer as much. His response was something like “if you weren’t here, I wouldn’t be running this pace”. I wasn’t sure what he meant. I told him that I’d run sub 3:40 before, but it had been awhile, and I was concerned about banking TOO much time early on. I thought that confiding in him as a pacer would somehow unburden me from my fears, and he’d be able to help guide me a bit better.
@@ -60,7 +60,7 @@ I hit the halfway mark at 1:46. For those playing along at home, that’s 4 minu
 
 After the halfway point, the course leveled out and things became “less easy”, as anticipated. I held it together for a few more miles, but by mile 17 things got real. That’s the point where I should have laid on the gas a little, having cruised for the first half of the course. But I hadn’t exactly cruised; I’d been working. A glance at my heart rate through the early miles is evidence of that:
 
-![Garmin heart rate chart](revel-hr.png)
+![Garmin heart rate chart](/gothedistance/assets/images/revel-hr.png)
 
 I still had a course-specific pace band in my pocket, and it recommended an 8:48 pace for mile 17. So when I ran an 8:50, it was still an “on-pace” mile. PLUS I had minutes in the bank! But it felt like failure.
 
@@ -74,7 +74,7 @@ And so within that last 10K, I lost my minutes of buffer, and many minutes more.
 
 M20: 9:19
 
-![Woman running with a focused look on her face](revel-later.png)
+![Woman running with a focused look on her face](/gothedistance/assets/images/revel-later.png)
 
 At some point I was walking up the street when my pacer ran by me. He said something over his shoulder that I didn’t hear – but he was on his own and he didn’t stop. I’m pretty sure 3:40 was still doable, so I’m not sure why he didn’t try to keep his “group” motivated and on track.
 
@@ -93,7 +93,7 @@ M26: 10:39
 
 Officially, I still came in at 3:48:10, which is the fastest marathon I’ve completed this year. And I did that after completely giving up. But that old rule of thumb, that for every minute you’re ahead at the half, you give up double on the second half? It held true. 4 minutes ahead at the half, and I missed my goal by 8 minutes.
 
-![Revel Chilliwack Race Analysis](revel-raceanalysis.png)
+![Revel Chilliwack Race Analysis](/gothedistance/assets/images/revel-raceanalysis.png)
 
 Looking back, I’m disappointed in myself for a few reasons. Giving up, for sure. That’s my typical MO when I have a target time goal. I buckle under the pressure.
 
@@ -105,7 +105,7 @@ But – it is what it is. I knew it was a bit of a long shot to qualify without 
 
 Afterwards, Sara asked me how I was feeling about running. Honestly, I felt more bad about the fact we spent a lot of money (and precious vacation days) flying across the country for this exploit. But the following day we went up to Squamish, went for a run and saw some of the Squamish 50K finishers, and had a wonderful day. More than the marathon barreling down the highway, that day filled me with love for running and sense of gratitude. The day in Squamish made the trip worthwhile, in my mind. Although I still have my “50 marathons in 50 states” goal, and I know I obviously still have things to learn when it comes to race execution, it was good reminder of the majesty of trail running. We decided we definitely want to come back to Squamish, and try to spend more time out in nature on the trails. Run to be one with nature, not to try to beat a clock.
 
-![Woman smiling at the end of a marathon](revel-smilingafter.png)
+![Woman smiling at the end of a marathon](/gothedistance/assets/images/revel-smilingafter.png)
 
 
 +++
