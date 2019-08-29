@@ -3,7 +3,7 @@ id: 325
 title: Steamtown, take 2
 date: 2007-10-14T23:17:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=325
 permalink: /2007/10/steamtown-take-2/
 tweetbackscheck:

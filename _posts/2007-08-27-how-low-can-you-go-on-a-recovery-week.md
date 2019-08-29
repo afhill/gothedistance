@@ -3,7 +3,7 @@ id: 302
 title: 'how low can you go on a &#8216;recovery&#8217; week?'
 date: 2007-08-27T21:50:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=302
 permalink: /2007/08/how-low-can-you-go-on-a-recovery-week/
 aktt_notify_twitter:

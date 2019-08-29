@@ -3,7 +3,7 @@ id: 897
 title: Working out on the road
 date: 2009-04-10T12:22:09-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=897
 permalink: /2009/04/working-out-on-the-road/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 132
 title: Team Run Wild
 date: 2005-12-28T15:36:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=132
 permalink: /2005/12/team-run-wild/
 tweetbackscheck:

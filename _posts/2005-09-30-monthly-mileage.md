@@ -3,7 +3,7 @@ id: 114
 title: monthly mileage
 date: 2005-09-30T18:42:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=114
 permalink: /2005/09/monthly-mileage/
 categories:

@@ -3,7 +3,7 @@ id: 177
 title: Front Runner 5 Miler
 date: 2006-05-08T08:55:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=177
 permalink: /2006/05/front-runner-5-miler/
 tweetbackscheck:

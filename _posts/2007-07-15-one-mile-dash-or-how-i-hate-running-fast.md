@@ -3,7 +3,7 @@ id: 313
 title: One Mile Dash (or, How I Hate Running Fast)
 date: 2007-07-15T11:19:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=313
 permalink: /2007/07/one-mile-dash-or-how-i-hate-running-fast/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 843
 title: My first week as a derby girl
 date: 2009-02-07T10:01:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=843
 permalink: /2009/02/my-first-week-as-a-derby-girl/
 aktt_notify_twitter:

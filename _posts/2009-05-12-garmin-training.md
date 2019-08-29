@@ -3,7 +3,7 @@ id: 969
 title: Garmin Training
 date: 2009-05-12T20:43:22-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=969
 permalink: /2009/05/garmin-training/
 sociableoff:

@@ -3,7 +3,7 @@ id: 123
 title: Lessons Learned From 2005
 date: 2005-12-10T12:16:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=123
 permalink: /2005/12/lessons-learned-from-2005/
 tweetbackscheck:

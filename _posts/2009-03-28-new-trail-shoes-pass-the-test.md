@@ -3,7 +3,7 @@ id: 877
 title: New Trail Shoes Pass the Test!
 date: 2009-03-28T16:58:47-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=877
 permalink: /2009/03/new-trail-shoes-pass-the-test/
 sociableoff:

@@ -3,7 +3,7 @@ id: 822
 title: Pace groups
 date: 2009-01-21T09:09:48-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/01/pace-groups/
 permalink: /2009/01/pace-groups/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 216
 title: She gets it :)
 date: 2006-10-17T08:30:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=216
 permalink: /2006/10/she-gets-it/
 tweetbackscheck:

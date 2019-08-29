@@ -3,7 +3,7 @@ id: 70
 title: Detroit Free Press Marathon Report
 date: 2005-10-24T12:24:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=70
 permalink: /2005/10/detroit-free-press-marathon-report/
 tweetbackscheck:

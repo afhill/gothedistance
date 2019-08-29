@@ -3,7 +3,7 @@ id: 200
 title: 'wow&#8230;  just wow.'
 date: 2006-09-11T07:58:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=200
 permalink: /2006/09/wow-just-wow/
 tweetbackscheck:

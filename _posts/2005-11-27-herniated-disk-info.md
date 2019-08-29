@@ -3,7 +3,7 @@ id: 101
 title: 'Herniated disk info&#8230;'
 date: 2005-11-27T11:40:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=101
 permalink: /2005/11/herniated-disk-info/
 tweetbackscheck:

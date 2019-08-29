@@ -3,7 +3,7 @@ id: 243
 title: Goofy Challenge
 date: 2007-01-05T16:09:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=243
 permalink: /2007/01/goofy-challenge/
 tweetbackscheck:

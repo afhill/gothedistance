@@ -3,7 +3,7 @@ id: 1025
 title: June 2009 Monthly Mileage
 date: 2009-07-03T20:07:19-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/07/june-2009-monthly-mileage/
 permalink: /2009/07/june-2009-monthly-mileage/
 sociableoff:

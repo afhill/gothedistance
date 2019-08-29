@@ -3,7 +3,7 @@ id: 42
 title: No Limits 10K Race Report
 date: 2005-09-10T13:23:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=42
 permalink: /2005/09/no-limits-10k-race-report/
 categories:

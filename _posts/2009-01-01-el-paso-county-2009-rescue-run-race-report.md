@@ -3,7 +3,7 @@ id: 794
 title: El Paso County 2009 Rescue Run Race Report
 date: 2009-01-01T14:05:26-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=794
 permalink: /2009/01/el-paso-county-2009-rescue-run-race-report/
 sociableoff:

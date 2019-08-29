@@ -3,7 +3,7 @@ id: 263
 title: remember me?
 date: 2007-03-26T15:08:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=263
 permalink: /2007/03/remember-me/
 tweetbackscheck:

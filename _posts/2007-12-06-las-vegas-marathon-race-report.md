@@ -3,7 +3,7 @@ id: 335
 title: Las Vegas Marathon Race Report
 date: 2007-12-06T00:23:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=335
 permalink: /2007/12/las-vegas-marathon-race-report/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 154
 title: the tortoise needs to work on becoming a hare
 date: 2006-02-04T09:25:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=154
 permalink: /2006/02/the-tortoise-needs-to-work-on-becoming-a-hare/
 tweetbackscheck:

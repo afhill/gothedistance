@@ -3,7 +3,7 @@ id: 295
 title: Mid-week long run
 date: 2007-08-02T22:54:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=295
 permalink: /2007/08/mid-week-long-run/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 267
 title: John Bryan
 date: 2007-04-16T08:49:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=267
 permalink: /2007/04/john-bryan/
 aktt_notify_twitter:

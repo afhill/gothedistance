@@ -3,7 +3,7 @@ id: 876
 title: 26.2 Days til Boston!
 date: 2009-03-25T10:15:49-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/03/262-days-til-boston/
 permalink: /2009/03/262-days-til-boston/
 aktt_notify_twitter:

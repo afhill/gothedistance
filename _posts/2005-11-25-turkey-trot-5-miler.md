@@ -3,7 +3,7 @@ id: 97
 title: Turkey Trot 5 Miler
 date: 2005-11-25T10:55:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=97
 permalink: /2005/11/turkey-trot-5-miler/
 tweetbackscheck:

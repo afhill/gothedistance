@@ -3,7 +3,7 @@ id: 51
 title: saturday training
 date: 2005-09-25T12:14:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=51
 permalink: /2005/09/saturday-training/
 aktt_notify_twitter:

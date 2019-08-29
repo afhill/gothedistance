@@ -3,7 +3,7 @@ id: 975
 title: I did the Incline!
 date: 2009-05-17T18:17:28-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=975
 permalink: /2009/05/i-did-the-incline/
 aktt_notify_twitter:

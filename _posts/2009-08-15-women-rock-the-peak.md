@@ -3,7 +3,7 @@ id: 1053
 title: Women Rock the Peak
 date: 2009-08-15T07:19:32-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/08/women-rock-the-peak/
 permalink: /2009/08/women-rock-the-peak/
 aktt_notify_twitter:

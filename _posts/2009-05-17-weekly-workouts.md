@@ -3,7 +3,7 @@ id: 972
 title: Weekly Workouts
 date: 2009-05-17T14:51:06-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=972
 permalink: /2009/05/weekly-workouts/
 aktt_notify_twitter:

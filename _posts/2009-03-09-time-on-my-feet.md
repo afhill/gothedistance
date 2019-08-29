@@ -3,7 +3,7 @@ id: 875
 title: Time on my feet
 date: 2009-03-09T06:15:17-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/03/time-on-my-feet/
 permalink: /2009/03/time-on-my-feet/
 aktt_notify_twitter:

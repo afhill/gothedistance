@@ -3,7 +3,7 @@ id: 146
 title: enduranceradio.com is a lifesaver
 date: 2006-01-18T21:22:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=146
 permalink: /2006/01/enduranceradiocom-is-a-lifesaver/
 tweetbackscheck:

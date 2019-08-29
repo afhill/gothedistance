@@ -3,7 +3,7 @@ id: 204
 title: Pics from Air Force Half
 date: 2006-09-22T08:07:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=204
 permalink: /2006/09/pics-from-air-force-half/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 139
 title: Goofy’s Race and a Half Challenge
 date: 2006-01-12T21:17:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=139
 permalink: /2006/01/very-goofy/
 sociableoff:

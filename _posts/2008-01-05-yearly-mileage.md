@@ -3,7 +3,7 @@ id: 338
 title: yearly mileage
 date: 2008-01-05T14:24:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=338
 permalink: /2008/01/yearly-mileage/
 aktt_notify_twitter:

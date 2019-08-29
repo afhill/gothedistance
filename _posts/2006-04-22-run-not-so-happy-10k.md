@@ -3,7 +3,7 @@ id: 172
 title: Run (Not So ) Happy 10K
 date: 2006-04-22T14:02:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=172
 permalink: /2006/04/run-not-so-happy-10k/
 tweetbackscheck:

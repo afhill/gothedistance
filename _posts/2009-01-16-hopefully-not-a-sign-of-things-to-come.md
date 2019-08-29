@@ -3,7 +3,7 @@ id: 815
 title: Hopefully not a sign of things to come
 date: 2009-01-16T13:03:11-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/01/hopefully-not-a-sign-of-things-to-come/
 permalink: /2009/01/hopefully-not-a-sign-of-things-to-come/
 aktt_notify_twitter:

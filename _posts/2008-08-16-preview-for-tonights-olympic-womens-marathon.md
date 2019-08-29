@@ -3,7 +3,7 @@ id: 523
 title: 'Preview for Tonight&#8217;s Olympic Women&#8217;s Marathon'
 date: 2008-08-16T09:56:41-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=523
 permalink: /2008/08/preview-for-tonights-olympic-womens-marathon/
 aktt_notify_twitter:

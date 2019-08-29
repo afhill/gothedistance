@@ -3,7 +3,7 @@ id: 131
 title: Why Do I Run?
 date: 2005-12-28T14:10:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=131
 permalink: /2005/12/why-do-i-run/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 285
 title: training paces, revisited
 date: 2007-07-14T09:53:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=285
 permalink: /2007/07/training-paces-revisited/
 tweetbackscheck:

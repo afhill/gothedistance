@@ -3,7 +3,7 @@ id: 134
 title: letter from the organizers of the Buckeye Trail Winter 50K
 date: 2005-12-29T14:54:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=134
 permalink: /2005/12/letter-from-the-organizers-of-the-buckeye-trail-winter-50k/
 tweetbackscheck:

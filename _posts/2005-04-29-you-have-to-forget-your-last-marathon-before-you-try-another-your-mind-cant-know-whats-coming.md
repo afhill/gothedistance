@@ -3,7 +3,7 @@ id: 106
 title: 'You have to forget your last marathon before you try another. Your mind can&#8217;t know what&#8217;s coming. &#8211;'
 date: 2005-04-29T21:37:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=106
 permalink: /2005/04/you-have-to-forget-your-last-marathon-before-you-try-another-your-mind-cant-know-whats-coming/
 tweetbackscheck:

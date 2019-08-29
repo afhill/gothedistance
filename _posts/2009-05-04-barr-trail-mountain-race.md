@@ -3,7 +3,7 @@ id: 959
 title: Barr Trail Mountain Race
 date: 2009-05-04T23:55:52-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/05/barr-trail-mountain-race/
 permalink: /2009/05/barr-trail-mountain-race/
 aktt_notify_twitter:

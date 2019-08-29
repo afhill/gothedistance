@@ -3,7 +3,7 @@ id: 330
 title: 4 weeks to Vegas!
 date: 2007-10-27T20:05:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=330
 permalink: /2007/10/4-weeks-to-vegas/
 tweetbackscheck:

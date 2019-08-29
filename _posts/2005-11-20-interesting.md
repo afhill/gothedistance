@@ -3,7 +3,7 @@ id: 91
 title: 'Interesting&#8230;'
 date: 2005-11-20T22:30:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=91
 permalink: /2005/11/interesting/
 tweetbackscheck:

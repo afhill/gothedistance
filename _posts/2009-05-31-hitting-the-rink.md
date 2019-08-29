@@ -3,7 +3,7 @@ id: 986
 title: Hitting the Rink!
 date: 2009-05-31T16:26:47-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=986
 permalink: /2009/05/hitting-the-rink/
 aktt_notify_twitter:

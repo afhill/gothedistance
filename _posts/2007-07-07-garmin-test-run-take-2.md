@@ -3,7 +3,7 @@ id: 282
 title: 'garmin test &#8216;run&#8217;, take 2'
 date: 2007-07-07T11:51:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=282
 permalink: /2007/07/garmin-test-run-take-2/
 aktt_notify_twitter:

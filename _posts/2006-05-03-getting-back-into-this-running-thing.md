@@ -3,7 +3,7 @@ id: 175
 title: getting back into this running thing
 date: 2006-05-03T15:29:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=175
 permalink: /2006/05/getting-back-into-this-running-thing/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 312
 title: 'Pfitzinger and Steamtown &#8212; A Winning Combo'
 date: 2007-07-02T23:06:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=312
 permalink: /2007/07/pfitzinger-and-steamtown-a-winning-combo/
 tweetbackscheck:

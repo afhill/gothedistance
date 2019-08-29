@@ -3,7 +3,7 @@ id: 90
 title: back on track!
 date: 2005-11-20T19:25:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=90
 permalink: /2005/11/back-on-track/
 categories:

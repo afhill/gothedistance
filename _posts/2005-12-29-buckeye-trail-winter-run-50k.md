@@ -3,7 +3,7 @@ id: 133
 title: Buckeye Trail Winter Run 50K
 date: 2005-12-29T14:41:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=133
 permalink: /2005/12/buckeye-trail-winter-run-50k/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 1122
 title: Nice end to the year
 date: 2009-12-31T17:49:10-06:00
 author: admin
-layout: post
+ 
 guid: http://www.afhill.com/gothedistance/2009/12/nice-end-to-the-year/
 permalink: /2009/12/nice-end-to-the-year/
 sociableoff:

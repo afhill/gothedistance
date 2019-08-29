@@ -3,7 +3,7 @@ id: 307
 title: Change of Plans
 date: 2006-01-15T09:38:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=307
 permalink: /2006/01/change-of-plans/
 tweetbackscheck:

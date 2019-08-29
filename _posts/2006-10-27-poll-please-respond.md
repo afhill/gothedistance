@@ -3,7 +3,7 @@ id: 227
 title: 'Poll &#8212; Please respond!'
 date: 2006-10-27T12:48:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=227
 permalink: /2006/10/poll-please-respond/
 tweetbackscheck:

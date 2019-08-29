@@ -3,7 +3,7 @@ id: 49
 title: Helen is a bad influence!
 date: 2005-09-21T22:30:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=49
 permalink: /2005/09/helen-is-a-bad-influence/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 88
 title: Crown King Scramble Transportation
 date: 2005-11-19T22:52:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=88
 permalink: /2005/11/crown-king-scramble-transportation/
 tweetbackscheck:

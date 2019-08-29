@@ -3,7 +3,7 @@ id: 238
 title: training paces
 date: 2006-11-27T15:00:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=238
 permalink: /2006/11/training-paces/
 tweetbackscheck:

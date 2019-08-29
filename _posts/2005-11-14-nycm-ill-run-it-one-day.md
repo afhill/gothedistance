@@ -3,7 +3,7 @@ id: 83
 title: 'NYCM &#8211; I&#8217;ll run it one day!'
 date: 2005-11-14T16:19:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=83
 permalink: /2005/11/nycm-ill-run-it-one-day/
 tweetbackscheck:

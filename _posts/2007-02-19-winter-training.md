@@ -3,7 +3,7 @@ id: 258
 title: Winter Training
 date: 2007-02-19T08:45:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=258
 permalink: /2007/02/winter-training/
 aktt_notify_twitter:

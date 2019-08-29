@@ -3,7 +3,7 @@ id: 6
 title: Hurrah for marathoning season!
 date: 2005-07-08T08:54:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=6
 permalink: /2005/07/hurrah-for-marathoning-season/
 tweetbackscheck:

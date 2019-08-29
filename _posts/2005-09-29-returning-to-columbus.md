@@ -3,7 +3,7 @@ id: 56
 title: returning to Columbus
 date: 2005-09-29T13:56:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=56
 permalink: /2005/09/returning-to-columbus/
 aktt_notify_twitter:

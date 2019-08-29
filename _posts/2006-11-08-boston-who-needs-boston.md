@@ -3,7 +3,7 @@ id: 234
 title: Boston, who needs Boston?
 date: 2006-11-08T08:43:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=234
 permalink: /2006/11/boston-who-needs-boston/
 tweetbackscheck:

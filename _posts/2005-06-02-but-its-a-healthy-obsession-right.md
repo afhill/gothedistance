@@ -3,7 +3,7 @@ id: 104
 title: 'but it&#8217;s a HEALTHY obsession, right?'
 date: 2005-06-02T21:33:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=104
 permalink: /2005/06/but-its-a-healthy-obsession-right/
 tweetbackscheck:

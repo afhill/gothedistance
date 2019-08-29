@@ -3,7 +3,7 @@ id: 483
 title: Buckeye Trail 50K Race Report (Gotta love a 1hr 45m PR!)
 date: 2008-07-20T11:30:15-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=483
 permalink: /2008/07/buckeye-trail-50k-race-report-gotta-love-a-1hr-45m-pr/
 aktt_notify_twitter:

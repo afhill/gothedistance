@@ -3,7 +3,7 @@ id: 615
 title: 'My First Race in Colorado &#8211; 10K Race Report'
 date: 2008-10-11T22:09:43-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=615
 permalink: /2008/10/my-first-race-in-colorado-10k-race-report/
 aktt_notify_twitter:

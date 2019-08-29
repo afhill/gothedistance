@@ -3,7 +3,7 @@ id: 924
 title: New(ton) Shoes!
 date: 2009-04-23T07:21:30-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=924
 permalink: /2009/04/newton-shoes/
 aktt_notify_twitter:

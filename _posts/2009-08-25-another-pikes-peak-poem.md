@@ -3,7 +3,7 @@ id: 1074
 title: Another Pikes Peak Poem
 date: 2009-08-25T21:21:58-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/08/another-pikes-peak-poem/
 permalink: /2009/08/another-pikes-peak-poem/
 sociableoff:

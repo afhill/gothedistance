@@ -3,7 +3,7 @@ id: 319
 title: three weeks?? how did that happen?
 date: 2007-09-17T08:05:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=319
 permalink: /2007/09/three-weeks-how-did-that-happen/
 aktt_notify_twitter:

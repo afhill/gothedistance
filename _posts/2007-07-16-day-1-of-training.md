@@ -3,7 +3,7 @@ id: 286
 title: Day 1 of training
 date: 2007-07-16T17:50:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=286
 permalink: /2007/07/day-1-of-training/
 tweetbackscheck:

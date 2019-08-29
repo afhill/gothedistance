@@ -3,7 +3,7 @@ id: 242
 title: I may have to seek out some new friends!
 date: 2006-12-16T07:24:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=242
 permalink: /2006/12/i-may-have-to-seek-out-some-new-friends/
 tweetbackscheck:

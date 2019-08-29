@@ -3,7 +3,7 @@ id: 144
 title: Not the same Boston Marathon
 date: 2006-01-17T21:24:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=144
 permalink: /2006/01/not-the-same-boston-marathon/
 tweetbackscheck:

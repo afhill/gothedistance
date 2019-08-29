@@ -3,7 +3,7 @@ id: 206
 title: Speedwork! Finally!
 date: 2006-09-27T20:21:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=206
 permalink: /2006/09/speedwork-finally/
 tweetbackscheck:

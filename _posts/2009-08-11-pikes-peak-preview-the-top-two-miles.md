@@ -3,7 +3,7 @@ id: 1050
 title: 'Pikes Peak Preview &#8211; the top two miles'
 date: 2009-08-11T22:48:03-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/08/pikes-peak-preview-the-top-two-miles/
 permalink: /2009/08/pikes-peak-preview-the-top-two-miles/
 aktt_notify_twitter:

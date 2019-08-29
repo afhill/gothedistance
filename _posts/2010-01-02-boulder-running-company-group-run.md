@@ -3,7 +3,7 @@ id: 1127
 title: Boulder Running Company Group Run
 date: 2010-01-02T12:00:19-06:00
 author: admin
-layout: post
+ 
 guid: http://www.afhill.com/gothedistance/?p=1127
 permalink: /2010/01/boulder-running-company-group-run/
 aktt_notify_twitter:

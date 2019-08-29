@@ -3,7 +3,7 @@ id: 66
 title: Columbus Race Report 10/16/2005
 date: 2005-10-16T19:21:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=66
 permalink: /2005/10/columbus-race-report-10162005/
 tweetbackscheck:

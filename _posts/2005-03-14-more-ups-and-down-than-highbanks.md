@@ -3,7 +3,7 @@ id: 18
 title: More ups and down than Highbanks
 date: 2005-03-14T21:40:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=18
 permalink: /2005/03/more-ups-and-down-than-highbanks/
 tweetbackscheck:

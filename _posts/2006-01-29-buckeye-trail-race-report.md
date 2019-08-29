@@ -3,7 +3,7 @@ id: 151
 title: Buckeye Trail Race Report
 date: 2006-01-29T21:33:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=151
 permalink: /2006/01/buckeye-trail-race-report/
 tweetbackscheck:

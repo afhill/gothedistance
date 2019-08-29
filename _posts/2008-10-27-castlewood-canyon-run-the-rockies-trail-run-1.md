@@ -3,7 +3,7 @@ id: 643
 title: 'Castlewood Canyon &#8211; Run the Rockies Trail Run #1'
 date: 2008-10-27T08:29:29-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=643
 permalink: /2008/10/castlewood-canyon-run-the-rockies-trail-run-1/
 aktt_notify_twitter:

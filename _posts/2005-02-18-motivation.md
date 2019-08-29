@@ -3,7 +3,7 @@ id: 22
 title: motivation
 date: 2005-02-18T21:42:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=22
 permalink: /2005/02/motivation/
 categories:

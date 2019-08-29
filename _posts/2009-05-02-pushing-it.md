@@ -3,7 +3,7 @@ id: 936
 title: Pushing it
 date: 2009-05-02T09:14:55-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=936
 permalink: /2009/05/pushing-it/
 aktt_notify_twitter:

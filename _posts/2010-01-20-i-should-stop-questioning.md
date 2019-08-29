@@ -3,7 +3,7 @@ id: 1155
 title: I should stop questioning
 date: 2010-01-20T23:15:50-06:00
 author: admin
-layout: post
+ 
 guid: http://www.afhill.com/gothedistance/2010/01/i-should-stop-questioning/
 permalink: /2010/01/i-should-stop-questioning/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 1027
 title: Andrea vs the Incline, Take Two
 date: 2009-07-03T20:18:41-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=1027
 permalink: /2009/07/andrea-vs-the-incline-take-two/
 sociableoff:

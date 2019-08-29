@@ -3,7 +3,7 @@ id: 917
 title: 'How you know you&#8217;re a derby girl'
 date: 2009-04-16T23:55:16-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=917
 permalink: /2009/04/how-you-know-youre-a-derby-girl/
 aktt_notify_twitter:

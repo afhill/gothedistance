@@ -3,7 +3,7 @@ id: 221
 title: Chicago Race Report
 date: 2006-10-22T21:14:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=221
 permalink: /2006/10/chicago-race-report/
 tweetbackscheck:

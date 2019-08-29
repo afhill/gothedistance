@@ -3,7 +3,7 @@ id: 135
 title: Check in for updates!
 date: 2006-01-05T19:07:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=135
 permalink: /2006/01/check-in-for-updates/
 tweetbackscheck:

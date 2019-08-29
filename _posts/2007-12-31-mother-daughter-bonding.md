@@ -3,7 +3,7 @@ id: 336
 title: Mother-Daughter Bonding
 date: 2007-12-31T05:37:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=336
 permalink: /2007/12/mother-daughter-bonding/
 tweetbackscheck:

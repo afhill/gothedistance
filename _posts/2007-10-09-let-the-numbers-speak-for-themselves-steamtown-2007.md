@@ -3,7 +3,7 @@ id: 324
 title: 'let the numbers speak for themselves&#8230; (Steamtown 2007)'
 date: 2007-10-09T00:48:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=324
 permalink: /2007/10/let-the-numbers-speak-for-themselves-steamtown-2007/
 aktt_notify_twitter:

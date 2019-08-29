@@ -3,7 +3,7 @@ id: 317
 title: Runners are the best
 date: 2007-09-06T17:24:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=317
 permalink: /2007/09/runners-are-the-best/
 tweetbackscheck:

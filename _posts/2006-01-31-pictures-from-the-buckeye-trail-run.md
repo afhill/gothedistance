@@ -3,7 +3,7 @@ id: 152
 title: Pictures from the Buckeye Trail Run
 date: 2006-01-31T07:29:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=152
 permalink: /2006/01/pictures-from-the-buckeye-trail-run/
 tweetbackscheck:

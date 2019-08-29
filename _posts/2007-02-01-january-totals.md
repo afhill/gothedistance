@@ -3,7 +3,7 @@ id: 252
 title: January totals
 date: 2007-02-01T12:59:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=252
 permalink: /2007/02/january-totals/
 aktt_notify_twitter:

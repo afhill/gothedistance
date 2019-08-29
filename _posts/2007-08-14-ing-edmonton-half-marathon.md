@@ -3,7 +3,7 @@ id: 298
 title: ING Edmonton Half-Marathon
 date: 2007-08-14T16:11:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=298
 permalink: /2007/08/ing-edmonton-half-marathon/
 aktt_notify_twitter:

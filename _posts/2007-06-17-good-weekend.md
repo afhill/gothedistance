@@ -3,7 +3,7 @@ id: 271
 title: good weekend!
 date: 2007-06-17T14:14:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=271
 permalink: /2007/06/good-weekend/
 tweetbackscheck:

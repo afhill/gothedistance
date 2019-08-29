@@ -3,7 +3,7 @@ id: 327
 title: columbus marathon
 date: 2007-10-18T16:27:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=327
 permalink: /2007/10/columbus-marathon/
 tweetbackscheck:

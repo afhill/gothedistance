@@ -3,7 +3,7 @@ id: 124
 title: Fellow Maniac
 date: 2005-12-11T15:53:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=124
 permalink: /2005/12/fellow-maniac/
 tweetbackscheck:

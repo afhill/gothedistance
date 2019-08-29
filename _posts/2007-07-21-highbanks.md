@@ -3,7 +3,7 @@ id: 288
 title: Highbanks
 date: 2007-07-21T10:30:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=288
 permalink: /2007/07/highbanks/
 tweetbackscheck:

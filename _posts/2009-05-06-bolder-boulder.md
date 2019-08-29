@@ -3,7 +3,7 @@ id: 961
 title: Bolder Boulder
 date: 2009-05-06T22:46:54-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/05/bolder-boulder/
 permalink: /2009/05/bolder-boulder/
 aktt_notify_twitter:

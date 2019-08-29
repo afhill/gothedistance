@@ -3,7 +3,7 @@ id: 893
 title: Rolling Right Along
 date: 2009-03-29T22:40:31-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/03/rolling-right-along/
 permalink: /2009/03/rolling-right-along/
 aktt_notify_twitter:

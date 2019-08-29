@@ -3,7 +3,7 @@ id: 292
 title: Lifeline of Ohio Half
 date: 2007-07-30T10:59:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=292
 permalink: /2007/07/lifeline-of-ohio-half/
 aktt_notify_twitter:

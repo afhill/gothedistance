@@ -3,7 +3,7 @@ id: 165
 title: Columbus Distance Classic
 date: 2006-04-03T12:36:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=165
 permalink: /2006/04/columbus-distance-classic/
 tweetbackscheck:

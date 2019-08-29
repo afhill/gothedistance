@@ -3,7 +3,7 @@ id: 954
 title: Barr Trail Run
 date: 2009-05-04T23:32:33-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=954
 permalink: /2009/05/barr-trail-run/
 aktt_notify_twitter:

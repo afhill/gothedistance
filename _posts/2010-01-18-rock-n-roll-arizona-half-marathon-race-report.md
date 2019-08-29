@@ -3,7 +3,7 @@ id: 1152
 title: Rock n Roll Arizona Half Marathon Race Report
 date: 2010-01-18T09:25:18-06:00
 author: admin
-layout: post
+ 
 guid: http://www.afhill.com/gothedistance/2010/01/rock-n-roll-arizona-half-marathon-race-report/
 permalink: /2010/01/rock-n-roll-arizona-half-marathon-race-report/
 sociableoff:

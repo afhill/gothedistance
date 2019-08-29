@@ -3,7 +3,7 @@ id: 211
 title: speedwork, part deux
 date: 2006-10-03T08:21:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=211
 permalink: /2006/10/speedwork-part-deux/
 aktt_notify_twitter:

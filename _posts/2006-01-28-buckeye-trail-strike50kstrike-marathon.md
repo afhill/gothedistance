@@ -3,7 +3,7 @@ id: 150
 title: Buckeye Trail 50K Marathon
 date: 2006-01-28T18:32:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=150
 permalink: /2006/01/buckeye-trail-strike50kstrike-marathon/
 aktt_notify_twitter:

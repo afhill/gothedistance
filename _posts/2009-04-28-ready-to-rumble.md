@@ -3,7 +3,7 @@ id: 933
 title: Ready to rumble!
 date: 2009-04-28T11:20:03-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/04/ready-to-rumble/
 permalink: /2009/04/ready-to-rumble/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 1046
 title: What are we getting into?
 date: 2009-08-11T08:25:51-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/08/what-are-we-getting-into/
 permalink: /2009/08/what-are-we-getting-into/
 aktt_notify_twitter:

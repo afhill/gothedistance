@@ -3,7 +3,7 @@ id: 816
 title: Rock and Roll Arizona Race Report
 date: 2009-01-18T15:09:50-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=816
 permalink: /2009/01/rock-and-roll-arizona-race-report/
 aktt_notify_twitter:

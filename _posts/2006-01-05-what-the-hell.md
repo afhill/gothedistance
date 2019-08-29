@@ -3,7 +3,7 @@ id: 136
 title: what. the hell.
 date: 2006-01-05T20:14:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=136
 permalink: /2006/01/what-the-hell/
 tweetbackscheck:

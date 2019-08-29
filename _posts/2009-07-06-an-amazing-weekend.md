@@ -3,7 +3,7 @@ id: 1031
 title: An amazing weekend
 date: 2009-07-06T19:35:49-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/07/an-amazing-weekend/
 permalink: /2009/07/an-amazing-weekend/
 aktt_notify_twitter:

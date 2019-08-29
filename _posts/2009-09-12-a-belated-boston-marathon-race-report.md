@@ -3,7 +3,7 @@ id: 1092
 title: A Belated Boston Marathon Race Report
 date: 2009-09-12T00:00:33-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=1092
 permalink: /2009/09/a-belated-boston-marathon-race-report/
 aktt_notify_twitter:

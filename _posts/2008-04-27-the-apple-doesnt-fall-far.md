@@ -3,7 +3,7 @@ id: 399
 title: 'The apple doesn&#8217;t fall far&#8230;'
 date: 2008-04-27T18:44:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=399
 permalink: /2008/04/the-apple-doesnt-fall-far/
 aktt_notify_twitter:

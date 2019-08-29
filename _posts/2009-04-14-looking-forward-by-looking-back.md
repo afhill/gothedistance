@@ -3,7 +3,7 @@ id: 903
 title: Looking forward by looking back
 date: 2009-04-14T20:19:39-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=903
 permalink: /2009/04/looking-forward-by-looking-back/
 aktt_notify_twitter:

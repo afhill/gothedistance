@@ -3,7 +3,7 @@ id: 326
 title: skybus = my new best friend
 date: 2007-10-16T09:25:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=326
 permalink: /2007/10/skybus-my-new-best-friend/
 tweetbackscheck:

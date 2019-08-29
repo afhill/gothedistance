@@ -3,7 +3,7 @@ id: 21
 title: group motivation
 date: 2005-02-21T21:41:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=21
 permalink: /2005/02/group-motivation/
 aktt_notify_twitter:

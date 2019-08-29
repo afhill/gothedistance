@@ -3,7 +3,7 @@ id: 84
 title: geez I sound like PR Paul..
 date: 2005-11-16T10:36:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=84
 permalink: /2005/11/geez-i-sound-like-pr-paul/
 tweetbackscheck:

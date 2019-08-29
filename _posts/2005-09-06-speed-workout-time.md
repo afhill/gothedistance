@@ -3,7 +3,7 @@ id: 39
 title: speed workout time
 date: 2005-09-06T08:50:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=39
 permalink: /2005/09/speed-workout-time/
 tweetbackscheck:

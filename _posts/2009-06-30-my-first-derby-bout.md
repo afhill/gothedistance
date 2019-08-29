@@ -3,7 +3,7 @@ id: 1010
 title: My First Derby Bout!
 date: 2009-06-30T14:12:59-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=1010
 permalink: /2009/06/my-first-derby-bout/
 sociableoff:

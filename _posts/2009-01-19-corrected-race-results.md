@@ -3,7 +3,7 @@ id: 821
 title: Corrected race results
 date: 2009-01-19T22:37:30-06:00
 author: admin
-layout: post
+
 guid: http://www.afhill.com/gothedistance/2009/01/corrected-race-results/
 permalink: /2009/01/corrected-race-results/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 261
 title: Getting serious
 date: 2007-03-03T17:25:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=261
 permalink: /2007/03/getting-serious/
 aktt_notify_twitter:

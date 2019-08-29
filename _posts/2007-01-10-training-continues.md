@@ -3,7 +3,7 @@ id: 246
 title: 'Training continues&#8230;'
 date: 2007-01-10T12:57:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=246
 permalink: /2007/01/training-continues/
 tweetbackscheck:

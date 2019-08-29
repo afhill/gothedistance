@@ -3,7 +3,7 @@ id: 854
 title: January Monthly Mileage
 date: 2009-02-15T12:44:14-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=854
 permalink: /2009/02/january-monthly-mileage/
 aktt_notify_twitter:

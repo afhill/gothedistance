@@ -3,7 +3,7 @@ id: 803
 title: The last long run before Phoenix
 date: 2009-01-10T15:58:50-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=803
 permalink: /2009/01/the-last-long-run-before-phoenix/
 sociableoff:

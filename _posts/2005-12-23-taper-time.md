@@ -3,7 +3,7 @@ id: 128
 title: taper time!
 date: 2005-12-23T13:06:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=128
 permalink: /2005/12/taper-time/
 tweetbackscheck:

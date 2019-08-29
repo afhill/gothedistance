@@ -3,7 +3,7 @@ id: 316
 title: Buckeye Classic 10K Recap
 date: 2007-09-02T13:00:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=316
 permalink: /2007/09/buckeye-classic-10k-recap/
 tweetbackscheck:

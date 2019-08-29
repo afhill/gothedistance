@@ -3,7 +3,7 @@ id: 323
 title: 'Race results&#8230;.'
 date: 2007-10-01T07:42:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=323
 permalink: /2007/10/race-results/
 tweetbackscheck:

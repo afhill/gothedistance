@@ -3,7 +3,7 @@ id: 155
 title: 'weekend runs &#8211; I like to mix it up!'
 date: 2006-02-05T18:03:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=155
 permalink: /2006/02/weekend-runs-i-like-to-mix-it-up/
 tweetbackscheck:

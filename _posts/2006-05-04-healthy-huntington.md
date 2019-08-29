@@ -3,7 +3,7 @@ id: 176
 title: Healthy Huntington
 date: 2006-05-04T17:26:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=176
 permalink: /2006/05/healthy-huntington/
 tweetbackscheck:

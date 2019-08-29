@@ -3,7 +3,7 @@ id: 314
 title: 'and it falls into place&#8230;'
 date: 2007-08-29T14:17:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=314
 permalink: /2007/08/and-it-falls-into-place/
 tweetbackscheck:

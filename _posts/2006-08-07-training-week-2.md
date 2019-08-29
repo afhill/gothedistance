@@ -3,7 +3,7 @@ id: 189
 title: 'Training &#8211; Week 2'
 date: 2006-08-07T14:07:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=189
 permalink: /2006/08/training-week-2/
 tweetbackscheck:

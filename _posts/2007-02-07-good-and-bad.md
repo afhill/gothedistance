@@ -3,7 +3,7 @@ id: 255
 title: Good and Bad
 date: 2007-02-07T10:29:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=255
 permalink: /2007/02/good-and-bad/
 tweetbackscheck:

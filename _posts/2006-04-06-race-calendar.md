@@ -3,7 +3,7 @@ id: 166
 title: race calendar
 date: 2006-04-06T11:55:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=166
 permalink: /2006/04/race-calendar/
 tweetbackscheck:

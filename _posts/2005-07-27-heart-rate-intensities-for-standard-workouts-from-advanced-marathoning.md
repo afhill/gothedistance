@@ -3,7 +3,7 @@ id: 27
 title: Heart Rate Intensities for Standard Workouts (from Advanced Marathoning)
 date: 2005-07-27T19:08:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=27
 permalink: /2005/07/heart-rate-intensities-for-standard-workouts-from-advanced-marathoning/
 tweetbackscheck:

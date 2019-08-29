@@ -3,7 +3,7 @@ id: 233
 title: Marshall University Marathon Race Report
 date: 2006-11-07T17:53:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=233
 permalink: /2006/11/marshall-university-marathon-race-report/
 tweetbackscheck:

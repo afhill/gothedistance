@@ -3,7 +3,7 @@ id: 62
 title: Steamtown Marathon Race Report
 date: 2005-10-09T18:07:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=62
 permalink: /2005/10/steamtown-race-report/
 sociableoff:

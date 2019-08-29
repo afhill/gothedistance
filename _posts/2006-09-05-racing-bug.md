@@ -3,7 +3,7 @@ id: 196
 title: racing bug?
 date: 2006-09-05T07:52:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=196
 permalink: /2006/09/racing-bug/
 tweetbackscheck:

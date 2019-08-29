@@ -3,7 +3,7 @@ id: 117
 title: Year End Race Roundup
 date: 2005-12-04T21:13:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=117
 permalink: /2005/12/year-end-race-roundup/
 tweetbackscheck:

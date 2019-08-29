@@ -3,7 +3,7 @@ id: 964
 title: Cross-cross training
 date: 2009-05-10T14:08:06-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/05/cross-cross-training/
 permalink: /2009/05/cross-cross-training/
 aktt_notify_twitter:

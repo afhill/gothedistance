@@ -3,7 +3,7 @@ id: 145
 title: wish me luck!
 date: 2006-01-18T18:47:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=145
 permalink: /2006/01/wish-me-luck/
 tweetbackscheck:

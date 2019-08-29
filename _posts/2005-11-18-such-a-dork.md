@@ -3,7 +3,7 @@ id: 86
 title: such a dork!
 date: 2005-11-18T14:53:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=86
 permalink: /2005/11/such-a-dork/
 tweetbackscheck:

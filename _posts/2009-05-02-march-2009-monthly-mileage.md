@@ -3,7 +3,7 @@ id: 905
 title: March 2009 Monthly Mileage
 date: 2009-05-02T08:54:56-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=905
 permalink: /2009/05/march-2009-monthly-mileage/
 aktt_notify_twitter:

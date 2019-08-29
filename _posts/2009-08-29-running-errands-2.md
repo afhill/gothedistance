@@ -3,7 +3,7 @@ id: 1077
 title: Running errands
 date: 2009-08-29T07:26:33-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/08/running-errands-2/
 permalink: /2009/08/running-errands-2/
 sociableoff:

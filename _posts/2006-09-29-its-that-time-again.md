@@ -3,7 +3,7 @@ id: 207
 title: 'it&#8217;s that time again&#8230;.'
 date: 2006-09-29T08:27:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=207
 permalink: /2006/09/its-that-time-again/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 212
 title: looking back
 date: 2006-10-04T15:43:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=212
 permalink: /2006/10/looking-back/
 tweetbackscheck:

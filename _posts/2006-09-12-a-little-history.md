@@ -3,7 +3,7 @@ id: 201
 title: 'A little history&#8230;'
 date: 2006-09-12T17:09:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=201
 permalink: /2006/09/a-little-history/
 aktt_notify_twitter:

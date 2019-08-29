@@ -3,7 +3,7 @@ id: 157
 title: 'Running Partners &#8211; Podcast'
 date: 2006-02-09T08:01:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=157
 permalink: /2006/02/running-partners-podcast/
 tweetbackscheck:

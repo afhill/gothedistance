@@ -3,7 +3,7 @@ id: 203
 title: Lifesaver award and a poll
 date: 2006-09-21T12:37:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=203
 permalink: /2006/09/lifesaver-award-and-a-poll/
 tweetbackscheck:

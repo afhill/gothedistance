@@ -3,7 +3,7 @@ id: 310
 title: October 2006
 date: 2006-10-30T08:56:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=310
 permalink: /2006/10/monthly-totals/
 aktt_notify_twitter:

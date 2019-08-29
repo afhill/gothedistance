@@ -3,7 +3,7 @@ id: 198
 title: The answer to Indian Run or State to State Half..
 date: 2006-09-07T08:07:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=198
 permalink: /2006/09/the-answer-to-indian-run-or-state-to-state-half/
 tweetbackscheck:

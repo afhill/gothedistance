@@ -3,7 +3,7 @@ id: 241
 title: How quickly it goes..
 date: 2006-12-14T16:52:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=241
 permalink: /2006/12/posted-using-a-hrefhttpwwwlivejournalcommanagesmstxtlja/
 aktt_notify_twitter:

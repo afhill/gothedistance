@@ -3,7 +3,7 @@ id: 1011
 title: RollerCon
 date: 2009-06-28T20:10:31-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/06/rollercon/
 permalink: /2009/06/rollercon/
 aktt_notify_twitter:

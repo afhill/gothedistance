@@ -3,7 +3,7 @@ id: 20
 title: why does working out make you feel old??
 date: 2005-02-25T21:41:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=20
 permalink: /2005/02/why-does-working-out-make-you-feel-old/
 tweetbackscheck:

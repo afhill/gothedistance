@@ -3,7 +3,7 @@ id: 322
 title: hurray for tapering!
 date: 2007-09-30T13:47:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=322
 permalink: /2007/09/hurray-for-tapering/
 aktt_notify_twitter:

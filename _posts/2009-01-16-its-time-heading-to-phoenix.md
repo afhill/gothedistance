@@ -3,7 +3,7 @@ id: 811
 title: 'It&#8217;s time!  (heading to Phoenix)'
 date: 2009-01-16T09:00:18-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=811
 permalink: /2009/01/its-time-heading-to-phoenix/
 aktt_notify_twitter:

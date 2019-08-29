@@ -3,7 +3,7 @@ id: 891
 title: 'A Sign You&#8217;re Three Weeks from &#8216;the Big Day&#8221;'
 date: 2009-03-29T11:35:39-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=891
 permalink: /2009/03/three-weeks/
 sociableoff:

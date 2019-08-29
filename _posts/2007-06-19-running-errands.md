@@ -3,7 +3,7 @@ id: 273
 title: '&#8220;Running&#8221; errands'
 date: 2007-06-19T09:32:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=273
 permalink: /2007/06/running-errands/
 aktt_notify_twitter:

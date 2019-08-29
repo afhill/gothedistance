@@ -3,7 +3,7 @@ id: 966
 title: Living up to my surname (Hill)
 date: 2009-05-10T14:42:51-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/05/living-up-to-my-surname/
 permalink: /2009/05/living-up-to-my-surname/
 aktt_notify_twitter:

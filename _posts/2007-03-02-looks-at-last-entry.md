@@ -3,7 +3,7 @@ id: 260
 title: '*looks at last entry*'
 date: 2007-03-02T13:15:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=260
 permalink: /2007/03/looks-at-last-entry/
 tweetbackscheck:

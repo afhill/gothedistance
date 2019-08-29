@@ -3,7 +3,7 @@ id: 210
 title: September totals
 date: 2006-10-01T19:59:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=210
 permalink: /2006/10/september-totals/
 aktt_notify_twitter:

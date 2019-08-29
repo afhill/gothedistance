@@ -3,7 +3,7 @@ id: 44
 title: small runners world!
 date: 2005-09-13T16:19:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=44
 permalink: /2005/09/small-runners-world/
 tweetbackscheck:

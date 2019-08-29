@@ -3,7 +3,7 @@ id: 259
 title: good morning!
 date: 2007-02-20T08:44:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=259
 permalink: /2007/02/good-morning/
 tweetbackscheck:

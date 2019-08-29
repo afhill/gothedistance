@@ -3,7 +3,7 @@ id: 284
 title: into the swing of things
 date: 2007-07-14T09:49:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=284
 permalink: /2007/07/into-the-swing-of-things/
 tweetbackscheck:

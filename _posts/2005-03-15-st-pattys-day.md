@@ -3,7 +3,7 @@ id: 17
 title: 'St. Patty&#8217;s Day'
 date: 2005-03-15T21:39:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=17
 permalink: /2005/03/st-pattys-day/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 405
 title: Boston 2008 Race Report
 date: 2008-05-25T10:05:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2008/05/boston-2008-race-report/
 permalink: /2008/05/boston-2008-race-report/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 188
 title: 'Actuals &#8211; week 1'
 date: 2006-08-06T10:04:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=188
 permalink: /2006/08/actuals-week-1/
 tweetbackscheck:

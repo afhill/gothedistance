@@ -3,7 +3,7 @@ id: 830
 title: Trying out for Roller Derby
 date: 2009-01-22T22:56:27-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/01/trying-out-for-roller-derby/
 permalink: /2009/01/trying-out-for-roller-derby/
 aktt_notify_twitter:

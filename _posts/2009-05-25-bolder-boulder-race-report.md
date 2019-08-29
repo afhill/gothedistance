@@ -3,7 +3,7 @@ id: 982
 title: Bolder Boulder Race Report
 date: 2009-05-25T15:37:30-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/05/bolder-boulder-race-report/
 permalink: /2009/05/bolder-boulder-race-report/
 aktt_notify_twitter:

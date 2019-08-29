@@ -3,7 +3,7 @@ id: 137
 title: Voice Post
 date: 2006-01-07T13:28:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=137
 permalink: /2006/01/voice-post/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 231
 title: the reason i hate small races
 date: 2006-11-05T12:10:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=231
 permalink: /2006/11/the-reason-i-hate-small-races/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 847
 title: Derby FAQs
 date: 2009-02-07T10:19:46-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=847
 permalink: /2009/02/derby-faqs/
 aktt_notify_twitter:

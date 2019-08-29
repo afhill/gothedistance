@@ -3,7 +3,7 @@ id: 236
 title: looking forward
 date: 2006-11-27T13:48:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=236
 permalink: /2006/11/looking-forward/
 tweetbackscheck:

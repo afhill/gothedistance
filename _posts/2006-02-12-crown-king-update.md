@@ -3,7 +3,7 @@ id: 159
 title: 'Crown King Update&#8230;'
 date: 2006-02-12T13:04:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=159
 permalink: /2006/02/crown-king-update/
 tweetbackscheck:

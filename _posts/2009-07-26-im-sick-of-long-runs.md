@@ -3,7 +3,7 @@ id: 1045
 title: 'I&#8217;m sick of long runs!'
 date: 2009-07-26T09:33:30-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/07/im-sick-of-long-runs/
 permalink: /2009/07/im-sick-of-long-runs/
 aktt_notify_twitter:

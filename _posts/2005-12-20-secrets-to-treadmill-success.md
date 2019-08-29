@@ -3,7 +3,7 @@ id: 126
 title: secrets to treadmill success
 date: 2005-12-20T20:20:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=126
 permalink: /2005/12/secrets-to-treadmill-success/
 tweetbackscheck:

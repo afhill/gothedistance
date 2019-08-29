@@ -3,7 +3,7 @@ id: 275
 title: happy birthday to me
 date: 2007-06-25T10:53:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=275
 permalink: /2007/06/happy-birthday-to-me/
 tweetbackscheck:

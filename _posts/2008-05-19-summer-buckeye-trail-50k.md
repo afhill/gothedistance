@@ -3,7 +3,7 @@ id: 423
 title: Summer Buckeye Trail 50K
 date: 2008-05-19T15:33:04-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=423
 permalink: /2008/05/summer-buckeye-trail-50k/
 aktt_notify_twitter:

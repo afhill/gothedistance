@@ -3,7 +3,7 @@ id: 700
 title: 'Define &#8220;Easy Run&#8221; &#8211; the Merits of Having a Training Coach'
 date: 2008-11-29T16:25:15-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=700
 permalink: /2008/11/define-easy-run-the-merits-of-having-a-training-coach/
 aktt_notify_twitter:

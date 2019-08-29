@@ -3,7 +3,7 @@ id: 333
 title: totally not running related..
 date: 2007-11-13T11:59:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=333
 permalink: /2007/11/totally-not-running-related/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 1150
 title: First Week of the New Year!
 date: 2010-01-10T14:54:03-06:00
 author: admin
-layout: post
+ 
 guid: http://www.afhill.com/gothedistance/?p=1150
 permalink: /2010/01/first-week-of-the-new-year/
 aktt_notify_twitter:

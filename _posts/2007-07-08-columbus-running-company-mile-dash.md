@@ -3,7 +3,7 @@ id: 283
 title: Columbus Running Company Mile Dash
 date: 2007-07-08T11:21:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=283
 permalink: /2007/07/columbus-running-company-mile-dash/
 tweetbackscheck:

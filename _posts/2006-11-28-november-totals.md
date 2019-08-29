@@ -3,7 +3,7 @@ id: 239
 title: november totals
 date: 2006-11-28T12:39:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=239
 permalink: /2006/11/november-totals/
 aktt_notify_twitter:

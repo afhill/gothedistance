@@ -3,7 +3,7 @@ id: 853
 title: 'I&#8217;m such a glutton for punishment&#8230;'
 date: 2009-02-10T13:10:46-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/02/im-such-a-glutton-for-punishment/
 permalink: /2009/02/im-such-a-glutton-for-punishment/
 aktt_notify_twitter:

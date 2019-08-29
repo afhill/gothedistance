@@ -3,7 +3,7 @@ id: 230
 title: official announcement
 date: 2006-11-02T16:06:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=230
 permalink: /2006/11/official-announcement/
 tweetbackscheck:

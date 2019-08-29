@@ -3,7 +3,7 @@ id: 182
 title: starting miles
 date: 2006-05-25T09:53:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=182
 permalink: /2006/05/starting-miles/
 tweetbackscheck:

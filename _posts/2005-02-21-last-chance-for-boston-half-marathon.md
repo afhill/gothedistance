@@ -3,7 +3,7 @@ id: 109
 title: Last Chance for Boston Half Marathon
 date: 2005-02-21T21:42:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=109
 permalink: /2005/02/last-chance-for-boston-half-marathon/
 aktt_notify_twitter:

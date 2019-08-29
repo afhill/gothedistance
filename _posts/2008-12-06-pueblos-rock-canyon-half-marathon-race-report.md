@@ -3,7 +3,7 @@ id: 709
 title: 'Pueblo&#8217;s Rock Canyon Half Marathon Race Report'
 date: 2008-12-06T16:33:28-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=709
 permalink: /2008/12/pueblos-rock-canyon-half-marathon-race-report/
 aktt_notify_twitter:

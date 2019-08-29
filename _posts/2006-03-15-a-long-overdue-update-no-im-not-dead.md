@@ -3,7 +3,7 @@ id: 160
 title: 'A long overdue update (no, I&#8217;m not dead)'
 date: 2006-03-15T14:40:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=160
 permalink: /2006/03/a-long-overdue-update-no-im-not-dead/
 tweetbackscheck:

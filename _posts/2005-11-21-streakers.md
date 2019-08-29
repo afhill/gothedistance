@@ -3,7 +3,7 @@ id: 92
 title: streakers!
 date: 2005-11-21T14:34:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=92
 permalink: /2005/11/streakers/
 tweetbackscheck:

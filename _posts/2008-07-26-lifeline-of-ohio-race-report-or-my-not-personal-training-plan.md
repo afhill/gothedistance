@@ -3,7 +3,7 @@ id: 495
 title: Lifeline of Ohio Race Report (or, my not-personal training plan)
 date: 2008-07-26T15:31:22-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=495
 permalink: /2008/07/lifeline-of-ohio-race-report-or-my-not-personal-training-plan/
 aktt_notify_twitter:

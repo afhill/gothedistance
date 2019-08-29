@@ -3,7 +3,7 @@ id: 1079
 title: Peer Pressure
 date: 2009-09-06T08:20:10-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/09/peer-pressure/
 permalink: /2009/09/peer-pressure/
 aktt_notify_twitter:

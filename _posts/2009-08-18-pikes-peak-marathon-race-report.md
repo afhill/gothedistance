@@ -3,7 +3,7 @@ id: 1059
 title: Pikes Peak Marathon Race Report
 date: 2009-08-18T07:52:07-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/08/pikes-peak-marathon-race-report/
 permalink: /2009/08/pikes-peak-marathon-race-report/
 sociableoff:

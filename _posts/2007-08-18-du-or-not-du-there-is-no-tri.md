@@ -3,7 +3,7 @@ id: 300
 title: '&#8220;DU or not DU. There is no TRI.&#8221;'
 date: 2007-08-18T13:59:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=300
 permalink: /2007/08/du-or-not-du-there-is-no-tri/
 tweetbackscheck:

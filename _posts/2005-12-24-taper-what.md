@@ -3,7 +3,7 @@ id: 130
 title: taper, what?
 date: 2005-12-24T09:17:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=130
 permalink: /2005/12/taper-what/
 tweetbackscheck:

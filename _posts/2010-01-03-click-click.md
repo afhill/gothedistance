@@ -3,7 +3,7 @@ id: 1140
 title: 'Click Click&#8230;'
 date: 2010-01-03T12:18:37-06:00
 author: admin
-layout: post
+ 
 guid: http://www.afhill.com/gothedistance/?p=1140
 permalink: /2010/01/click-click/
 sociableoff:

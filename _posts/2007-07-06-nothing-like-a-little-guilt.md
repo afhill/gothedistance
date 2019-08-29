@@ -3,7 +3,7 @@ id: 280
 title: 'Nothing like a little guilt&#8230;'
 date: 2007-07-06T21:36:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=280
 permalink: /2007/07/nothing-like-a-little-guilt/
 tweetbackscheck:

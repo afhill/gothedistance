@@ -3,7 +3,7 @@ id: 47
 title: Indian Run Race Report
 date: 2005-09-17T16:11:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=47
 permalink: /2005/09/indian-run-race-report/
 aktt_notify_twitter:

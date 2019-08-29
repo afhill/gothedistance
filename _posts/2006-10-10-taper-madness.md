@@ -3,7 +3,7 @@ id: 215
 title: taper madness?
 date: 2006-10-10T16:54:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=215
 permalink: /2006/10/taper-madness/
 tweetbackscheck:

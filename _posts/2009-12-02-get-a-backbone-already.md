@@ -3,7 +3,7 @@ id: 1110
 title: Get a backbone already!
 date: 2009-12-02T23:03:17-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/12/get-a-backbone-already/
 permalink: /2009/12/get-a-backbone-already/
 aktt_notify_twitter:

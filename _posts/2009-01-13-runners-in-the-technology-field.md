@@ -3,7 +3,7 @@ id: 807
 title: Runners in the Technology Field
 date: 2009-01-13T08:25:56-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/01/runners-in-the-technology-field/
 permalink: /2009/01/runners-in-the-technology-field/
 aktt_notify_twitter:

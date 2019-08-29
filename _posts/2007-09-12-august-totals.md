@@ -3,7 +3,7 @@ id: 318
 title: August totals
 date: 2007-09-12T10:24:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=318
 permalink: /2007/09/august-totals/
 tweetbackscheck:

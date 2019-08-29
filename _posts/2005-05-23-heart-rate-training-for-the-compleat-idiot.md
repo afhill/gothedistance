@@ -3,7 +3,7 @@ id: 11
 title: Heart Rate Training for the Compleat Idiot
 date: 2005-05-23T21:35:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=11
 permalink: /2005/05/heart-rate-training-for-the-compleat-idiot/
 tweetbackscheck:

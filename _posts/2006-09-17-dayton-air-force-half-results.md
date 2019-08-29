@@ -3,7 +3,7 @@ id: 202
 title: Dayton Air Force Half Results
 date: 2006-09-17T17:57:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=202
 permalink: /2006/09/dayton-air-force-half-results/
 tweetbackscheck:

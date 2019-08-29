@@ -3,7 +3,7 @@ id: 190
 title: Week 2 Actuals
 date: 2006-08-14T21:32:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=190
 permalink: /2006/08/week-2-actuals/
 tweetbackscheck:

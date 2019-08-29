@@ -3,7 +3,7 @@ id: 26
 title: 'first mods&#8230;'
 date: 2005-07-25T15:18:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=26
 permalink: /2005/07/first-mods/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 289
 title: One week down, Eleven to go!
 date: 2007-07-23T12:51:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=289
 permalink: /2007/07/one-week-down-eleven-to-go/
 tweetbackscheck:

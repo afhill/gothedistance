@@ -3,7 +3,7 @@ id: 856
 title: Last Chance for Boston Marathon Race Report
 date: 2009-02-18T09:49:31-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=856
 permalink: /2009/02/last-chance-for-boston-marathon-race-report/
 aktt_notify_twitter:

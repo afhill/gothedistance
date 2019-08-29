@@ -3,7 +3,7 @@ id: 208
 title: oops I did it again
 date: 2006-09-30T10:02:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=208
 permalink: /2006/09/oops-i-did-it-again/
 categories:

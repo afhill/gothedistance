@@ -3,7 +3,7 @@ id: 217
 title: target race?
 date: 2006-10-17T10:34:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=217
 permalink: /2006/10/target-race/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 237
 title: armchair training
 date: 2006-11-27T13:53:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=237
 permalink: /2006/11/armchair-training/
 tweetbackscheck:

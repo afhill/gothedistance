@@ -3,7 +3,7 @@ id: 871
 title: Colorado Races
 date: 2009-03-06T20:42:57-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/03/colorado-races/
 permalink: /2009/03/colorado-races/
 aktt_notify_twitter:

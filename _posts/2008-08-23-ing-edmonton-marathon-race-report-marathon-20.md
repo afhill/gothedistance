@@ -3,7 +3,7 @@ id: 543
 title: 'ING Edmonton Marathon Race Report (Marathon #20!)'
 date: 2008-08-23T11:51:26-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=543
 permalink: /2008/08/ing-edmonton-marathon-race-report-marathon-20/
 aktt_notify_twitter:

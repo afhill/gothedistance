@@ -3,7 +3,7 @@ id: 249
 title: Marshall University
 date: 2007-01-17T11:25:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=249
 permalink: /2007/01/marshall-university/
 categories:

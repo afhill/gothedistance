@@ -1,34 +1,6 @@
 ---
-id: 948
 title: Boston Marathon 2009 Pre-Race Report
-date: 2009-05-02T10:01:15-06:00
-author: admin
-layout: post
-guid: http://www.afhill.com/gothedistance/2009/05/boston-marathon-2009-pre-race-report/
-permalink: /2009/05/boston-marathon-2009-pre-race-report/
-aktt_notify_twitter:
-  - 'no'
-  - 'no'
-sociableoff:
-  - 'false'
-  - 'false'
-tweetbackscheck:
-  - "1243782257"
-  - "1243782257"
-shorturls:
-  - 'a:7:{s:9:"permalink";s:81:"http://www.afhill.com/gothedistance/2009/05/boston-marathon-2009-pre-race-report/";s:7:"tinyurl";s:25:"http://tinyurl.com/pt58pk";s:4:"isgd";s:17:"http://is.gd/znYz";s:5:"bitly";s:19:"http://bit.ly/5BJk2";s:5:"snipr";s:22:"http://snipr.com/hx5vp";s:5:"snurl";s:22:"http://snurl.com/hx5vp";s:7:"snipurl";s:24:"http://snipurl.com/hx5vp";}'
-  - 'a:7:{s:9:"permalink";s:81:"http://www.afhill.com/gothedistance/2009/05/boston-marathon-2009-pre-race-report/";s:7:"tinyurl";s:25:"http://tinyurl.com/pt58pk";s:4:"isgd";s:17:"http://is.gd/znYz";s:5:"bitly";s:19:"http://bit.ly/5BJk2";s:5:"snipr";s:22:"http://snipr.com/hx5vp";s:5:"snurl";s:22:"http://snurl.com/hx5vp";s:7:"snipurl";s:24:"http://snipurl.com/hx5vp";}'
-twittercomments:
-  - 'a:0:{}'
-  - 'a:0:{}'
-tweetcount:
-  - "0"
-  - "0"
-dsq_thread_id:
-  - "19953389"
-  - "19953389"
-categories:
-  - General
+
 ---
 This year was my 4th Boston, and I was really looking forward to seeing my race buddies as much as anything. For the first time, I was going to be staying at a hotel close to the action, and Helen and I were going to share the room. 
 

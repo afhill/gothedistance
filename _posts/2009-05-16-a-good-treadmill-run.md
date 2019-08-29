@@ -3,7 +3,7 @@ id: 973
 title: A good treadmill run!
 date: 2009-05-16T16:57:48-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/05/a-good-treadmill-run/
 permalink: /2009/05/a-good-treadmill-run/
 aktt_notify_twitter:

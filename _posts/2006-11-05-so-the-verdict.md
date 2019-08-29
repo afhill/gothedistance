@@ -3,7 +3,7 @@ id: 232
 title: so the verdict?
 date: 2006-11-05T13:53:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=232
 permalink: /2006/11/so-the-verdict/
 tweetbackscheck:

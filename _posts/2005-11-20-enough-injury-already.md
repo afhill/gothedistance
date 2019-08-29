@@ -3,7 +3,7 @@ id: 89
 title: Enough injury, already!
 date: 2005-11-20T12:15:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=89
 permalink: /2005/11/enough-injury-already/
 tweetbackscheck:

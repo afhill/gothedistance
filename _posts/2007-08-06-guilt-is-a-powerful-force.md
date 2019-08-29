@@ -3,7 +3,7 @@ id: 296
 title: 'guilt is a powerful force&#8230;'
 date: 2007-08-06T11:24:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=296
 permalink: /2007/08/guilt-is-a-powerful-force/
 tweetbackscheck:

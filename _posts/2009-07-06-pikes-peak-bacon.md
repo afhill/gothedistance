@@ -3,7 +3,7 @@ id: 1030
 title: Pikes Peak Bacon!
 date: 2009-07-06T07:39:30-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/07/pikes-peak-bacon/
 permalink: /2009/07/pikes-peak-bacon/
 sociableoff:

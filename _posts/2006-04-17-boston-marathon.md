@@ -3,7 +3,7 @@ id: 168
 title: Boston Marathon 2006 Race Report
 date: 2006-04-17T17:43:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=168
 permalink: /2006/04/boston-marathon/
 aktt_notify_twitter:

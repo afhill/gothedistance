@@ -3,7 +3,7 @@ id: 955
 title: What I did this weekend
 date: 2009-05-03T18:39:22-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/05/what-i-did-this-weekend/
 permalink: /2009/05/what-i-did-this-weekend/
 aktt_notify_twitter:

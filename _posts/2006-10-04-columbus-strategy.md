@@ -3,7 +3,7 @@ id: 213
 title: Columbus Strategy
 date: 2006-10-04T16:37:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=213
 permalink: /2006/10/columbus-strategy/
 aktt_notify_twitter:

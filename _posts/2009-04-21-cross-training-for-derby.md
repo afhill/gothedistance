@@ -3,7 +3,7 @@ id: 920
 title: Cross-training for derby
 date: 2009-04-21T11:27:49-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=920
 permalink: /2009/04/cross-training-for-derby/
 aktt_notify_twitter:

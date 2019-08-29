@@ -3,7 +3,7 @@ id: 278
 title: Canadian Death Race
 date: 2007-07-01T10:07:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=278
 permalink: /2007/07/canadian-death-race/
 tweetbackscheck:

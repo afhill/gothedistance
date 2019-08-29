@@ -3,7 +3,7 @@ id: 181
 title: 'today&#8217;s workout:'
 date: 2006-05-24T16:11:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=181
 permalink: /2006/05/todays-workout/
 tweetbackscheck:

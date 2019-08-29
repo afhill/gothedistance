@@ -3,7 +3,7 @@ id: 301
 title: 'Training recap&#8230;'
 date: 2007-08-18T14:13:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=301
 permalink: /2007/08/training-recap/
 aktt_notify_twitter:

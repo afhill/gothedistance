@@ -3,7 +3,7 @@ id: 113
 title: mileage totals
 date: 2005-09-01T11:38:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=113
 permalink: /2005/09/mileage-totals/
 tweetbackscheck:

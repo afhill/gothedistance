@@ -3,7 +3,7 @@ id: 303
 title: heart rate
 date: 2005-06-13T21:30:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=303
 permalink: /2005/06/heart-rate/
 tweetbackscheck:

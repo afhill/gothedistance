@@ -3,7 +3,7 @@ id: 256
 title: Marathon room
 date: 2007-02-14T06:45:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=256
 permalink: /2007/02/marathon-room/
 tweetbackscheck:

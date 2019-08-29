@@ -3,7 +3,7 @@ id: 613
 title: Running errands, and an unofficial PR!
 date: 2008-09-30T20:15:08-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=613
 permalink: /2008/09/running-errands-and-an-unofficial-pr/
 aktt_notify_twitter:

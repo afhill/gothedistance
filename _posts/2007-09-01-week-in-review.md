@@ -3,7 +3,7 @@ id: 315
 title: Week in review
 date: 2007-09-01T17:52:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=315
 permalink: /2007/09/week-in-review/
 aktt_notify_twitter:

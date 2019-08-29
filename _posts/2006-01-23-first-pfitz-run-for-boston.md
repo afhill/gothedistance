@@ -3,7 +3,7 @@ id: 148
 title: First Pfitz Run for Boston
 date: 2006-01-23T22:12:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=148
 permalink: /2006/01/first-pfitz-run-for-boston/
 tweetbackscheck:

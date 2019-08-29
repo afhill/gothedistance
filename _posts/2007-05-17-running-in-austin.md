@@ -3,7 +3,7 @@ id: 269
 title: Running in Austin
 date: 2007-05-17T08:03:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=269
 permalink: /2007/05/running-in-austin/
 aktt_notify_twitter:

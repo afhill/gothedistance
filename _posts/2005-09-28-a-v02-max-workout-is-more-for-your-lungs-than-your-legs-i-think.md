@@ -3,7 +3,7 @@ id: 55
 title: A V02 Max workout is more for your lungs than your legs, I think..
 date: 2005-09-28T14:00:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=55
 permalink: /2005/09/a-v02-max-workout-is-more-for-your-lungs-than-your-legs-i-think/
 tweetbackscheck:

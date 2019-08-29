@@ -3,7 +3,7 @@ id: 209
 title: weekend long run fun
 date: 2006-10-01T19:46:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=209
 permalink: /2006/10/weekend-long-run-fun/
 aktt_notify_twitter:

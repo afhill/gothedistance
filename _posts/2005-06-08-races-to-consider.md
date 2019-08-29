@@ -3,7 +3,7 @@ id: 8
 title: 'races to consider&#8230;'
 date: 2005-06-08T21:32:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=8
 permalink: /2005/06/races-to-consider/
 tweetbackscheck:

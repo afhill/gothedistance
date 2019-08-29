@@ -3,7 +3,7 @@ id: 670
 title: United Way Turkey Trot
 date: 2008-11-27T13:13:48-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=670
 permalink: /2008/11/united-way-turkey-trot/
 aktt_notify_twitter:

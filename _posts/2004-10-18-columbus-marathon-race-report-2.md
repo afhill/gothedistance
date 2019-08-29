@@ -4,7 +4,7 @@ title: Columbus Marathon Race Report
 date: 2004-10-18T21:45:00-06:00
 author: admin
 excerpt: "Yesterday I ran the Columbus marathon - there is all sorts of lore about marathon running, and it's often perceived as a life-changing event. So in that vein, I want to remember every detail I can of the day."
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=25
 permalink: /2004/10/columbus-marathon-race-report-2/
 aktt_notify_twitter:

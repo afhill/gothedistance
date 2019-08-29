@@ -3,7 +3,7 @@ id: 147
 title: Disney medals
 date: 2006-01-20T08:43:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=147
 permalink: /2006/01/disney-medals/
 tweetbackscheck:

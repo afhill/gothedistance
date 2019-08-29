@@ -3,7 +3,7 @@ id: 930
 title: Derby Test-ups
 date: 2009-04-24T07:04:49-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/04/derby-test-ups/
 permalink: /2009/04/derby-test-ups/
 aktt_notify_twitter:

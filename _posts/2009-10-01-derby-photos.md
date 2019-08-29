@@ -3,7 +3,7 @@ id: 1104
 title: Derby Photos
 date: 2009-10-01T09:54:31-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=1104
 permalink: /2009/10/derby-photos/
 aktt_notify_twitter:

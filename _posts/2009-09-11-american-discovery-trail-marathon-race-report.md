@@ -3,7 +3,7 @@ id: 1087
 title: American Discovery Trail Marathon Race Report
 date: 2009-09-11T23:36:12-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=1087
 permalink: /2009/09/american-discovery-trail-marathon-race-report/
 aktt_notify_twitter:

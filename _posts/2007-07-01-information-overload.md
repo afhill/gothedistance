@@ -3,7 +3,7 @@ id: 277
 title: information overload!
 date: 2007-07-01T10:05:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=277
 permalink: /2007/07/information-overload/
 tweetbackscheck:

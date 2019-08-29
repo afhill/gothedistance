@@ -3,7 +3,7 @@ id: 24
 title: How many miles?
 date: 2005-02-11T21:44:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=24
 permalink: /2005/02/how-many-miles/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 528
 title: The Best in the World
 date: 2008-08-16T23:00:52-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=528
 permalink: /2008/08/the-best-in-the-world/
 aktt_notify_twitter:

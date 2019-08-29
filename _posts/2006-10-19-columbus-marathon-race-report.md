@@ -3,7 +3,7 @@ id: 219
 title: Columbus Marathon Race Report
 date: 2006-10-19T14:01:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=219
 permalink: /2006/10/columbus-marathon-race-report/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 33
 title: track workout
 date: 2005-08-16T22:04:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=33
 permalink: /2005/08/track-workout/
 tweetbackscheck:

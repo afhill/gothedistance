@@ -3,7 +3,7 @@ id: 929
 title: Boston photo
 date: 2009-04-23T18:19:07-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/04/boston-photo/
 permalink: /2009/04/boston-photo/
 aktt_notify_twitter:

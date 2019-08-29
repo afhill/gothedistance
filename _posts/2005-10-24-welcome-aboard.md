@@ -3,7 +3,7 @@ id: 69
 title: Welcome aboard!!
 date: 2005-10-24T09:18:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=69
 permalink: /2005/10/welcome-aboard/
 tweetbackscheck:

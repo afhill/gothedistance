@@ -3,7 +3,7 @@ id: 911
 title: 'Vote for the Denver Roller Dolls Roller Dog &#8211; Best in Show'
 date: 2009-04-15T17:24:21-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=911
 permalink: /2009/04/roller-dog/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 245
 title: materialism
 date: 2007-01-08T16:20:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=245
 permalink: /2007/01/materialism/
 tweetbackscheck:

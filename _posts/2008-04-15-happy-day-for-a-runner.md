@@ -3,7 +3,7 @@ id: 389
 title: Happy day for a runner!
 date: 2008-04-15T07:22:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=389
 permalink: /2008/04/happy-day-for-a-runner/
 aktt_notify_twitter:

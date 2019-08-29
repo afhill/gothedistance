@@ -3,7 +3,7 @@ id: 85
 title: Team Maniac!
 date: 2005-11-17T23:52:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=85
 permalink: /2005/11/team-maniac/
 categories:

@@ -3,7 +3,7 @@ id: 341
 title: 'How to run a good 4 mile race &#8212; do a 6 mile warmup beforehand'
 date: 2008-01-13T11:30:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=341
 permalink: /2008/01/how-to-run-a-good-4-mile-race-do-a-6-mile-warmup-beforehand/
 aktt_notify_twitter:

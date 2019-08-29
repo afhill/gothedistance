@@ -3,7 +3,7 @@ id: 143
 title: distances
 date: 2006-01-16T19:56:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=143
 permalink: /2006/01/distances/
 tweetbackscheck:

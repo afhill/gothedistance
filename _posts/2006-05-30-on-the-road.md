@@ -3,7 +3,7 @@ id: 183
 title: on the road
 date: 2006-05-30T13:17:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=183
 permalink: /2006/05/on-the-road/
 tweetbackscheck:

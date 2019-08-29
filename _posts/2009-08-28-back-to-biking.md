@@ -3,7 +3,7 @@ id: 1075
 title: Back to Biking
 date: 2009-08-28T18:31:15-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=1075
 permalink: /2009/08/back-to-biking/
 sociableoff:

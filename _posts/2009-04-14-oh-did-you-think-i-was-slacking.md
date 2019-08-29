@@ -3,7 +3,7 @@ id: 907
 title: Oh, did you think I was slacking?
 date: 2009-04-14T20:44:33-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/04/oh-did-you-think-i-was-slacking/
 permalink: /2009/04/oh-did-you-think-i-was-slacking/
 aktt_notify_twitter:

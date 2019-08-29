@@ -3,7 +3,7 @@ id: 279
 title: 'garmin test &#8220;run&#8221;'
 date: 2007-07-03T20:58:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=279
 permalink: /2007/07/garmin-test-run/
 tweetbackscheck:

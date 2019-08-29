@@ -3,7 +3,7 @@ id: 281
 title: smartwool!
 date: 2007-07-07T07:33:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=281
 permalink: /2007/07/smartwool/
 tweetbackscheck:

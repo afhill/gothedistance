@@ -3,7 +3,7 @@ id: 226
 title: race paces
 date: 2006-10-27T09:02:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=226
 permalink: /2006/10/race-paces/
 tweetbackscheck:

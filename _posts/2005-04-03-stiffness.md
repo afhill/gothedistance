@@ -3,7 +3,7 @@ id: 13
 title: stiffness
 date: 2005-04-03T21:37:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=13
 permalink: /2005/04/stiffness/
 tweetbackscheck:

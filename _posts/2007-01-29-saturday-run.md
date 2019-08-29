@@ -3,7 +3,7 @@ id: 251
 title: Saturday run
 date: 2007-01-29T12:28:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=251
 permalink: /2007/01/saturday-run/
 tweetbackscheck:

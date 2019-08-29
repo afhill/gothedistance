@@ -3,7 +3,7 @@ id: 838
 title: Suiting up for Derby
 date: 2009-01-24T18:58:22-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/01/suiting-up-for-derby/
 permalink: /2009/01/suiting-up-for-derby/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 194
 title: 'a woman&#8217;s prerogative'
 date: 2006-08-30T20:41:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=194
 permalink: /2006/08/a-womans-prerogative/
 tweetbackscheck:

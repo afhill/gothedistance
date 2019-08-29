@@ -3,7 +3,7 @@ id: 895
 title: 'The one thing I&#8217;ve learned after 6 months in Colorado'
 date: 2009-04-08T20:17:35-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/2009/04/the-one-thing-ive-learned-after-6-months-in-colorado/
 permalink: /2009/04/the-one-thing-ive-learned-after-6-months-in-colorado/
 aktt_notify_twitter:

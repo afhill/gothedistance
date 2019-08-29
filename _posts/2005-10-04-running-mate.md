@@ -3,7 +3,7 @@ id: 58
 title: running mate
 date: 2005-10-04T08:11:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=58
 permalink: /2005/10/running-mate/
 tweetbackscheck:

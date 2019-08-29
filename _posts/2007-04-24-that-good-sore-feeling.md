@@ -3,7 +3,7 @@ id: 268
 title: that good sore feeling
 date: 2007-04-24T08:46:00-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=268
 permalink: /2007/04/that-good-sore-feeling/
 tweetbackscheck:

@@ -3,7 +3,7 @@ id: 901
 title: Even Seth Godin advocates speedwork!
 date: 2009-04-13T22:21:29-06:00
 author: admin
-layout: post
+  
 guid: http://www.afhill.com/gothedistance/?p=901
 permalink: /2009/04/even-seth-godin-advocates-speedwork/
 aktt_notify_twitter:
