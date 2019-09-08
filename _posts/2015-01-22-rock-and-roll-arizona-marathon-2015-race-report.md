@@ -4,17 +4,14 @@ title: Rock and Roll Arizona Marathon 2015 Race Report
 date: 2015-01-22T19:11:39-06:00
 author: Andrea Hill
   
-guid: http://www.afhill.com/gothedistance/?p=4850
-permalink: /2015/01/rock-and-roll-arizona-marathon-2015-race-report/
 categories:
-  - General
   - Race Reports
 ---
 With the Rock and Roll marathon this January, I met a little goal I&#8217;d had my eyes on for a few years: I&#8217;ve now run as many marathons as I am old. (37) So, it&#8217;s a goal I can continue to try to reach year after year! 
 
-That about sums up how seriously I approached this race. It was only a few months since I ran [New York](http://www.afhill.com/gothedistance/2014/11/new-york-city-marathon-2014-race-report/ "New York City Marathon 2014 Race Report"), which was a pretty special race for me. KJ and I had tried to be consistent in keeping up with our long runs, but the holidays and some vague illness contributed to some pretty lackluster training for this race. 
+That about sums up how seriously I approached this race. It was only a few months since I ran [New York](/gothedistance/2014-11-new-york-city-marathon-2014-race-report/ "New York City Marathon 2014 Race Report"), which was a pretty special race for me. KJ and I had tried to be consistent in keeping up with our long runs, but the holidays and some vague illness contributed to some pretty lackluster training for this race. 
 
-Honestly, this race hadnt even been on my radar until KJ came with me to the [Denver Half](http://www.afhill.com/gothedistance/2014/10/rock-and-roll-denver-half-2014-race-report/ "Rock and Roll Denver Half 2014 Race Report") race expo back in October. She mentioned wanting to run a marathon again and I had already been planning to come to AZ for this weekend, so we decided to go for it. I was really more excited for my friend who hadnt run a marathon since a disastrous Boston 2012 when she got severe heatstroke and vomited several times on the course, as well as afterwards (I&#8217;m still surprised they let her continue, but there were others in worse shape than she)
+Honestly, this race hadnt even been on my radar until KJ came with me to the [Denver Half](/gothedistance/2014-10-rock-and-roll-denver-half-2014-race-report/ "Rock and Roll Denver Half 2014 Race Report") race expo back in October. She mentioned wanting to run a marathon again and I had already been planning to come to AZ for this weekend, so we decided to go for it. I was really more excited for my friend who hadnt run a marathon since a disastrous Boston 2012 when she got severe heatstroke and vomited several times on the course, as well as afterwards (I&#8217;m still surprised they let her continue, but there were others in worse shape than she)
 
 So, this is a long-winded intro to say that I claimed &#8220;our&#8221; goal was 3:30, but I wasnt confident about my ability to execute. The week before New York I got on the treadmill and ran 5 miles at race pace to get familiar with the speed; I tried before Arizona and wasn&#8217;t able to hit nor sustain that pace. Hmm&#8230;
 

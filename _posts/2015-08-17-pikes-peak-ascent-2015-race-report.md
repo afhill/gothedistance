@@ -4,19 +4,15 @@ title: Pikes Peak Ascent 2015 Race Report
 date: 2015-08-17T01:27:36-06:00
 author: Andrea Hill
   
-guid: http://www.afhill.com/gothedistance/?p=4931
-permalink: /2015/08/pikes-peak-ascent-2015-race-report/
-image: /wp-content/uploads/2015/08/ppafamily.jpg
 categories:
-  - General
   - Race Reports
 ---
 Pikes Peak remains one of my favorite races. Since moving to Colorado 7 years ago, I&#8217;ve completed 8 Pikes Peak races:  
-2009: [Marathon](http://www.afhill.com/gothedistance/2009/08/pikes-peak-marathon-race-report/)  
-2010: [Marathon](http://www.afhill.com/gothedistance/2010/09/pikes-peak-marathon-race-report-30/)  
-2011: Double! ([Ascent](http://www.afhill.com/gothedistance/2011/08/pikes-peak-ascent-race-report/) and [Marathon](http://www.afhill.com/gothedistance/2011/08/pikes-peak-marathon-2011-race-report-d-d-d-d-doubler/))  
+2009: [Marathon](/gothedistance/2009-08-pikes-peak-marathon-race-report/)  
+2010: [Marathon](/gothedistance/2010-09-pikes-peak-marathon-race-report-30/)  
+2011: Double! ([Ascent](/gothedistance/2011-08-pikes-peak-ascent-race-report/) and [Marathon](/gothedistance/2011-08-pikes-peak-marathon-2011-race-report-d-d-d-d-doubler/))  
 2012: Double! (Ascent and Marathon)  
-2014: [Marathon](http://www.afhill.com/gothedistance/2014/08/pikes-peak-marathon-2014-race-report/)  
+2014: [Marathon](/gothedistance/2014-08-pikes-peak-marathon-2014-race-report/)  
 2015: Ascent
 
 I decided to skip the marathon this year as my Mom and fiancee Sara had also decided to join in the fun this year and do the Ascent. I didnt want to spend all day Sunday running if my folks were visiting for just the weekend. I thought I would focus on trying to run the Ascent my fastest as I didnt have to worry about the downhill.
@@ -51,7 +47,7 @@ I met my dad and we sat inside for awhile before we went outside to wait for Sar
 
 We got her some water and snacks and waited for my mom. She crossed the line in 5:35 &#8211; 4th in her (F65-69) age group! A great day for all of us!
 
-[<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2015/08/ppafamily-300x300.jpg" alt="ppafamily" width="300" height="300" class="alignnone size-medium wp-image-4934" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2015/08/ppafamily-300x300.jpg 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2015/08/ppafamily-150x150.jpg 150w, http://www.afhill.com/gothedistance/wp-content/uploads/2015/08/ppafamily-36x36.jpg 36w, http://www.afhill.com/gothedistance/wp-content/uploads/2015/08/ppafamily-115x115.jpg 115w, http://www.afhill.com/gothedistance/wp-content/uploads/2015/08/ppafamily.jpg 733w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2015/08/ppafamily.jpg)
+![Pikes Peak Family](/gothedistance/assets/images/ppafamily.jpg)
 
 It was really so special to share my beloved Pikes Peak with my family. Everyone had a great special day, couldn&#8217;t ask for anything more!
 

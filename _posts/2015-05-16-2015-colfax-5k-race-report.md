@@ -3,15 +3,11 @@ id: 4877
 title: 2015 Colfax 5K Race Report
 date: 2015-05-16T20:57:29-06:00
 author: Andrea Hill
-  
-guid: http://www.afhill.com/gothedistance/?p=4877
-permalink: /2015/05/2015-colfax-5k-race-report/
-image: /wp-content/uploads/2015/05/Recent_Race_Results_for_the_Colfax_Marathon2.png
 categories:
-  - General
   - Race Reports
 ---
-[<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2015/05/Recent_Race_Results_for_the_Colfax_Marathon2-300x157.png" alt="Recent_Race_Results_for_the_Colfax_Marathon" width="300" height="157" class="alignright size-medium wp-image-4881" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2015/05/Recent_Race_Results_for_the_Colfax_Marathon2-300x157.png 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2015/05/Recent_Race_Results_for_the_Colfax_Marathon2.png 882w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2015/05/Recent_Race_Results_for_the_Colfax_Marathon2.png)My third 5K of the year was two years to the day after the knee injury that lead to my surgery. I&#8217;m definitely feeling like a strong runner again!
+![>](/gothedistance/assets/images/Recent_Race_Results_for_the_Colfax_Marathon2.png)
+My third 5K of the year was two years to the day after the knee injury that lead to my surgery. I&#8217;m definitely feeling like a strong runner again!
 
 I had a pretty high mileage week and this definitely wasn&#8217;t an important race for me &#8211; I told Sara I didn&#8217;t really plan to push. Of course, that never actually happens.. 🙂
 
@@ -36,7 +32,7 @@ Last bit: 5:52 pace (my watch says .18, although the course would say .1)
 
 I came in at 22:12, pretty excited that this was my fastest 5K this year. Sara came in just a few minutes later and we enjoyed the sunshine and post-race expo. She suggested we wait around for awards, and sure enough I netted 3rd in my age group! (30-39). 
 
-It&#8217;s a funny thing, though. I went back to check my race results and 22:12 is exactly what I ran at the [Bunny Bolt in City Park in April](http://www.afhill.com/gothedistance/2015/04/bunny-bolt-5k-race-report/ "Bunny Bolt 5K Race Report"). And although I wasnt trying to race, I felt a bit disappointed when I realized my mistake. Things are funny that way; I was happy with my performance until I compared it to a goal I set _after the fact_.
+It&#8217;s a funny thing, though. I went back to check my race results and 22:12 is exactly what I ran at the [Bunny Bolt in City Park in April](/gothedistance/2015-04-bunny-bolt-5k-race-report/ "Bunny Bolt 5K Race Report"). And although I wasnt trying to race, I felt a bit disappointed when I realized my mistake. Things are funny that way; I was happy with my performance until I compared it to a goal I set _after the fact_.
 
 One thing though: I definitely felt way more relaxed during this race. I can tell I&#8217;m getting fitter and feeling more comfortable at this 7-7:15ish pace. Sure, I&#8217;m nowhere near when I ran a freaking marathon at that pace, but it&#8217;s something&#8230;.
 
