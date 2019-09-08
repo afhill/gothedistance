@@ -4,17 +4,10 @@ title: Eugene Marathon Race Report
 date: 2016-05-02T15:17:45-06:00
 author: Andrea Hill
   
-guid: http://www.afhill.com/gothedistance/?p=5047
-permalink: /2016/05/eugene-marathon-race-report/
-image: /wp-content/uploads/2016/05/image1.jpeg
 categories:
-  - featured
-  - General
   - Race Reports
-tags:
-  - featured
 ---
-[<img class="align right size-full wp-image-5048" src="http://www.afhill.com/gothedistance/wp-content/uploads/2016/05/image.png" alt="image" width="432" height="287" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2016/05/image.png 432w, http://www.afhill.com/gothedistance/wp-content/uploads/2016/05/image-300x199.png 300w" sizes="(max-width: 432px) 100vw, 432px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2016/05/image.png)
+![Eugene](/gothedistance/assets/images/eugene-image.png)
 
 Eugene is Tracktown USA, but I think it&#8217;s fair to say any runner is going to be inspired in this idyllic Oregon town.  
 Leading up to the race, I eagerly watched and read everything I could about Steve Prefontaine. His approach to running was to give it all, otherwise &#8220;youre preparing to be disappointed.&#8221;
@@ -83,7 +76,7 @@ Beer stop! Which is another benefit to not-trying-to-set-a-huge-record. Quite a 
 
 M26: 9:03
 
-[<img class="aligncenter size-full wp-image-5050" src="http://www.afhill.com/gothedistance/wp-content/uploads/2016/05/image1.jpeg" alt="image" width="275" height="154" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2016/05/image1.jpeg 275w, http://www.afhill.com/gothedistance/wp-content/uploads/2016/05/image1-195x110.jpeg 195w" sizes="(max-width: 275px) 100vw, 275px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2016/05/image1.jpeg)
+![](/gothedistance/assets/images/eugene-image1.jpeg)
 
 The race finished right on Hayward field. I wish I had more speed left in the tank, but it just wasn&#8217;t there.
 
@@ -101,4 +94,4 @@ In all, Eugene was a super race that I&#8217;d heartily recommend.  It&#8217;s 
 
 Onto the next!
 
-[<img class="aligncenter wp-image-5049" src="http://www.afhill.com/gothedistance/wp-content/uploads/2016/05/image.jpeg" alt="image" width="355" height="631" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2016/05/image.jpeg 1080w, http://www.afhill.com/gothedistance/wp-content/uploads/2016/05/image-169x300.jpeg 169w, http://www.afhill.com/gothedistance/wp-content/uploads/2016/05/image-576x1024.jpeg 576w" sizes="(max-width: 355px) 100vw, 355px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2016/05/image.jpeg)
+![](/gothedistance/assets/images/eugene-image.jpeg)
