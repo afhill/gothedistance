@@ -2,36 +2,9 @@
 id: 893
 title: Rolling Right Along
 date: 2009-03-29T22:40:31-06:00
-author: admin
-  
-guid: http://www.afhill.com/gothedistance/2009/03/rolling-right-along/
-permalink: /2009/03/rolling-right-along/
-aktt_notify_twitter:
-  - 'no'
-  - 'no'
-sociableoff:
-  - 'false'
-  - 'false'
-tweetbackscheck:
-  - "1243749335"
-  - "1243749335"
-shorturls:
-  - 'a:7:{s:9:"permalink";s:64:"http://www.afhill.com/gothedistance/2009/03/rolling-right-along/";s:7:"tinyurl";s:25:"http://tinyurl.com/q3ka2j";s:4:"isgd";s:17:"http://is.gd/ztNZ";s:5:"bitly";s:19:"http://bit.ly/PIKVq";s:5:"snipr";s:22:"http://snipr.com/hxwhf";s:5:"snurl";s:22:"http://snurl.com/hxwhf";s:7:"snipurl";s:24:"http://snipurl.com/hxwhf";}'
-  - 'a:7:{s:9:"permalink";s:64:"http://www.afhill.com/gothedistance/2009/03/rolling-right-along/";s:7:"tinyurl";s:25:"http://tinyurl.com/q3ka2j";s:4:"isgd";s:17:"http://is.gd/ztNZ";s:5:"bitly";s:19:"http://bit.ly/PIKVq";s:5:"snipr";s:22:"http://snipr.com/hxwhf";s:5:"snurl";s:22:"http://snurl.com/hxwhf";s:7:"snipurl";s:24:"http://snipurl.com/hxwhf";}'
-twittercomments:
-  - 'a:1:{i:1784467451;s:7:"retweet";}'
-  - 'a:1:{i:1784467451;s:7:"retweet";}'
-tweetcount:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "19953345"
-  - "19953345"
-categories:
-  - General
-tags:
-  - derby
+author: Andrea Hill
 ---
+
 It appears my mother doesn&#8217;t know me well at all; she called at 7pm after reading on twitter that [I wasn&#8217;t feeling well](http://twitter.com/afhill262/status/1414081139) and left a message saying she hoped I was taking it easy.. I was at derby practice!
 
 <!--more-->Last night was the Denver Roller Dolls Season Opener. There are three home teams in the League, so two teams played against each other and then the Bad Apples played against a team from Ft Collins. I haven&#8217;t been drafted to a team yet, so I served as &#8220;demo doll&#8221;, skating before the bout as the rules were explained to the audience, and then worked the merch table.

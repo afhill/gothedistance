@@ -4,9 +4,6 @@ title: 'Marine Corps Marathon 2018: Race Report'
 date: 2018-11-02T18:57:25-06:00
 author: Andrea Hill
   
-guid: http://www.afhill.com/gothedistance/?p=5297
-permalink: /2018/11/marine-corps-marathon-2018-race-report/
-image: /wp-content/uploads/2018/11/1__Andrea_F_Hill.png
 categories:
   - Race Reports
 ---
@@ -34,7 +31,7 @@ I knew that Othman from Denver was pacing the 3:45 pace group, and I was toying 
 
 &nbsp;
 
-[<img class="alignleft wp-image-5299 size-large" src="http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__-829x1024.png" alt="" width="829" height="1024" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__-829x1024.png 829w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__-243x300.png 243w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__-768x948.png 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__.png 1006w" sizes="(max-width: 829px) 100vw, 829px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__.png)
+![Screen capture of a tweet from Deena Kastor](/gothedistance/assets/images/Deena_Kastor_on_Twitter___Make_it_a_great_race_…__.png)
 
 Also, HOW FREAKING COOL IS THIS? Deena Kastor wished me a good race??
 
@@ -80,7 +77,7 @@ Speaking on spectators, this course was pretty great. Tons of folks out there ch
 
 Ha! Maybe it was on purpose &#8211; a momento that brought us together 🙂
 
-[<img class="alignleft wp-image-5301 size-medium" src="http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/1__Andrea_F_Hill-186x300.png" alt="" width="186" height="300" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/1__Andrea_F_Hill-186x300.png 186w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/1__Andrea_F_Hill.png 622w" sizes="(max-width: 186px) 100vw, 186px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/1__Andrea_F_Hill.png)Before starting the race, Sara had told me to smile wide and gesture at the photographers, which I did. It definitely reflected how I felt inside, and it was great to express it. I do so love marathons. Not to say I did it, but just because I CAN. I can get up, lace on shoes, and keep my body moving at a decent clip for HOURS. That&#8217;s pretty freaking cool.
+![](/gothedistance/assets/images/1__Andrea_F_Hill.png)Before starting the race, Sara had told me to smile wide and gesture at the photographers, which I did. It definitely reflected how I felt inside, and it was great to express it. I do so love marathons. Not to say I did it, but just because I CAN. I can get up, lace on shoes, and keep my body moving at a decent clip for HOURS. That&#8217;s pretty freaking cool.
 
 The miles ticked by, and I was thrilled around mile 16 to have that feeling of &#8220;only 10 miles to go!&#8221; Unlike some races where I go out too aggressively and I feel a drain on my energy and abilities, I felt like I could run forever. I was definitely in a comfort zone.
 
@@ -92,7 +89,8 @@ We ran through the starting area, which had been so dark three and a half hours 
 
 &nbsp;
 
-(My official finishing time was 3:46:56)[<img class="aligncenter wp-image-5300 size-large" src="http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Marine_Corps_Marathon___Run___Strava-1024x529.png" alt="" width="860" height="444" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Marine_Corps_Marathon___Run___Strava-1024x529.png 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Marine_Corps_Marathon___Run___Strava-300x155.png 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Marine_Corps_Marathon___Run___Strava-768x397.png 768w" sizes="(max-width: 860px) 100vw, 860px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2018/11/Marine_Corps_Marathon___Run___Strava.png)
+(My official finishing time was 3:46:56)
+![](/gothedistance/assets/images//Marine_Corps_Marathon___Run___Strava.png)
 
 After I got my medal and the thin finishers jacket (not much more substantial than a space blanket), I turned to walk through the athletes area and there was Sara waiting for me. She&#8217;s really really great at spotting me at finish lines, for which I&#8217;m terribly grateful. I was feeling ok, just slow. We got me some water and I picked up my checked bag, where I ran into Othman. He&#8217;d brought his group in at 3:44:5x. Pretty perfect!
 
@@ -115,22 +113,4 @@ Although I had a breakthrough marathon when I was training with a coach 6 years 
 
 &nbsp;
 
-So yeah, great race. I can&#8217;t wait til the next one! (So far I don&#8217;t have anything scheduled til May. Think I can wait that long??!?!?)
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+So yeah, great race. I can&#8217;t wait til the next one! (So far I don&#8217;t have anything scheduled til May. Think I can wait that long??!?!?)s

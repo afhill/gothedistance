@@ -4,31 +4,6 @@ title: Barr Trail Run
 date: 2009-05-04T23:32:33-06:00
 author: admin
   
-guid: http://www.afhill.com/gothedistance/?p=954
-permalink: /2009/05/barr-trail-run/
-aktt_notify_twitter:
-  - 'no'
-  - 'no'
-sociableoff:
-  - 'false'
-  - 'false'
-tweetbackscheck:
-  - "1243778992"
-  - "1243778992"
-shorturls:
-  - 'a:7:{s:9:"permalink";s:59:"http://www.afhill.com/gothedistance/2009/05/barr-trail-run/";s:7:"tinyurl";s:25:"http://tinyurl.com/ph7btn";s:4:"isgd";s:17:"http://is.gd/znYD";s:5:"bitly";s:20:"http://bit.ly/1akjkp";s:5:"snipr";s:22:"http://snipr.com/hx5vx";s:5:"snurl";s:22:"http://snurl.com/hx5vx";s:7:"snipurl";s:24:"http://snipurl.com/hx5vx";}'
-  - 'a:7:{s:9:"permalink";s:59:"http://www.afhill.com/gothedistance/2009/05/barr-trail-run/";s:7:"tinyurl";s:25:"http://tinyurl.com/ph7btn";s:4:"isgd";s:17:"http://is.gd/znYD";s:5:"bitly";s:20:"http://bit.ly/1akjkp";s:5:"snipr";s:22:"http://snipr.com/hx5vx";s:5:"snurl";s:22:"http://snurl.com/hx5vx";s:7:"snipurl";s:24:"http://snipurl.com/hx5vx";}'
-twittercomments:
-  - 'a:1:{i:1794530968;s:7:"retweet";}'
-  - 'a:1:{i:1794530968;s:7:"retweet";}'
-tweetcount:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "19953398"
-  - "19953398"
-categories:
-  - General
 ---
 Yesterday I made it down to Manitou Springs to meet with the [Incline Club](http://www.inclineclub.com), a self-professed &#8220;group of nuts who meet most of the year for Sunday long runs on and around Pikes Peak.&#8221; I was lucky to meet up with Mike and James, who weren&#8217;t running the scheduled &#8220;Double&#8221; with the group, they were &#8216;just&#8217; doing the Barr Trail run. I decided to tag along. 
 
@@ -42,15 +17,17 @@ So the secret of trail running? It appears to be NOT to run! We did a fair amoun
 
 Heading up with Mike and James was fun, as Mike played tour guide. He showed us where the [Incline](http://www.inclineclub.com/incline/) met the trail we were on, and we stood a moment watching folks heading up. Evidently a decent workout is to climb the incline to the point where it intersects the Barr Trail (the one we were on), then head down the BT. 
 
-<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2009/05/p_incline1.gif" alt="incline" title="incline" width="468" height="219" class="aligncenter size-full wp-image-952" /> 
+![The Manitou Incline](gothedistance/assets/images/p_incline1.gif)
 
-<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2009/05/mt-manitou-scenic-incline-railway.png" alt="mt-manitou-scenic-incline-railway" title="mt-manitou-scenic-incline-railway" width="406" height="251" class="aligncenter size-full wp-image-953" /> 
+![Manitou Scenic Railway](/gothedistance/assets/images/mt-manitou-scenic-incline-railway.png)
 
 I hadn&#8217;t paid too much attention to the descriptions of the marathon course, so I didn&#8217;t even really realize we were doing much of the first part of the course. Today we ran as far as Barr Camp on Matt Carpenter&#8217;s [Course description](http://www.skyrunner.com/ppcourse.htm) (we also started a bit further away from the start of the race).
 
 As we ran, it was Mike first, then me, then James. James just ran a race yesterday, and he mentioned some problems with shinsplints. I did my best to keep up with Mike, which made me feel pretty good. It was funny that we would get to undulating parts of the trail, and he would announce &#8220;this is flat &#8211; we should run&#8221;.
 
-<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2009/05/maincabin.jpg" alt="Barr Camp" title="Barr Camp" width="289" height="217" class="alignright size-full wp-image-956" /> I forgot to stop my watch a few times when we&#8217;d slow to wait for James, and we arrived at Barr Camp in 2:03 (distance: 7.77miles). We went into the Camp, which is manned by Neal and Teresa. They showed James and I around the [camp](http://www.barrcamp.com/), where they have visitors stay overnight almost every day of the year. They had rocks warming on the stove for us to warm our hands, and a little canteen selling various supplies. Mike had brought money for a snickers bar &#8211; yum! After perhaps a half hour visiting, we set on back down the trail. 
+![](/gothedistance/assets/images/maincabin.jpg)
+ 
+I forgot to stop my watch a few times when we&#8217;d slow to wait for James, and we arrived at Barr Camp in 2:03 (distance: 7.77miles). We went into the Camp, which is manned by Neal and Teresa. They showed James and I around the [camp](http://www.barrcamp.com/), where they have visitors stay overnight almost every day of the year. They had rocks warming on the stove for us to warm our hands, and a little canteen selling various supplies. Mike had brought money for a snickers bar &#8211; yum! After perhaps a half hour visiting, we set on back down the trail. 
 
 Mike bounded down the familiar trails, and I followed not too far behind. James was taking it easy, a bit sore from the day before. We waited for him at the 7.8 sign, where Mike told us that it had taken us 29 minutes from that point up to Barr Camp, and only 14 (or 16, I don&#8217;t quite remember) down! We barrelled down the trails, and I felt pretty comfortable other than the patches of snow that still littered the trails in some places. My legs were holding up quite well as we bounded down the trail. I smiled to think of my last name and wonder if I was pre-disposed to do this sort of thing. 
 

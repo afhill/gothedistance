@@ -17,13 +17,13 @@ So he pulled a U-turn, and started going back, but I redirected him to follow th
 
 On Sunday, Helen and I got up and watched her Dad run the 5K. I think it&#8217;s a shame they did away with the free Freedom Run and now run a &#8220;competitive&#8221; 5K for $40 the day before the marathon. After that we headed to the expo, where I bought way more than I ever new I needed! Recovery and Injinji socks, a brooks running outfit and Newton shoes!
 
-[<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2009/05/purchases-225x300.jpg" alt="Boston marathon expo purchases" title="Boston marathon expo purchases" width="225" height="300" class="aligncenter size-medium wp-image-946" />](http://www.afhill.com/gothedistance/wp-content/uploads/2009/05/purchases.jpg)
+![Boston marathon expo purchases](/gothedistance/assets/images/purchases.jpg)
 
 We met her dad for lunch, and then pretty quickly it was time to get ready for dinner! We headed over to [La Dolce Vita](http://www.dolcevitaristorante.com/), and were the first to arrive. I went in to tell them we were with the party of 22 for 4pm. They didn&#8217;t have our reservation! Thankfully, the owner (Franco), was extremely accommodating and had a table set for us &#8211; it took up about a quarter of the restaurant! He also told us to feel free to make any special requests if what we wanted wasn&#8217;t on the menu, and offered to split the checks up (no one in Boston has EVER split checks for us!). Not to mention, the food was fantastic!! 
 
 Meredith, Helen and I took our requisite &#8220;three of us outside the restaurant picture&#8221;:
 
-[<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2009/05/girls09.png" alt="girls09" title="girls09" width="285" height="278" class="aligncenter size-full wp-image-947" />](http://www.afhill.com/gothedistance/wp-content/uploads/2009/05/girls09.png)
+![Meredith, Helen and I](gothedistance/assets/images/girls09.png)
 
 We&#8217;ve been doing dinner before Boston for years now, and it&#8217;s getting a bit ridiculous. The table is so large we don&#8217;t even talk to people on the far side, and I didn&#8217;t even know many of the people with us. After dinner everyone went their separate ways, with Helen, her dad, Meredith, Dave and I heading to Mike&#8217;s Pastries. I think we all felt like dinner was a bit crazy and not as much fun as it used to be.
 
