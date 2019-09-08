@@ -4,31 +4,6 @@ title: Cross-cross training
 date: 2009-05-10T14:08:06-06:00
 author: admin
   
-guid: http://www.afhill.com/gothedistance/2009/05/cross-cross-training/
-permalink: /2009/05/cross-cross-training/
-aktt_notify_twitter:
-  - 'no'
-  - 'no'
-sociableoff:
-  - 'false'
-  - 'false'
-tweetbackscheck:
-  - "1243727436"
-  - "1243727436"
-shorturls:
-  - 'a:7:{s:9:"permalink";s:65:"http://www.afhill.com/gothedistance/2009/05/cross-cross-training/";s:7:"tinyurl";s:25:"http://tinyurl.com/qqu2hb";s:4:"isgd";s:17:"http://is.gd/zrnz";s:5:"bitly";s:20:"http://bit.ly/15e8AB";s:5:"snipr";s:22:"http://snipr.com/hxl1r";s:5:"snurl";s:22:"http://snurl.com/hxl1r";s:7:"snipurl";s:24:"http://snipurl.com/hxl1r";}'
-  - 'a:7:{s:9:"permalink";s:65:"http://www.afhill.com/gothedistance/2009/05/cross-cross-training/";s:7:"tinyurl";s:25:"http://tinyurl.com/qqu2hb";s:4:"isgd";s:17:"http://is.gd/zrnz";s:5:"bitly";s:20:"http://bit.ly/15e8AB";s:5:"snipr";s:22:"http://snipr.com/hxl1r";s:5:"snurl";s:22:"http://snurl.com/hxl1r";s:7:"snipurl";s:24:"http://snipurl.com/hxl1r";}'
-twittercomments:
-  - 'a:1:{i:1796813730;s:7:"retweet";}'
-  - 'a:1:{i:1796813730;s:7:"retweet";}'
-tweetcount:
-  - "1"
-  - "1"
-dsq_thread_id:
-  - "19953407"
-  - "19953407"
-categories:
-  - General
 ---
 This past week has been a little crazy with multi-sport activities:
 

@@ -15,4 +15,4 @@ Of course, this is where the caveats come in. That includes the three marathons 
 
 &nbsp;
 
-Heading into the Marine Corps marathon, I didn&#8217;t let that weigh me down. I was ready to train well, run comfortable and let my body dictate what I was capable of. [And it went great](/gothedistance/marine-corps-marathon-2018-race-report/)!
+Heading into the Marine Corps marathon, I didn&#8217;t let that weigh me down. I was ready to train well, run comfortable and let my body dictate what I was capable of. [And it went great](/gothedistance/2018-11-02-marine-corps-marathon-2018-race-report/)!

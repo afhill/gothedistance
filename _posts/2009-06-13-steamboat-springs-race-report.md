@@ -4,7 +4,8 @@ title: Steamboat Springs Marathon Race Report
 categories:
   - Race Reports
 ---
-[<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2009/06/bestmarathonlogo_2006_color.gif" alt="bestmarathonlogo_2006_color" title="bestmarathonlogo_2006_color" width="150" height="150" class="alignright size-full wp-image-1000" />](http://www.afhill.com/gothedistance/wp-content/uploads/2009/06/bestmarathonlogo_2006_color.gif)There was something special about the Steamboat Springs marathon; it was to be my 25th race of 26.2 miles or better, and I had been hearing about the race for years. For some reason, a friend had consistently referred to the [Steamtown](http://www.afhill.com/gothedistance/2005/10/steamtown-race-report/) marathon as Steamboat. So when I moved to Colorado and had the opportunity to run the race considered to be one of the best of the 18 in the state, I couldn&#8217;t say no!
+![](/gothedistance/assets/images/bestmarathonlogo_2006_color.gif)
+There was something special about the Steamboat Springs marathon; it was to be my 25th race of 26.2 miles or better, and I had been hearing about the race for years. For some reason, a friend had consistently referred to the [Steamtown](/gothedistance/2005-10-steamtown-race-report/) marathon as Steamboat. So when I moved to Colorado and had the opportunity to run the race considered to be one of the best of the 18 in the state, I couldn&#8217;t say no!
 
 During the month of May, I was _very active_! I worked out daily, often more than once. Two weeks before the marathon I did the Bolder Boulder 10K, and the whole week before the race I did my best to taper: cut out yoga and derby, and did my best to carb-up!
 
@@ -16,13 +17,14 @@ Soon we were at Hahn&#8217;s Peak Village, where the race was to start, and it s
 
 We actually were allowed to go into the cabins, so many of the racers chatted and visited while we waited for race time. It was a nice relaxing environment, as opposed to the corrals at large races. Soon enough it was time to throw our gear bags on the bus and get lined up. I had brought my ipod shuffle, as I wasn&#8217;t sure how remote the run would be and if I would need the added motivation. I had just learned that the USATF actually lifted their ban on portable devices last year, so I felt no guilt in having it. 
 
-[<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2009/06/steamboatstart-300x200.jpg" alt="steamboat start" title="steamboat start" width="300" height="200" class="aligncenter size-medium wp-image-1003" />](http://www.afhill.com/gothedistance/wp-content/uploads/2009/06/steamboatstart.jpg)
+!(Steamboat Start)[/gothedistance/assets/images/steamboatstart.jpg)
 
 And then we were off! I had been worried about the course description; that I would tear up my legs early on and be in pain later during the race. As it turned out, the downhills were not near as steep or damaging as I had feared. 
 
 I didn&#8217;t go into this race with any strong goal, although I had thought 3:40 would be great. The more I talked to folks in Steamboat the night before the race, however, the more unsure I was that that was possible. Everyone asked if I&#8217;d considered the effects of the altitude. Yes, Denver (5280) is &#8220;high altitude&#8221; compared to Ohio, but this entire race was above that (starting at 8100 and finishing at 6700ft). When I woke up on race morning, I was having &#8220;female difficulties&#8221; as well, so I was uncomfortable pretty well the entire race.
 
-[<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2009/06/steamtown1-195x300.jpg" alt="steamboat" title="steamboat" width="195" height="300" class="alignright size-medium wp-image-1002" />](http://www.afhill.com/gothedistance/wp-content/uploads/2009/06/steamtown1.jpg)There were only water stops scheduled every three miles or so, so I carried my own water. I found out that <a href="http://www.honeystinger.com/" rel="nofollow">Honey Stingers</a> are actually from Steamboat Springs, and they had gels and chews (as well as gatorade) at every stop. Yum! 
+![](/gothedistance/assets/images/steamtown1.jpg)
+There were only water stops scheduled every three miles or so, so I carried my own water. I found out that <a href="http://www.honeystinger.com/" rel="nofollow">Honey Stingers</a> are actually from Steamboat Springs, and they had gels and chews (as well as gatorade) at every stop. Yum! 
 
 It certainly was a pretty course, although I can only imagine how much more beautiful it would have been if it were sunny. 
 
@@ -42,7 +44,8 @@ M13: 8:42
 M14: 8:32  
 M15: 9:05
 
-<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2009/06/balloonpinpop-150x150.jpg" alt="balloonpinpop" title="balloonpinpop" width="150" height="150" class="alignright size-thumbnail wp-image-1001" /> In the first half of the race we got some rain, and I did turn to my iPod for a few miles just to break up the monotony. I felt decent when I hit the half way point, and then all of a sudden &#8211; pop! like a pin had been put in a balloon, I reached the 16th mile marker and just stopped running. It wasn&#8217;t that my legs were burnt out (those [recovery socks](http://recoverysock.com/) are amazing, really), I was just &#8230;done. I chugged along to finish, but had plenty of time to think. 
+![](/gothedistance/assets/images/balloonpinpop-150x150.jpg")
+In the first half of the race we got some rain, and I did turn to my iPod for a few miles just to break up the monotony. I felt decent when I hit the half way point, and then all of a sudden &#8211; pop! like a pin had been put in a balloon, I reached the 16th mile marker and just stopped running. It wasn&#8217;t that my legs were burnt out (those [recovery socks](http://recoverysock.com/) are amazing, really), I was just &#8230;done. I chugged along to finish, but had plenty of time to think. 
 
 This was my fourth marathon this year, and they weren&#8217;t getting easier. I had considered running the [Estes Park Marathon](http://www.epmarathon.org/) with my friend [Chuck Engle](http://www.marathonjunkie.com) the following weekend, but that wasn&#8217;t going to happen. I run a lot of races because I love running: but this wasn&#8217;t fun. I needed to get back to actually training &#8211; training for marathons &#8211; before I was allowed to treat myself to another race. 
 
@@ -66,7 +69,7 @@ M26: 9:08
 \___\___\___\___  
 3:53:29
 
-[<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2009/06/steamboat2-199x300.jpg" alt="steamboat finish" title="steamboat finish" width="199" height="300" class="alignleft size-medium wp-image-1004" />](http://www.afhill.com/gothedistance/wp-content/uploads/2009/06/steamboat2.jpg)As soon as I passed the line, I was handed a cold towel to place on my neck, and then a printout of my race results and place. Wow, not bad considering the race wasn&#8217;t chip-timed!
+![Steamboat Finish](/gothedistance/assets/images/steamboat2.jpg)As soon as I passed the line, I was handed a cold towel to place on my neck, and then a printout of my race results and place. Wow, not bad considering the race wasn&#8217;t chip-timed!
 
 Gun time: 3:53:29  
 Overall: 95  

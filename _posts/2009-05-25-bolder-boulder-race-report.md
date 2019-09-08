@@ -4,31 +4,7 @@ title: Bolder Boulder Race Report
 date: 2009-05-25T15:37:30-06:00
 author: admin
   
-guid: http://www.afhill.com/gothedistance/2009/05/bolder-boulder-race-report/
-permalink: /2009/05/bolder-boulder-race-report/
-aktt_notify_twitter:
-  - 'no'
-  - 'no'
-tweetbackscheck:
-  - "1243726096"
-  - "1243726096"
-sociableoff:
-  - 'false'
-  - 'false'
-shorturls:
-  - 'a:7:{s:9:"permalink";s:71:"http://www.afhill.com/gothedistance/2009/05/bolder-boulder-race-report/";s:7:"tinyurl";s:25:"http://tinyurl.com/owrdnd";s:4:"isgd";s:17:"http://is.gd/DGDJ";s:5:"bitly";s:19:"http://bit.ly/5UDac";s:5:"snipr";s:22:"http://snipr.com/irax1";s:5:"snurl";s:22:"http://snurl.com/irax1";s:7:"snipurl";s:24:"http://snipurl.com/irax1";}'
-  - 'a:7:{s:9:"permalink";s:71:"http://www.afhill.com/gothedistance/2009/05/bolder-boulder-race-report/";s:7:"tinyurl";s:25:"http://tinyurl.com/owrdnd";s:4:"isgd";s:17:"http://is.gd/DGDJ";s:5:"bitly";s:19:"http://bit.ly/5UDac";s:5:"snipr";s:22:"http://snipr.com/irax1";s:5:"snurl";s:22:"http://snurl.com/irax1";s:7:"snipurl";s:24:"http://snipurl.com/irax1";}'
-twittercomments:
-  - 'a:0:{}'
-  - 'a:0:{}'
-tweetcount:
-  - "0"
-  - "0"
-dsq_thread_id:
-  - "19953423"
-  - "19953423"
 categories:
-  - General
   - Race Reports
 ---
 Today was the 31st Annual <a href="http://www.bolderboulder.com/" rel="nofollow">Bolder Boulder 10K</a>. My parents had decided to come visit this weekend, so I bought my Mom her race entry for Mother&#8217;s day. 
@@ -60,4 +36,9 @@ After finishing the race, I wound my way back up to timing chip drop off, picked
 My average heart rate was 174, my max was 183.
 
 **EDIT:** Here are the updated stats with overall results:  
-[<img src="http://www.afhill.com/gothedistance/wp-content/uploads/2009/05/bbresults.jpg" alt="bolder boulder" title="bolder boulder" width="342" height="386" class="aligncenter size-full wp-image-983" />](http://www.afhill.com/gothedistance/wp-content/uploads/2009/05/bbresults.jpg)
+![Bolder Boulder Results](/gothedistance/assets/images/bbresults.jpg)
+
+
+
+
+
