@@ -9,7 +9,7 @@ categories:
 
 My Mom has been trying to qualify for Boston, and I’d always said that if she qualified, I’d register and run with her. Well, at the end of July, she did it! She ran 4:49:54 at Jack and Jill – squeaking in a few seconds underneath the qualification window.
 
-![Womans at the end of a marathon finish line, holding a 'BQ Baby' sign](gothedistance/assets/images/2019-chilliwack-mom.png)
+![Womans at the end of a marathon finish line, holding a 'BQ Baby' sign](/gothedistance/assets/images/2019-chilliwack-mom.png)
 
 But when she qualified, I realized I didn’t have an eligible qualifying time that would allow me to register in September! I did some research and found the Revel Chilliwack race in mid-August. It was a mere three weeks away, which meant I’d be relying more on the aggressive downhill course than any serious training plan if I were to achieve my goal.
 
