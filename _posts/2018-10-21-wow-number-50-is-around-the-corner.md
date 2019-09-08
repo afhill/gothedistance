@@ -30,7 +30,7 @@ The result has been a lot of positive splits:
 
 &nbsp;
 
-Except from the [Eugene race report](/gothedistance/eugene-marathon-race-report/): &#8220;I wonder if I should have been more conservative: could I have done a whole 26.2 miles at an 8mm rather than 18 miles at 7:48, 2 at 8:15 and then 5 at 9:30. &#8221;
+Except from the [Eugene race report](/gothedistance/2016-05-02-eugene-marathon-race-report/): &#8220;I wonder if I should have been more conservative: could I have done a whole 26.2 miles at an 8mm rather than 18 miles at 7:48, 2 at 8:15 and then 5 at 9:30. &#8221;
 
 Now, just looking at those in order like that may also seem like I&#8217;m just plain ole getting slower, but I omitted Jack and Jill from that list b/c it didn&#8217;t have a negative split 🙂 The fact is, for Eugene, Maui and the Ottawa half, I started out at a pace I just wasn&#8217;t able to sustain.
 
