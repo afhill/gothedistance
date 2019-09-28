@@ -13,9 +13,9 @@ categories:
 tags:
   - featured
 ---
-When she turned 60 in 2009, my Mom decided to run her first marathon. She finished in [5:03:39](http://www.afhill.com/gothedistance/2009/12/california-international-marathon-race-report/), just slightly slower than her 4:59:59 goal. Although completing a marathon at all is a huge accomplishment, she had her sights on covering the distance at a certain pace.
+When she turned 60 in 2009, my Mom decided to run her first marathon. She finished in [5:03:39](/gothedistance/california-international-marathon-race-report/), just slightly slower than her 4:59:59 goal. Although completing a marathon at all is a huge accomplishment, she had her sights on covering the distance at a certain pace.
 
-After having to run NYCM alone (I broke my leg when we were scheduled to run it together in 2013), [cramping in Chicago 2015](http://www.afhill.com/gothedistance/2015/10/chicago-marathon-2015-race-report/) and DNSing Mesa-Phx in 2017, my Mom and I were focused on achieving her goal at the Mesa-Phx Marathon in 2018.
+After having to run NYCM alone (I broke my leg when we were scheduled to run it together in 2013), [cramping in Chicago 2015](gothedistance/chicago-marathon-2015-race-report/) and DNSing Mesa-Phx in 2017, my Mom and I were focused on achieving her goal at the Mesa-Phx Marathon in 2018.
 
 **Spoiler: we did it! In plenty of time; she ran a 4:58:25! And I’m so grateful I was able to run with her and help her meet her goal!**
 
@@ -29,7 +29,7 @@ This year my parents spent 3 months in AZ (in the past they’ve spent 5) and I 
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-5248" src="http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/course_elevation_thumb.jpg" alt="" width="630" height="214" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/course_elevation_thumb.jpg 630w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/course_elevation_thumb-300x102.jpg 300w" sizes="(max-width: 630px) 100vw, 630px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/course_elevation_thumb.jpg)
+![Race elevation profile with an aggressive downhill](/gothedistance/assets/images/course_elevation_thumb.jpg)
 
 &nbsp;
 
@@ -97,16 +97,14 @@ M26: 12:23
 
 (last 10K: 12:20 pace)
 
-[<img class="size-medium wp-image-5254 alignright" src="http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/timingresults-225x300.jpg" alt="" width="225" height="300" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/timingresults-225x300.jpg 225w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/timingresults-768x1024.jpg 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/timingresults.jpg 1536w" sizes="(max-width: 225px) 100vw, 225px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/timingresults.jpg)When we finished Chicago in 2015, I had felt like I had to hold onto Mom the last mile or so, I was afraid she was going to pitch forward. Not this time! She was definitely stronger and it was so exciting! We crossed the line, and she immediately lurched towards the medical chairs next to the finish. She sat down while a volunteer brought us some water. She’d given her all, and beat her goal! Her time was **4:58:25, a 3 min PR and her first sub-5 marathon.**
+![Results from a marathon indicating a finish time of 4:58:25](/gothedistance/assets/images/timingresults.jpg)
+When we finished Chicago in 2015, I had felt like I had to hold onto Mom the last mile or so, I was afraid she was going to pitch forward. Not this time! She was definitely stronger and it was so exciting! We crossed the line, and she immediately lurched towards the medical chairs next to the finish. She sat down while a volunteer brought us some water. She’d given her all, and beat her goal! Her time was **4:58:25, a 3 min PR and her first sub-5 marathon.**
 
 &nbsp;
 
 It was so exciting to be there with her, as she repeated “I did it. I did it” a few times. She’d beaten a goal she’d set 8 years prior, and we all know how much of a difference age can make when it comes to fitness and athleticism.
 
-<div id="attachment_5253" style="width: 630px" class="wp-caption aligncenter">
-  <a href="http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/PRbell.jpg"><img aria-describedby="caption-attachment-5253" class="wp-image-5253 size-large" src="http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/PRbell-1024x869.jpg" alt="" width="620" height="526" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/PRbell-1024x869.jpg 1024w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/PRbell-300x255.jpg 300w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/PRbell-768x652.jpg 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/PRbell.jpg 1499w" sizes="(max-width: 620px) 100vw, 620px" /></a>
-  
-  <p id="caption-attachment-5253" class="wp-caption-text">
+![Smiling woman ringing a bell at the end of a race](/gothedistance/assets/images/PRbell.jpg)
     Ringing the PR Bell!
   </p>
 </div>
@@ -117,7 +115,7 @@ No surprise, she’s already talking about the next race she is going to do. She
 
 One option: she’s 68, so her Boston qualifying time for 2020 (when she’ll be 70) is 4:55:00. If you take out our 2 minute bathroom break, 4:56:25 isn’t TOO far off 4:55&#8230;. So I guess we’ll see if she decides to give that a whirl, or focus more on trail runs. I know she’s not a huge fan of the long training runs that marathons require. But maybe she’d consider just one or two more&#8230; 🙂
 
-[<img class="aligncenter size-large wp-image-5255" src="http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/finishers1-782x1024.jpg" alt="" width="620" height="812" srcset="http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/finishers1-782x1024.jpg 782w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/finishers1-229x300.jpg 229w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/finishers1-768x1006.jpg 768w, http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/finishers1.jpg 971w" sizes="(max-width: 620px) 100vw, 620px" />](http://www.afhill.com/gothedistance/wp-content/uploads/2018/02/finishers1.jpg)
+![Finishers](/gothedistance/assets/images/finishers1.jpg)
 
 As for me, it was good to get another long run in. Boston is coming up in a few weeks and I’ve definitely not got a lot of long distances under my belt. It’s funny, since running 3:29 at Jack and Jill in July, my 4 of marathons have been in the 4s, most closer to 5 hrs than 4. So I know my endurance (or at least “unwillingness to quit”) is there, but I’d like to lay more speed down.
 

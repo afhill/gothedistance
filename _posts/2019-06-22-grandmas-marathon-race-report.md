@@ -17,7 +17,7 @@ Sara and I had initially planned to fly to Minneapolis on the Thursday before th
 
 There was some major fomo when the group texts started rolling in on Thurs/Friday from the folks in Duluth, but soon enough I was on my way. There was a slight hiccup with our crew arriving late for the Duluth flight, but they assured us we’d get there “sometime this evening”…
 
-![A running book and a runners world magazine](grandmas-plane.png)
+![A running book and a runners world magazine](/gothedistance/assets/images/grandmas-plane.png)
 
 We did end up arriving in Duluth around our scheduled time, and I think I got into our hotel room close to 10:45. Sara had her alarm set for 3:45 for her bus to the start, but she’d laid out everything we each needed for the morning. ❤️
 
