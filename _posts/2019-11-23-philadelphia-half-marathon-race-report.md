@@ -5,6 +5,9 @@ author: Andrea Hill
   
 categories:
   - Race-Reports
+
+header:
+  teaser: /assets/images/2019-11-23-phillymedal.png
 ---
 
 After the Montreal marathon-turned-half, I really haven't had a lot of interest in training for (or running) another marathon. But when we decided to take a quick trip to Philly, the half distance piqued my interest. 
@@ -24,15 +27,15 @@ The race start was just over a mile from the Airbnb so we walked over. We though
 I was in the black corral, and was surprised how quickly we got up to pace. The road was nice and wide very quickly. 
 
 
-M1: 8:02
-M2: 7:47
-M3: 7:30
+M1: 8:02<br />
+M2: 7:47<br />
+M3: 7:30<br />
 
 I was feeling pretty great heading towards the waterfront - it was familiar from our running tour the day before. I glanced at my watch and realized I was a little quick, so I eased up a bit. I wanted to feel strong and comfortable throughout, if possible!
 
-M4: 7:41
-M5: 7:51
-M6: 7:48
+M4: 7:41<br />
+M5: 7:51<br />
+M6: 7:48<br />
 
 
 The first half of the course was so much fun! It was pretty scenic and I felt great. It was around this time that I ended up close to an Achilles runner. It was cool; there was the blind runner, his guide and then another assistant who ran slightly ahead and let people know a blind runner was coming up behind them.  
@@ -40,21 +43,21 @@ The first half of the course was so much fun! It was pretty scenic and I felt gr
 
 I had started at the back of my corral and eventually I ran into the 1:45 pace group. I knew I didn't want to stick with them (plus, I had started behind them and knew I was a good minute ahead of that finish time) so I sped up to pass them and kept on going! 
 
-M7: 7:38
-M8: 7:45
-M9: 7:40
+M7: 7:38<br />
+M8: 7:45<br />
+M9: 7:40<br />
 
 I won't lie, the second half of the course was tougher: less scenic, more remote and there were some little hills thrown in! But I felt like I still had plenty of gas in the tank (have I mentioned I'm a fan of this distance??)
 
-M10: 7:48
-M11: 7:48
-M12: 7:16
+M10: 7:48<br />
+M11: 7:48<br />
+M12: 7:16<br />
 
 Around this time I head the call "blind runner behind you!" - The Achilles athlete had caught up. I asked the guides the runners name, and then was happy to cheer "go Irwin" as he SPED by me on a downhill. "Great job - save some beer for the rest of us at the finish!"
 
 After a nice downhill on mile 12, mile 13 felt like a bit of a no man's land. I felt pretty depleted, but I knew I was close and kept gutting it out.
 
-M13: 7:38
+M13: 7:38<br />
 
 Oh! So, still well faster than my target eight-minute-mile! That's great to see afterwards, but at the time I felt pretty sluggish. 
 
@@ -78,12 +81,11 @@ And I did! Looking back at my Strava race analysis, I was very consistent throug
 
 ![Race analysis from Strava](/gothedistance/assets/images/2019-11-23-philly-race.png)
 
-5K: 24:12
-10K: 24:11
-15K: 23:42
-20K: 23:41
+5K: 24:12<br />
+10K: 24:11<br />
+15K: 23:42<br />
+20K: 23:41<br />
 
-:-)
 
 The half marathon was the day before the marathon, so there was still a lot going on at the Race Expo. We managed to clean ourselves up and head back to the Expo in time to meet the inspiring DES LINDEN!! 
 
