@@ -38,6 +38,10 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 repository: afhill/gothedistance
 
+#for generating responsive images, as per https://github.com/wildlyinaccurate/jekyll-responsive-image
+responsive_image:
+  template: _includes/srcset.html
+
 include:
   - _pages
 
@@ -63,6 +67,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-responsive-image
 
 author:
   name   : "Andrea Hill"
