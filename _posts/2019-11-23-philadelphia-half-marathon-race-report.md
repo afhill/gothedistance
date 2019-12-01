@@ -74,7 +74,9 @@ This was a really fun one - I felt like the training we did leading up to the ra
 
 And I did! Looking back at my Strava race analysis, I was very consistent throughout: 
 
-{% responsive_image path: assets/images/2019-11-23-philly-race.png alt: "Race analysis from Strava" %}
+
+
+![Race analysis from Strava](/gothedistance/assets/images/2019-11-23-philly-race.png)
 
 5K: 24:12
 10k: 24:11
@@ -85,9 +87,8 @@ And I did! Looking back at my Strava race analysis, I was very consistent throug
 
 The half marathon was the day before the marathon, so there was still a lot going on at the Race Expo. We managed to clean ourselves up and head back to the Expo in time to meet the inspiring DES LINDEN!! 
 
-{% responsive_image path: assets/images/2019-11-23-deslinden.png alt: "Three smiling women standing together, including this blog posts' author, her wife, and the winner of the 2018 Boston Marathon, Desiree Linden" %}
 
-
+![Three smiling women standing together, including this blog posts' author, her wife, and the winner of the 2018 Boston Marathon, Desiree Linden](/gothedistance/assets/images/2019-11-23-deslinden.png)
 
 
 Next up: we're headed off to Atlanta at the end of Feb to watch the USA Womens Olympic Marathon trials, and then run the half the next day. We're going to use the Hal Higdon plan again, but this time follow the entire 12 weeks. Looking forward to it! 

@@ -38,9 +38,6 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 repository: afhill/gothedistance
 
-#for generating responsive images, as per https://github.com/wildlyinaccurate/jekyll-responsive-image
-responsive_image:
-  template: _includes/srcset.html
 
 include:
   - _pages
@@ -67,7 +64,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-responsive-image
+#  - jekyll-responsive-image
 
 author:
   name   : "Andrea Hill"
@@ -95,6 +92,11 @@ footer:
     - label: "Strava"
       icon: "fab fa-fw fa-strava"
       url: "https://www.strava.com/athletes/2544248"
+
+#for generating responsive images, as per https://github.com/wildlyinaccurate/jekyll-responsive-image
+#responsive_image:
+#  template: _includes/srcset.html
+
 
 defaults:
   # _posts
