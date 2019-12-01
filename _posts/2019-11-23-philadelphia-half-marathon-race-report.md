@@ -79,7 +79,7 @@ And I did! Looking back at my Strava race analysis, I was very consistent throug
 ![Race analysis from Strava](/gothedistance/assets/images/2019-11-23-philly-race.png)
 
 5K: 24:12
-10k: 24:11
+10K: 24:11
 15K: 23:42
 20K: 23:41
 
